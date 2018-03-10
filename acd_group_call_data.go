@@ -27,6 +27,7 @@ type AcdGroupServ struct {
 	ExtensionAutomaticExtendingRequiredForQueuedCalls     bool `json:"extensionAutomaticExtendingRequiredForQueuedCalls"`
 }
 
+// AcdGroupSel - Selection Category
 type AcdGroupSel struct {
 	// Member Selection Order. Whether searching for a free member in the group should be undertaken in
 	// the order in which the group members were initiated into the ACD group or according to the group
