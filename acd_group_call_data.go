@@ -7,72 +7,7 @@ import (
 	"strings"
 )
 
-// AcdGroupServ - The parameter states whether direct indialling traffic is permitted/not permitted to the
-// group number, whether the A-party will be charged or not on answer and if request of A-number will be
-// done or not (only for Swiss MFC DID-trunks), the selection of music-on-wait option, and if the ACD
-// group is classified as a CTI group and if the ACD group is permitted to accept collect calls (Brazil)
-// and if automatic extending to ACD group queues is permitted or not.
-type AcdGroupServ struct {
-	DirectIndialingTraffic                                bool `json:"directIndialingTraffic"`
-	ASubscriberWillNotBeChargedAndNoANumberRequested      bool `json:"aSubscriberWillNotBeChargedAndNoANumberRequested"`
-	ASubscriberWillBeChargedAtAnswer                      bool `json:"aSubscriberWillBeChargedAtAnswer"`
-	ANumberInformationIsRequestedToBeDisplayedAtTheBParty bool `json:"aNumberInformationIsRequestedToBeDisplayedAtTheBParty"`
-	MusicOnWait                                           bool `json:"musicOnWait"`
-	MusicOnWaitOnlyForRecordedAnnouncement                bool `json:"musicOnWaitOnlyForRecordedAnnouncement"`
-	MusicOnWaitOnlyForCallsThatReenterQueue               bool `json:"musicOnWaitOnlyForCallsThatReenterQueue"`
-	CTIGroupDisplaySelectedMember                         bool `json:"ctiGroupDisplaySelectedMember"`
-	CTIGroupDisplayGroupName                              bool `json:"ctiGroupDisplayGroupName"`
-	AllowCollectCall                                      bool `json:"allowCollectCall"`
-	ExtensionAutomaticExtendingPermittedForQueuedCalls    bool `json:"extensionAutomaticExtendingPermittedForQueuedCalls"`
-	ExtensionAutomaticExtendingRequiredForQueuedCalls     bool `json:"extensionAutomaticExtendingRequiredForQueuedCalls"`
-}
-
-// AcdGroupSel - Selection Category
-type AcdGroupSel struct {
-	// Member Selection Order. Whether searching for a free member in the group should be undertaken in
-	// the order in which the group members were initiated into the ACD group or according to the group
-	// member who has been free for the longest time.
-	SequentialSearching              bool `json:"sequentialSearching"`
-	SequentialSearchingToFreeMembers bool `json:"sequentialSearchingToFreeMembers"`
-
-	// Internal Queuing. Whether internal calls towards the ACD group should be queued or not.
-	QueueInternalCallsTowardsTheGroup bool `json:"queueInternalCallsTowardsTheGroup"`
-
-	// Overflow. Whether calls towards the ACD group are permitted or not permitted to be diverted.
-	OverflowPermittedNoAvailableMembersOrFull bool `json:"overflowPermittedNoAvailableMembersOrFull"`
-	OverflowPermittedWhenFull                 bool `json:"overflowPermittedWhenFull"`
-	OverflowNotPermitted                      bool `json:"overflowNotPermitted"`
-
-	// External Overflow/Follow Me. Maximum number of simultaneous calls, which are overflowed to an external
-	// destination. Overflow occurs either when there are no queue positions or when all members of the
-	// ACD group are unavailable or at both of those conditions.
-	MaxNumberOfOverflowsToExternalDestination string `json:"maxNumberOfOverflowsToExternalDestination"`
-}
-
-// AcdGroupQue - Queue handling
-type AcdGroupQue struct {
-	// Whether dynamic queue shall be used or not. At dynamic queue, the queue length will vary depending
-	// on number of available group members for the ACD group. It can never be less than the minimum queue length
-	// or higher than the maximum queue length.
-	DynamicQueue bool `json:"dynamicQueue"`
-
-	// Minimum queue length. Minimum number of delayed calls which can be queued towards an ACD group (used at
-	// dynamic queue).
-	MinimumQueueLength string `json:"minimumQueueLength"`
-
-	// Maximum queue length. Maximum number of delayed calls which can be queued towards an ACD group.
-	MaximumQueueLength string `json:"maximumQueueLength"`
-
-	// Queue constant. The constant is used at dynamic queue to calculate a current queue length, it will
-	// alter depending on number of available group members within the ACD group. The value of the constant
-	// divided by 10 states the number of queue spaces the current queue length alters.
-	QueueConstant string `json:"queueConstant"`
-
-	// Common queue or selection priority. The ACD group's priority. The lower value that is assigned the
-	// higher priority.
-	CommonQueueSelectionPriority string `json:"commonQueueSelectionPriority"`
-}
-
+// AcdGroupCallData - Automatic Call Distribution Group Category
 type AcdGroupCallData struct {
 	Group   string `json:"group"`
 	Lim     string `json:"lim"`
