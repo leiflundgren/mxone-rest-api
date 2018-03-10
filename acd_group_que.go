@@ -1,5 +1,9 @@
 package main
 
+import (
+	"fmt"
+)
+
 // AcdGroupQue - Queue handling
 type AcdGroupQue struct {
 	// Whether dynamic queue shall be used or not. At dynamic queue, the queue length will vary depending
@@ -22,4 +26,25 @@ type AcdGroupQue struct {
 	// Common queue or selection priority. The ACD group's priority. The lower value that is assigned the
 	// higher priority.
 	CommonQueueSelectionPriority string `json:"commonQueueSelectionPriority"`
+}
+
+func CreateNewAcdGroupQue(data string) AcdGroupQue {
+
+	var result AcdGroupQue
+
+	runes := []rune(data)
+
+	fmt.Println(data)
+
+	result.DynamicQueue = false
+	if string(runes[0:0]) == "1" {
+		result.DynamicQueue = true
+	}
+
+	result.MinimumQueueLength = string(runes[1:4])
+	result.MaximumQueueLength = string(runes[4:7])
+	result.QueueConstant = string(runes[7:9])
+	result.CommonQueueSelectionPriority = string(runes[9:11])
+
+	return result
 }

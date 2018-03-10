@@ -114,6 +114,8 @@ func (acdGroup *AcdGroupCallData) parse(byteArray []byte) []AcdGroupCallData {
 			actc = strings.TrimSpace(actc)
 		}
 
+		queStruct := CreateNewAcdGroupQue(que)
+
 		acdGroupEntry := AcdGroupCallData{
 			Group:   grp,
 			Lim:     lim,
@@ -121,6 +123,7 @@ func (acdGroup *AcdGroupCallData) parse(byteArray []byte) []AcdGroupCallData {
 			Traf:    traf,
 			selRaw:  sel,
 			queRaw:  que,
+			Que:     queStruct,
 			Cust:    cust,
 			Sat:     sat,
 			Tpcs:    tpcs,
