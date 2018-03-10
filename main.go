@@ -7,7 +7,7 @@ import (
 
 func main() {
 	asd := NumberConversionEntry{}
-	lol := asd.Get()
+	lol := asd.ReadFromFile()
 
 	brap, err := json.MarshalIndent(lol, "", "    ")
 	if err != nil {

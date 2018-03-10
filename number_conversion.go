@@ -48,8 +48,14 @@ const (
 	internalDirectoryContinue             = 12
 )
 
-func (numberConversion *NumberConversionEntry) Get() []NumberConversionEntry {
-	return numberConversion.readFromFile()
+// ReadFromFile Allows reading from a PC-Regen file or other data dump
+func (numberConversion *NumberConversionEntry) ReadFromFile() []NumberConversionEntry {
+	byteArray, err := ioutil.ReadFile("number_conversion_print")
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	return numberConversion.parse(byteArray)
 }
 
 func (numberConversion *NumberConversionEntry) parse(byteArray []byte) []NumberConversionEntry {
@@ -124,15 +130,6 @@ func (numberConversion *NumberConversionEntry) parse(byteArray []byte) []NumberC
 	}
 
 	return result
-}
-
-func (numberConversion *NumberConversionEntry) readFromFile() []NumberConversionEntry {
-	byteArray, err := ioutil.ReadFile("number_conversion_print")
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	return numberConversion.parse(byteArray)
 }
 
 func (numberConversion *NumberConversionEntry) execAndParse() {
