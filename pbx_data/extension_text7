@@ -1,0 +1,168 @@
+
+Extension Text String
+
+Language: Dansk               
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Optaget                
+BSY2      Linie opt.             
+BSY3      Fejl                   
+BSY4      Fejl                   
+BSY5      Fejl                   
+BSY6      Linie opt.             
+BSY9      Fejl                   
+BSY11     Fejl                   
+BSY14     Linie opt.             
+BSY19     Ikke udført            
+BSY20     Kan ikke nås           
+CAL1      Ringer                 
+CAL2      Fejl                   
+CAL3      Accepteret             
+CAL4      Accepteret             
+CAL5      Søger...               
+CAL6      Kald i kø              
+CAL7      Kald i kø              
+CAL8      Søger...               
+CAL9      Ringer                 
+CAL10     Ringer                 
+CAL20     Kald i kø              
+CAL21     Kald i kø              
+CAL23     Kald i kø              
+CAL28     Accepteret             
+CAL34     Ringer                 
+CNF1      Konf leder             
+CNF2      Konf medlem            
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV5      Picked up              
+DIV6      Gruppe kald            
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Ekstern                
+EXT2      Forenet                
+ICS0      Frokost                TIME          
+ICS1      Gået idag              DATE          
+ICS2      Ude                    TIME          
+ICS3      Møde                   TIME          
+ICS4      Rejse                  DATE          
+ICS5      Deltid                 TIME          
+ICS6      Ferie                  DATE          
+ICS7      Fri idag               DATE          
+ICS8      Snart-tilb             TIME          
+ICS9      Syg                    
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Prfil                  
+MIS6      ToneSenderPå           
+MIS7      Prøv senere            
+MIS8      >                      
+MIS9      Fangn.Fejlet           
+MIS10     Fangn.Udført           
+MIS11     Hemm. A-nr.            
+MIS12     TastKontKode           
+MIS13     TastAutoKode           
+MIS14     Beløb i:               
+MIS15     Tast PINKode           
+MIS16     Ordre Udført           
+MIS17     Indtast CQ             
+MIS18     TastFl.Cifre           
+MIS19     Gratis                 
+MIS20     EjDebitInfo            
+MIS21     Ej nummer              
+MIS22     Gemt nr                
+MIS23     Slut pø log            
+MIS25     Dansk                  
+MON1      Jan                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Apr                    
+MON5      Maj                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Okt                    
+MON11     Nov                    
+MON12     Dec                    
+NOP1      Time out               
+NOP2      Spærret                
+NOP3      Time out               
+NOP4      Time out               
+NOP5      Time out               
+NOP6      Spærret                
+NOP7      Nr.EjTilladt           
+NOP8      Nr. blokeret           
+NOP9      Nr.eksist.ej           
+NOP10     OPI fravær             
+NOP11     Lagt på                
+NOP12     Udført                 
+NOP13     Fejl                   
+NOP14     Ikke progr.            
+NOP15     Alle fravfr.           
+NOP16     Ej medlem              
+NOP17     Spærret                
+NOP18     Ej vent.kald           
+NOP19     Fraværende             
+NOP20     Ej udført              
+NOP21     Spærret                
+NOP22     Max nummer             
+NOP23     Faultm.Ringb           
+NOP24     OPI.lagt på            
+NOP25     Fork. format           
+NOP26     OPI fravær             
+NOP28     Ej udført              
+NOP29     Alarm st               
+NOP31     Inkompatibel           
+NOP33     Timeout                
+NOP34     Spærret                
+NOP35     Optaget                
+NOP38     Blokeret               
+NOP40     Lagt på                
+NOP41     Fork. format           
+NOP42     Tjen. ukendt           
+NOP43     Inkompatibel           
+NOP44     Ej udført              
+NOP46     Acc.KodeSpm.           
+NOP47     Forkert                
+NOP50     Spærret                
+NOP52     Låst                   
+NOP53     Åben                   
+NOP54     Ej låst                
+NOP55     Ej åben                
+NOP56     Ej forstyr.            
+NOP57     Spærret                
+NOP58     Spærret                
+NOP59     Spærret                
+NOP60     Optaget                
+NOP65     Udført                 
+NOP66     Ej udført              
+NOP69     Optaget                
+NOP72     Spærret                
+NOP74     Ej udført              
+NOP75     Ej tilgang             
+NOP76     Fraværende             
+NOP77     Alr.Åben               
+NOP78     Fraværende             
+NOP79     Alr.låst               
+NOP93     Fraværende             
+NOP99     Syst.blok              
+PRK0      3 på hold              
+PRK1      2 på hold              
+PRK2      1 på hold              
+PRK3      AndenOnHold            
+PRK4      L2 parkeret            
+PRK5      L1 parkeret            
+REG5      Kode OK                
+REG7      Fork.AccKode           
+REG10     Kode OK                
+REG14     BeskedVenter           
+REG15     BeskedVenter           
+REG16     BeskedVenter           
+REG17     BeskedVenter           
+REG18     Tast ext nr            
+REG19     Viderestil             
+

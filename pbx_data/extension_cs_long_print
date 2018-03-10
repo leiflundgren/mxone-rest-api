@@ -1,0 +1,416 @@
+
+Extension Text String
+
+Language: Cestina             
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Vyber Profil           
+ABS1      Presmerovano na        
+ABS2      Presmerovani           
+ABS3      Duvod nepritomnosti    
+ABS4      Externi presmerovani   
+ABS5      Nerusit                
+ABS6      Presmer. pri nezveda   
+ABS7      Presmer.pro obsazeno   
+ABS8      Aktivni                
+ABS9      Neaktivni              
+ABS10     Zadny profil           
+ABS11     Vyber                  
+BSY1      Obsazeno               
+BSY2      Linka obszena          
+BSY3      Zpet.volani chybne     
+BSY4      Cekani chybne          
+BSY5      Napojeni chybne        
+BSY6      Levne linky obsazene   
+BSY9      Zpet.volani chybne     
+BSY11     Napojeni chybne        
+BSY14     Linka obsazena         
+BSY19     Neprijato              
+BSY20     Nedosazitelny...       
+CAL1      Volam.....             
+CAL2      Zpet.volani chybne     
+CAL3      Cekani prijato         
+CAL4      Cekani prijato         
+CAL5      Hledani probiha.....   
+CAL6      Hovor ve fronte        
+CAL7      Hovor ve fronte        
+CAL8      Hledani ve fronte      
+CAL9      Volam.....             
+CAL10     Volam.....             
+CAL20     Hovor ve fronte        
+CAL21     Hovor ve fronte        
+CAL23     Hovor ve fronte        
+CAL28     Cekani prijato         
+CAL34     Volam.....             
+CNF1      Ved.konfer             
+CNF2      Clen konf.             
+CNF3      Ved.konference         
+CNF4      Clen konference        
+CNF5      Clen  s                
+DIR1      Nenalezeno !           
+DIR2      Zacatek seznamu        
+DIR3      Konec seznamu          
+DIR4      Prazdny seznam !       
+DIV1       >Primo                
+DIV2       >Obsazeno             
+DIV3       >Nezveda              
+DIV4       >Presmer.             
+DIV5       Prevzeti              
+DIV6       Skupina               
+DIV7       >Externi              
+DIV10      Redirect              
+DIV11      Redirect              
+DIV12      Redirect              
+DIV13      DNIS hovor            
+EXT1      Extrni                 
+EXT2      Firemni                
+FCN0      AccLine, typ zvon.:    
+FCN1      AddLine, typ zvon.:    
+FCN2      MultLine, typ zvon.:   
+FCN3      Tlacitko MENU          
+FCN4      Funkcni tlac.1         
+FCN5      Funkcni tlac.2         
+FCN6      Volba  ,1-20 cisel :   
+FCN8      Opakovani ext.volani   
+FCN9      Funkcni tlac.3         
+FCN10     Funkcni tlac.4         
+FCN11     Mod aut. prihlaseni    
+FCN12     Volno pro 2. hovor     
+FCN13     Tl. zpetneho volani    
+FCN14     Presmerovani hovoru    
+FCN16     Prevzeti / Pridrzeni   
+FCN17     Tlacitko cekani        
+FCN18     Tlacitko konference    
+FCN19     Tlacitko napojeni      
+FCN20     Tlacitko hledani       
+FCN21     Tlacitko zmeskane      
+FCN22     Tlac.cekajici zpravy   
+FCN23     Tlac.programo.         
+FCN24     Zachyceni volani       
+FCN26     Tacitko Nerusit        
+FCN27     Manual message wait.   
+FCN28     Clerical time key      
+FCN29     MultName, typ.zvon.:   
+FCN30     Data Directory No.     
+FCN31     DataKey,1-20 digits:   
+FCN32     Tlac. mistniho modu    
+FCN33     Redirection key        
+FCN34     Tlac. predani          
+FCN35     Personal. Profil       
+FCN37     Tlacitko predani       
+FCN41     Osobni Cislo           
+ICS0       Obed                  TIME          
+ICS1       Obsazeno              DATE          
+ICS2       Mimo                  TIME          
+ICS3       Schuzka               TIME          
+ICS4       Vylet                 DATE          
+ICS5       Skoleni               TIME          
+ICS6        Volno                DATE          
+ICS7       Volno                 DATE          
+ICS8       Doma                  TIME          
+ICS9       Nemoc                 
+ICS10     * volba                
+IDL2      Presmer.               
+IDL3      Presmer.               
+IDL4      Nerusit !              
+IDL5      Externi presmerovani   
+IDL6      Vsechny ext.lin. obs   
+IDL7      Presmer.               
+IDL8      Presmer na  pager      
+IDL9      Nerusit                
+IDL10     Cekajici zprava !      
+IDL11     Manual message wait.   
+IDL13     Presmerovano na ISDN   
+IDL14     Linky obsazeny         
+IDL15     Profil                 
+MIS1      Cas neni nastaven !    
+MIS2      Pridrzeno.             
+MIS4                Typ zvon.:   
+MIS6      Ton. volba zapnuta     
+MIS7      System obsazen !       
+MIS8      Externi presmerovani   
+MIS9      Call tracing selhalo   
+MIS10     Call tracing prijato   
+MIS11     Neznamy                
+MIS12     Zadej account code!    
+MIS13     Zadej autoriz.kod !    
+MIS14     Uctovano!              
+MIS15     Zadej ACD PIN kod !    
+MIS16     Pozadavek prijat       
+MIS17     Vloz  CQ-kod !         
+MIS18     CQ-code neuplny !      
+MIS19     Bezplatny              
+MIS20     Cena neznama !         
+MIS21     Zadne hovory           
+MIS22     Nova zmeskana vol.:    
+MIS23     Konec seznamu          
+MIS24     Vloz Freeseat. c. !    
+MIS25     Neprijate              
+MIS26     Prichozi               
+MIS27     Odchozi                
+MIS28     Novy hovor             
+MIS29     Vloz cislo :           
+MIS30     Cas navratu (HHMM):    
+MIS31     Dat.navratu (DDMM):    
+MIS32     Dat.navratu (MMDD):    
+MIS33     Vloz externi cislo:    
+MIS34     Zadne Jmeno            
+MIS35     Tisnova volani         
+MON1      Led                    
+MON2      Uno                    
+MON3      Bre                    
+MON4      Dub                    
+MON5      Kve                    
+MON6      Cen                    
+MON7      Cec                    
+MON8      Srp                    
+MON9      Zar                    
+MON10     Rij                    
+MON11     Lis                    
+MON12     Pro                    
+NOP1      Vycasovano !           
+NOP2      Pretizeno !            
+NOP3      Vycasovano !           
+NOP4      Vycasovano !           
+NOP5      Vycasovano !           
+NOP6      Pretizeno !            
+NOP7      Nepovoleno !           
+NOP8      Linka blokovana !      
+NOP9      Volne cislo !          
+NOP10     Spojovatelka neni      
+NOP11     Zaveseno               
+NOP12     Prijato                
+NOP13     Chybne!                
+NOP14     Cislo neni progr.      
+NOP15     Clenova nepritomni!    
+NOP16     Skupina prazdna !      
+NOP17     Pretizeno !            
+NOP18     Hovor neceka !         
+NOP19     Nepritomen!            
+NOP20     Hledani odmitnuto      
+NOP21     cislo zakazano         
+NOP22     Alarm centr.obsaz.     
+NOP23     Faultman's ringback    
+NOP24     Operator zavesil       
+NOP25     Chybny format          
+NOP26     Spojov. neni/nocni p   
+NOP28     Neprijato !            
+NOP29     Nouzovy provoz !       
+NOP31     Nekompatibilni!        
+NOP33     Vycasovano             
+NOP34     Pretizeno !            
+NOP35     Obsazeno..             
+NOP38     Blokovano              
+NOP40     Zaveseno               
+NOP41     Chybny format          
+NOP42     Chybny format          
+NOP43     Nekompatibilni!        
+NOP44     Nepovoleno !           
+NOP46     Vloz  account kod !    
+NOP47     Vloz autorizacni kod   
+NOP50     Pretizeno !            
+NOP52     Pobocka zamknuta!      
+NOP53     Pobocka odemknuta !    
+NOP54     Chybne zamnknuti       
+NOP55     Chybne odemknuti!      
+NOP56     Nerusit !              
+NOP57     Neprijato !            
+NOP58     Pretizeno !            
+NOP59     Neprijato !            
+NOP60     Obsazeno..             
+NOP65     Sledovani hovoru       
+NOP66     Sledovani neprijato    
+NOP69     Obsazeno..             
+NOP72     Neprijato !            
+NOP74     Neprijato !            
+NOP75     Nedostupne !           
+NOP76     Nyni nedostupne !      
+NOP77     Pobocka neuzamknuta    
+NOP78     Nepritomen             
+NOP79     Uz zamknuto !          
+NOP89     CAC-CONGESTION!        
+NOP93     Nedostupne !           
+PRK0      InqOnHold              
+PRK1      A2 on hold             
+PRK2      A1 on hold             
+PRK3      On hold                
+PRK4      Line2 on hold          
+PRK5      Line 1 on hold         
+REG5      Kod Uctu OK            
+REG7      Kod Uctu neplatny      
+REG10     Autorizacni kod OK     
+REG14     ManualMessageWaiting   
+REG15     Cekajici zprava!       
+REG16     Cekajici zprava!       
+REG17     Cekajici zprava!       
+REG18     Pristup.kod + cislo:   
+REG19     Externi presmerovani   
+SKG0      Ucet                   
+SKG1      Autorit.               
+SKG2      Zpet                   
+SKG3      Volat                  
+SKG4      Zpet.vol.              
+SKG5      Volat Pager            
+SKG6      Prevzeti               
+SKG7      Cekani                 
+SKG8      Uvolnit                
+SKG9      Spol.pridrz.           
+SKG10     Konference             
+SKG11     Spojeni                
+SKG12     Cena                   
+SKG13     Smazat                 
+SKG14     ViceInfo               
+SKG15     Dolu                   
+SKG16     Nerusit                
+SKG17     Zadat                  
+SKG18     Opustit                
+SKG19     Najit                  
+SKG20     NasilnyRel             
+SKG21     Skup.prevz.            
+SKG22     Skryt menu             
+SKG23     Napojeni               
+SKG24     Zamek                  
+SKG25     Pripojit               
+SKG26     Odpojit                
+SKG27     vice...                
+SKG28     Dale                   
+SKG29     Otevrit                
+SKG30     Seznam                 
+SKG31     Qualify                
+SKG32     Fronta                 
+SKG33     Redial                 
+SKG34     Navrat                 
+SKG35     Zobraz data            
+SKG36     Zobraz menu            
+SKG37     Zobraz cas             
+SKG38     Mezera                 
+SKG39     Start                  
+SKG40     Stop                   
+SKG41     Stopky                 
+SKG42     Tony                   
+SKG43     TraceMalC              
+SKG44     Nahoru                 
+SKG45     Vypis volani           
+SKG46     Zmeskane               
+SKG47     Vyberte                
+SKG48     Program                
+SKG49     Predani                
+SKG50     Konf/Predan.           
+SKG51     PridatClena            
+SKG52     Zapnout                
+SKG53     Vypnout                
+SKG54     Nepritomnost           
+SKG55     Nepresmer.             
+SKG56     Zrus nerusit           
+SKG57     Detail                 
+SKG58     Nastaveni              
+SKG59     Ulozit                 
+SKG60     Ano                    
+SKG61     Ne                     
+SKG62     Pokracovat             
+SKG63     Presmer.               
+SKG64     Pritomn.               
+SKG65     Presmer.               
+SKG66     Externi Presmer.       
+SKG67     Ext. Presmer.          
+SKG68     Divert                 
+SKG69     Nerusit                
+SKG70     Diverted               
+SKG71     Diverted               
+SKG72     Diversion              
+SKG73     VoiceMail              
+SKG74     Chybne heslo           
+SKG75     Zvolit cas  (HHMM):    
+SKG76     Zvol. cas (HHMM)       
+SKG77     Zvolit datum(DDMM):    
+SKG78     Zvol.datum(DDMM)       
+SKG79     Zvolit datum(MMDD):    
+SKG80     Zvol.datum(MMDD)       
+SKG81     Nenalezen              
+SKG82     Vloz cislo             
+SKG83     Vloz cislo             
+SKG84     Chybny tvar            
+SKG85     Sluzba bezi            
+SKG86     Sluzba bezi            
+SKG87     Sluzba chybna          
+SKG88     Sluzba chybna          
+SKG89     No time/date format    
+SKG90     Volejte syst. admin.   
+SKG91     Sluzba                 
+SKG92     Nenastaveny pristr.    
+SKG93     Uziv:                  
+SKG94     Heslo:                 
+SKG95     TempUser               
+SKG96     Temporary User         
+SKG97     Feature is not available
+SKI0      Odem Proj Auto  Cas    
+SKI1      Zamk Proj Auto  Cas    
+SKI2      AZV  Page       Cas    
+SKI3      AZV  CWait Prev Nap    
+SKI4      TonV  Proj Cena Cas    
+SKI5      TonV  Proj Konf Cas    
+SKI6      Smaz  Odstr    Vloz    
+SKI7                     Vol.    
+SKI8      Opak. Proj Prev Case   
+SKI10                    Pokr.   
+SKI11                     Cena   
+SKI12                     Proj   
+SKI14     Zamk Proj Auto  Kval   
+SKI15     Zamk Fron Auto  Cas    
+SKI16     TonV  Proj Cena Kval   
+SKI17     TonV  Proj Konf Kval   
+SKI20     Odem Nerus Auto Cas    
+SKI21     Zamk Nerus Auto Cas    
+SKI23     AVZ  CWait CUp  Cas    
+SKI24     TonV Zach Cena  Cas    
+SKI25     TonV Zach Konf  Cas    
+SKI28     Opak Nerus Prev Cas    
+SKI30     Dale Odstr Vol Konec   
+SKI31     Dale:+       Odstr:-   
+SKI32     Konec:C                
+SKI33     Zpet:1                 
+SKI36     TonV Zach Cena Kval    
+SKI37     TonV Zach Konf Kval    
+SKI40     Smaz Mez  Ukaz Konec   
+SKI41      ^    v   Vol.  Zpet   
+SKI42     Odem Proj Auto Sezn    
+SKI43     Zamk Proj Auto Sezn    
+SKI44     Opak Proj Pick Sezn    
+SKI45     Zamk Fron Auto Sezn    
+SKI46     Odem Neru Auto Sezn    
+SKI47     Zamk Neru Auto Sezn    
+SKI48     Opak Neru Pick Sezn    
+TIM1      Stop Nula Dat  Konec   
+TIM2      Start Nula Dat Konec   
+TIM3      Stop  Nula Cas Konec   
+TIM4      Start Nula Cas Konec   
+TOP0      Program                
+TOP1      Programovani tlacit.   
+TOP10     Nastaveni pristroje    
+TOP11     Kontrast displeje      
+TOP12     Nastaveni melodie      
+TOP13     Verze firmware         
+TOP14     Nastaveni sluchatek    
+TOP15     Test telefonu          
+TOP16     Nastav. option unit    
+TOP17     Nastaveni hlasitosti   
+TOP20     Seznam hovoru          
+TOP21     Vsechna volani         
+TOP22     Zmeskana volani        
+TOP23     Odchozi volani         
+TOP24     Prichozi volani        
+TOP40     Telef. seznam          
+TOP41     Spolecny tel. seznam   
+TOP50     Zpravy                 
+TOP51     Cekajici zprava        
+TOP52     Voice mail:            
+VSU1      Pripraveno!            
+VSU2      Prehravani..           
+VSU3      Zaznam..   .           
+VSU4      Prekroceni casu        
+VSU5      Chybny format !        
+VSU6      Odmitnuto!             
+VSU7      Prekroc.casu zpravy    
+VSU8      Zprava nezaznamen.     
+VSU9      Pamet plna !           
+

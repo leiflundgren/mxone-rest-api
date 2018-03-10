@@ -1,0 +1,174 @@
+
+Extension Text String
+
+Language: Nederlands          
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Tsl. Bezet             
+BSY2      Route Bezet            
+BSY3      CAB Mislukt            
+BSY4      CAW Mislukt            
+BSY5      INT Mislukt            
+BSY6      LCR Bezet              
+BSY9      CAB Mislukt            
+BSY11     INT Mislukt            
+BSY14     Netl. Bezet            
+BSY19     Netl. Bezet            
+BSY20     OnBereikbaar           
+CAL1      Toestel Belt           
+CAL2      CAB Mislukt            
+CAL3      CAW Actief             
+CAL4      CAW Actief             
+CAL5      PAG Actief             
+CAL6      In Wachtrij            
+CAL7      In Wachtrij            
+CAL8      In Wachtrij            
+CAL9      Toestel Belt           
+CAL10     Toestel Belt           
+CAL20     In Wachtrij            
+CAL21     In Wachtrij            
+CAL23     In Wachtrij            
+CAL28     CAW Actief             
+CAL34     Toestel Belt           
+CNF1      Conf. Ldr              
+CNF2      Conf.Deelnr            
+CNF3      Verbonden              
+DIV1      Div. Direct            
+DIV2      Div. Bezet             
+DIV3      Div. B.G.G.            
+DIV4      Follow-Me              
+DIV5      Pick-Up                
+DIV6      Groep                  
+DIV7      Div. Extern            
+DIV10     Doorgezet              
+DIV11     Doorgezet              
+DIV12     Doorgezet              
+EXT1      Netlijn                
+EXT2      Verb. Lijn             
+ICS0      Lunch                  TIME          
+ICS1      Kort Afw.              DATE          
+ICS2      Lang Afw.              TIME          
+ICS3      Vergader.              TIME          
+ICS4      Op Reis                DATE          
+ICS5      Cursus                 TIME          
+ICS6      Vakantie               DATE          
+ICS7      Vrije Dag              DATE          
+ICS8      Afwezig                TIME          
+ICS9      Ziek                   
+ICS10      * = Kies              
+IDL2      Doorgezet:             
+IDL3      Volgstand:             
+IDL4      Niet Storen!           
+IDL5      Ext.FM                 
+IDL15     Profiel:               
+MIS6      Toon Zender:           
+MIS7      Niet Mogelyk           
+MIS8      Externe FM.            
+MIS9      Afgewezen              
+MIS10     Uitgevoerd             
+MIS11     Geheim Nr.             
+MIS12     ACC Code ??            
+MIS13     AUTH Code ??           
+MIS14     Kosten:                
+MIS15     PIN Code ??            
+MIS16     Aangevraagd            
+MIS17     CQ Code ??             
+MIS18     Geef Cijfers           
+MIS19     Gratis                 
+MIS20     Is er niet             
+MIS21     Geen Nummers           
+MIS22     Opgesl. Nr.            
+MIS23     End Van NLOG           
+MIS25     Dutch                  
+MIS34     Geen Naam              
+MON1      jan                    
+MON2      feb                    
+MON3      mrt                    
+MON4      apr                    
+MON5      mei                    
+MON6      jun                    
+MON7      jul                    
+MON8      aug                    
+MON9      sep                    
+MON10     okt                    
+MON11     nov                    
+MON12     dec                    
+NOP1      Geen Gehoor            
+NOP2      Stagnatie              
+NOP3      Geen Gehoor            
+NOP4      Geen Gehoor            
+NOP5      Stagnatie              
+NOP6      Route Bezet            
+NOP7      Niet Toegest           
+NOP8      Geblokkeerd            
+NOP9      Vacant Nr.             
+NOP10     Bedien. Afw.           
+NOP11     Verbroken.             
+NOP12     Uitgevoerd             
+NOP13     Mislukt                
+NOP14     Geen Nummer            
+NOP15     Geen Deeln.            
+NOP16     Geen Gesprek           
+NOP17     Wachtrij Vol           
+NOP18     Geen Gesprek           
+NOP19     Pag. Afwezig           
+NOP20     Pag. Mislukt           
+NOP21     Mag Niet               
+NOP22     AlarmNrBezet           
+NOP23     Heroproep              
+NOP24     Bed.LegtNeer           
+NOP25     Fout Formaat           
+NOP26     OPI Afwezig            
+NOP28     Afgewezen              
+NOP29     Noodbedrijf!           
+NOP31     Mag Niet               
+NOP33     Stagnatie              
+NOP34     Route Bezet            
+NOP35     Bezet                  
+NOP38     Geblokkeerd            
+NOP40     Verbroken              
+NOP41     Fout Formaat           
+NOP42     Onbekend Fac           
+NOP43     Data Oproep            
+NOP44     Niet Uitgev.           
+NOP46     ACC Code ??            
+NOP47     CodeOngeldig           
+NOP50     Wachtrij Vol           
+NOP52     Geblokkeerd            
+NOP53     Deblokkeerd            
+NOP54     Mislukt                
+NOP55     Mislukt                
+NOP56     Niet Storen!           
+NOP57     Geblokkeerd            
+NOP58     Congestie              
+NOP59     Geblokkeerd            
+NOP60     Bezet                  
+NOP65     Toegestaan             
+NOP66     Afgewezen              
+NOP69     Tsl. Bezet             
+NOP72     Afgewezen              
+NOP74     Niet uitgev.           
+NOP75     Niet Beschik           
+NOP76     Niet Beschik           
+NOP77     Beschikbaar            
+NOP78     Afwezig                
+NOP79     Reeds Geblok           
+NOP89     CAC Congest.           
+NOP93     Niet Beschik           
+NOP99     Geen Toegang           
+PRK0      L3 Wachtende           
+PRK1      L2 Wachtende           
+PRK2      L1 Wachtende           
+PRK3      L1 Wachtende           
+PRK4      L2 Wachtende           
+PRK5      L1 Wachtende           
+REG5      Code Geldig            
+REG7      CodeOngeldig           
+REG10     Code Geldig            
+REG14     Mes. Waiting           
+REG15     Mes. Waiting           
+REG16     Mes. Waiting           
+REG17     Mes. Waiting           
+REG18     Geef Ext. Nr           
+REG19     Externe FM.            
+

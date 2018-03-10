@@ -1,0 +1,259 @@
+Condition codes as defined in LIM=1
+Code Seg Pos  CC1  CC2  CC3 CCcustomDefined
+   0   0   0                   
+   1   0   1    A   A   A   A
+   2   0   2                   
+   3   0   3                   
+   4   0   4                FOC
+   5   0   5    G   G   G   G
+   6   0   6    H   H   H   H
+   7   0   7    I   I   I   I
+   8   0   8    J   J   J   J
+   9   0   9    L   L   L   L
+  10   0  10                   
+  11   0  11                   
+  12   0  12                   
+  13   0  13    R   R   R   R
+  14   0  14    V   V   V   V
+  15   0  15    T   T   T   T
+  16   0  16    Y   Y   Y   Y
+  17   0  17    X   X   X   X
+  18   0  18        N   N   N
+  19   0  19    M   M   M   M
+  20   0  20    Z   Z   Z   Z
+  21   0  21    Q   Q   Q   Q
+  22   0  22    W   W   W   W
+  23   0  23    C   CI  CI  CI
+  24   0  24    C   CZ  CZ  CZ
+  25   0  25    C   CJ  CJ  CJ
+  26   0  26    S   S   S   S
+  27   0  27    P   P   P   P
+  28   0  28    C   CO  CO  CO
+  29   0  29    B   B   B   B
+  30   0  30    K   K   K   K
+  31   0  31    U   U   U   U
+  32   1   0                   
+  33   1   1    D   DA  DA  DA
+  34   1   2                   
+  35   1   3                   
+  36   1   4                   
+  37   1   5    D   DO  DO  DO
+  38   1   6    D   DO  DO  DO
+  39   1   7    D   DI  DI  DI
+  40   1   8    D   DJ  DJ  DJ
+  41   1   9    D   D   D   D
+  42   1  10    D   DO  DO  DO
+  43   1  11                   
+  44   1  12                   
+  45   1  13    D   D   D   D
+  46   1  14    D   DV  DV  DV
+  47   1  15    D   D   D   D
+  48   1  16    D   D   D   D
+  49   1  17    D   DX  DX  DX
+  50   1  18    D   D   D   D
+  51   1  19    D   DO  DO  DO
+  52   1  20    D   D   D   D
+  53   1  21    D   D   D   D
+  54   1  22    D   D   D   D
+  55   1  23    D   DI  DI  DI
+  56   1  24    D   DZ  DZ  DZ
+  57   1  25    D   DJ  DJ  DJ
+  58   1  26    D   DO  DO  DO
+  59   1  27    D   D   D   D
+  60   1  28    D   DO  DO  DO
+  61   1  29    D   DB  DB  DB 
+  62   1  30    D   DK  DK  DK 
+  63   1  31    D   DU  DU  DU
+  64   2   0                   
+  65   2   1    A   NA  NA  NA
+  66   2   2                   
+  67   2   3                   
+  68   2   4                   
+  69   2   5    N   NG  NG  NG
+  70   2   6    N   NH  NH  NH
+  71   2   7    N   NI  NI  NI
+  72   2   8    N   NJ  NJ  NJ
+  73   2   9    N   NL  NL  NL
+  74   2  10    N   NO  NO  NO
+  75   2  11                   
+  76   2  12                   
+  77   2  13    N   N   N   N
+  78   2  14    N   NV  NV  NV
+  79   2  15    T   NT  NT  NT
+  80   2  16    Y   Y   Y   Y
+  81   2  17    X   NX  NX  NX
+  82   2  18    N   N   N   N
+  83   2  19    M   M   M   M
+  84   2  20    Z   NZ  NZ  NZ
+  85   2  21    Q   Q   Q   Q
+  86   2  22    W   W   W   W
+  87   2  23    C   NC  NCI NCI
+  88   2  24    C   NC  NCZ NCZ
+  89   2  25    C   NC  NCJ NCJ
+  90   2  26    S   S   S   S
+  91   2  27    P   P   P   P
+  92   2  28    C   NC  NCO NCO
+  93   2  29    B   NB  NB  NB 
+  94   2  30    K   NK  NK  NK 
+  95   2  31    U   NU  NU  NU 
+  96   3   0                   
+  97   3   1    A   FA  FA  FA
+  98   3   2                   
+  99   3   3                   
+ 100   3   4                   
+ 101   3   5    N   FG  FG  FG
+ 102   3   6    N   FH  FH  FH
+ 103   3   7    F   FI  FI  FI
+ 104   3   8    F   FJ  FJ  FJ
+ 105   3   9    N   FL  FL  FL
+ 106   3  10        FO  FO  FO
+ 107   3  11                   
+ 108   3  12                   
+ 109   3  13    N   N   N   N
+ 110   3  14    V   FV  FV  FV
+ 111   3  15    T   FT  FT  FT
+ 112   3  16    Y   Y   Y   Y
+ 113   3  17    X   FX  FX  FX
+ 114   3  18    N   N   N   N
+ 115   3  19    M   M   M   M
+ 116   3  20    Z   Z   Z   Z
+ 117   3  21    Q   Q   Q   Q
+ 118   3  22    W   W   W   W
+ 119   3  23    C   FC  FCI FCI
+ 120   3  24    C   FC  FCZ FCZ
+ 121   3  25    C   FC  FCJ FCJ
+ 122   3  26    S   S   S   S
+ 123   3  27    P   P   P   P
+ 124   3  28    C   FC  FCO FCO
+ 125   3  29    B   FB  FB  FB 
+ 126   3  30    K   FK  FK  FK 
+ 127   3  31    U   U   U   U
+ 128   4   0                   
+ 129   4   1    V   VA  VA  VA
+ 130   4   2                   
+ 131   4   3                   
+ 132   4   4                   
+ 133   4   5    V   VO  VO  VO
+ 134   4   6    V   VO  VO  VO
+ 135   4   7    V   VI  VI  VI
+ 136   4   8    V   VJ  VJ  VJ
+ 137   4   9    V   V   V   V
+ 138   4  10    V   VO  VO  VO
+ 139   4  11                   
+ 140   4  12                   
+ 141   4  13    V   V   V   V
+ 142   4  14    V   V   V   V
+ 143   4  15    V   V   V   V
+ 144   4  16    V   V   V   V
+ 145   4  17    V   VX  VX  VX
+ 146   4  18    V   V   V   V
+ 147   4  19    V   VO  VO  VO
+ 148   4  20    V   V   V   V
+ 149   4  21    V   V   V   V
+ 150   4  22    V   V   V   V
+ 151   4  23    V   VI  VI  VI
+ 152   4  24    V   VZ  VZ  VZ
+ 153   4  25    V   VJ  VJ  VJ
+ 154   4  26    V   V   V   V
+ 155   4  27    V   V   V   V
+ 156   4  28    V   VO  VO  VO
+ 157   4  29    V   VB  VB  VB 
+ 158   4  30    V   VK  VK  VK 
+ 159   4  31    U   U   U   U
+ 160   5   0                   
+ 161   5   1    A   EA  EA  EA
+ 162   5   2                   
+ 163   5   3                   
+ 164   5   4                   
+ 165   5   5    N   EG  EG  EG
+ 166   5   6    N   EH  EH  EH
+ 167   5   7    E   EI  EI  EI
+ 168   5   8    E   EJ  EJ  EJ
+ 169   5   9    N   EL  EL  EL
+ 170   5  10        EO  EO  EO
+ 171   5  11                   
+ 172   5  12                   
+ 173   5  13    N   N   N   N
+ 174   5  14    V   EV  EV  EV
+ 175   5  15    T   ET  ET  ET
+ 176   5  16    Y   Y   Y   Y
+ 177   5  17    X   EX  EX  EX
+ 178   5  18    N   N   N   N
+ 179   5  19    M   M   M   M
+ 180   5  20    Z   Z   Z   Z
+ 181   5  21    Q   Q   Q   Q
+ 182   5  22    W   W   W   W
+ 183   5  23    C   EC  ECI ECI
+ 184   5  24    C   EC  ECZ ECZ
+ 185   5  25    C   EC  ECJ ECJ
+ 186   5  26    S   S   S   S
+ 187   5  27    P   P   P   P
+ 188   5  28    C   EC  ECO ECO
+ 189   5  29    B   EB  EB  EB 
+ 190   5  30    K   EK  EK  EK 
+ 191   5  31    U   EU  EU  EU 
+ 192   6   0                   
+ 193   6   1    A   DA  NDA NDA
+ 194   6   2                   
+ 195   6   3                   
+ 196   6   4                   
+ 197   6   5    N   DG  NDG NDG
+ 198   6   6    N   DH  NDH NDH
+ 199   6   7    D   DI  NDI NDI
+ 200   6   8    D   DJ  NDJ NDJ
+ 201   6   9    N   DL  NDL NDL
+ 202   6  10        DO  NDO NDO
+ 203   6  11                   
+ 204   6  12                   
+ 205   6  13    N   N   N   N
+ 206   6  14    V   DV  DV  DV
+ 207   6  15    T   DT  DT  DT
+ 208   6  16    Y   Y   Y   Y
+ 209   6  17    X   DX  NDX NDX
+ 210   6  18    N   N   N   N
+ 211   6  19    M   M   M   M
+ 212   6  20    Z   Z   Z   Z
+ 213   6  21    Q   Q   Q   Q
+ 214   6  22    W   W   W   W
+ 215   6  23    C   DC  DCI DCI
+ 216   6  24    C   DC  DCZ DCZ
+ 217   6  25    C   DC  DCJ DCJ
+ 218   6  26    S   S   S   S
+ 219   6  27    P   P   P   P
+ 220   6  28    C   DC  DCO DCO
+ 221   6  29    B   DB  DB  DB 
+ 222   6  30    K   DK  DK  DK 
+ 223   6  31    U   U   U   U
+ 224   7   0                   
+ 225   7   1    A   DA  DRA DRA
+ 226   7   2                   
+ 227   7   3                   
+ 228   7   4                   
+ 229   7   5    N   DG  DRG DRG
+ 230   7   6    N   DH  DRH DRH
+ 231   7   7    D   DI  DRI DRI
+ 232   7   8    D   DJ  DRJ DRJ
+ 233   7   9    N   DL  N   N
+ 234   7  10        DO  DRO DRO
+ 235   7  11                   
+ 236   7  12                   
+ 237   7  13    N   N   N   N
+ 238   7  14    V   DV  DRV DRV
+ 239   7  15    T   DT  DRT DRT
+ 240   7  16    Y   Y   Y   Y
+ 241   7  17    X   DX  DRX DRX
+ 242   7  18    N   N   N   N
+ 243   7  19    M   M   M   M
+ 244   7  20    Z   Z   Z   Z
+ 245   7  21    Q   Q   Q   Q
+ 246   7  22    W   W   W   W
+ 247   7  23    C   DC  DCI DCI
+ 248   7  24    C   DC  DCZ DCZ
+ 249   7  25    C   DC  DCJ DCJ
+ 250   7  26    S   S   S   S
+ 251   7  27    P   P   P   P
+ 252   7  28    C   DC  DCO DCO
+ 253   7  29    B   DB  DB  DB 
+ 254   7  30    K   DK  DK  DK 
+ 255   7  31    U   U   U   U
+

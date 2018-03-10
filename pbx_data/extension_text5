@@ -1,0 +1,171 @@
+
+Extension Text String
+
+Language: Svenska             
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Upptagen               
+BSY2      Linje uppt             
+BSY3      Ej utförd              
+BSY4      Ej utförd              
+BSY5      Ej utförd              
+BSY6      Linje uppt             
+BSY9      Ej utförd              
+BSY11     Ej utförd              
+BSY14     Linje uppt             
+BSY19     Ej utförd              
+BSY20     Ej nåbar               
+CAL1      Ringer                 
+CAL2      Ej utförd              
+CAL3      Samt vänt              
+CAL4      Samt vänt              
+CAL5      Psök pågår             
+CAL6      Kö mot grupp           
+CAL7      Samt i kö              
+CAL8      Psök pågår             
+CAL9      Ringer                 
+CAL10     Ringer                 
+CAL20     Samt i kö              
+CAL21     Samt i kö              
+CAL23     Samt i kö              
+CAL28     Samt vänt              
+CAL34     Ringer                 
+CNF1      Konf Led               
+CNF2      Konferens              
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Upplockad              
+DIV6      Gruppnr                
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Externt                
+EXT2      Privat nät             
+ICS0      Lunch                  TIME          
+ICS1      G.F.DAGEN              DATE          
+ICS2      TJ.ÄRENDE              TIME          
+ICS3      MöTE                   TIME          
+ICS4      TJ.RESA                DATE          
+ICS5      Kundbesök              TIME          
+ICS6      SEMESTER               DATE          
+ICS7      Ej Anträffb            DATE          
+ICS8      TILLF.UTE              TIME          
+ICS9      SJUK                   
+ICS10     * = ring               
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Profil                 
+MIS6      Tonval aktiv           
+MIS7      Prova senare           
+MIS8      >                      
+MIS9      Ej utförd              
+MIS10     Spårar                 
+MIS11     Skyddat nr             
+MIS12     Tag Debk               
+MIS13     Tag Behk               
+MIS14     Kostnad                
+MIS15     Tag PIN Kod            
+MIS16     Begärd serv            
+MIS17     Ange CQ-kod            
+MIS18     Fler siffror           
+MIS19     Debiteras ej           
+MIS20     IngenDebInfo           
+MIS21     Inga nummer            
+MIS22     Sparade nr             
+MIS23     Slut på logg           
+MIS25     Svenska                
+MIS34     Inget namn             
+MON1      Jan                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Apr                    
+MON5      Maj                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Okt                    
+MON11     Nov                    
+MON12     Dec                    
+NOP1      Tidsnedkoppl           
+NOP2      Spärr                  
+NOP3      Tidsnedkoppl           
+NOP4      Tidsnedkoppl           
+NOP5      Tidsnedkoppl           
+NOP6      Spärr                  
+NOP7      Otill kat              
+NOP8      Ej tillg               
+NOP9      Vakant                 
+NOP10     Frånv/nattk            
+NOP11     Nedkopplad             
+NOP12     Utförd                 
+NOP13     Ej utförd              
+NOP14     Ej inlagt              
+NOP15     Upptaget               
+NOP16     Ej utförd              
+NOP17     Spärr                  
+NOP18     IngaVäntSamt           
+NOP19     Frånv mark             
+NOP20     Ej utförd              
+NOP21     Ej tillåtet            
+NOP22     Max antal              
+NOP23     Återupp OK             
+NOP24     Nedkopplad             
+NOP25     Fel format             
+NOP26     Frånv/nattk            
+NOP28     Ej utförd              
+NOP29     Nödkopplad             
+NOP31     Ej tillåtet            
+NOP33     Tidsnedkoppl           
+NOP34     Spärr                  
+NOP35     Upptagen               
+NOP38     Ej tillåtet            
+NOP40     Nedkopplad             
+NOP41     Fel format             
+NOP42     Otillg tj              
+NOP43     Datasamtal             
+NOP44     Ej utförd              
+NOP46     Debk behövs            
+NOP47     Fel behk               
+NOP50     Spärr                  
+NOP52     Stängd                 
+NOP53     Öppen                  
+NOP54     Ej utförd              
+NOP55     Ej utförd              
+NOP56     Stör ej                
+NOP57     Ej tillåtet            
+NOP58     Spärr                  
+NOP59     Ej tillåtet            
+NOP60     Upptagen               
+NOP65     Spårar                 
+NOP66     Ej utförd              
+NOP69     Upptagen               
+NOP72     Ej tillåtet            
+NOP74     Ej utförd              
+NOP75     Otill kat              
+NOP76     FörsökSenare           
+NOP77     Redan öppnad           
+NOP78     Frånv mark             
+NOP79     Redan stängd           
+NOP93     Ej tillåtet            
+NOP99     IngenÅtkomst           
+PRK0      Samt park L3           
+PRK1      Samt park L2           
+PRK2      Samt park L1           
+PRK3      Samtal park            
+PRK4      L2 parkerad            
+PRK5      L1 parkerad            
+REG5      Debk OK                
+REG7      Fel debk               
+REG10     Behk OK                
+REG14     Meddelande             
+REG15     Meddelande             
+REG16     Meddel/Omst            
+REG17     Meddel/Omst            
+REG18     Tag telnum+#           
+REG19     Medf externt           
+

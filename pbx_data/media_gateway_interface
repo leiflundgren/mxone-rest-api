@@ -1,0 +1,2 @@
+Mgw Id  Type  Bpos  Address           Default GW       Conf Mode  Link Mode  Port Range     
+1A      MGU         192.168.104.6/24  192.168.104.254  static     auto       17000 - 31999  

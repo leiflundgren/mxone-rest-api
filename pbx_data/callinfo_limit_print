@@ -1,0 +1,14 @@
+
+LIM :1
+Samples       = 30
+Yellow limit  = 10
+Red limit     = 5
+Warning level < 70.0%
+Bad level     < 50.0%
+Yellow alarm is Cleared 
+Red alarm is    Cleared 
+Buffered alarm samples  : 0
+Buffer maximum size is  : 30
+Number of yellow samples: 0
+Number of red samples   : 0
+

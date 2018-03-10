@@ -1,0 +1,92 @@
+
+NUMBER ANALYSIS DATA :
+TYPE OF SERIES                 NUMBER SERIES
+EXTENSION NUMBER SERIES
+                                6400 -       6499
+                                8901 -       8904
+                                8911 -       8959
+                                             8963
+                                8965 -       8989
+                                9001 -       9009
+                                9060 -       9099
+                                9101 -       9150
+                                9152 -       9189
+                                9191 -       9219
+                                9221 -       9333
+                                9335 -       9449
+                                9451 -       9497
+                                             9499
+                                9501 -       9519
+                                9521 -       9549
+                                9551 -       9569
+                                9571 -       9599
+                                9601 -       9619
+                                9621 -       9659
+                                9661 -       9999
+EXTERNAL DESTINATION CODE
+                                3990 -       3996
+                                             5000
+                                             8960
+                                             8964
+                                             9000
+                                             9100
+                                             9151
+                                             9190
+                                             9220
+                                             9450
+                                             9498
+                                             9500
+                                             9520
+                                             9550
+                                             9570
+                                             9600
+                                             9620
+                                             9660
+ABBR. COM. NUMBER SERIES
+                                              112
+                                            11414
+                                             1177
+                                              118
+                                3000 -       3899
+                                7000 -       7999
+                                 901 -        905
+                                             9334
+LCR ACCESS CODE NUMBER SERIES
+                                                0
+                                             3999
+OPERATOR COMMON NUMBER SERIES
+                                8880 -       8889
+                                             8999
+OPERATOR INDIV. NUMBER SERIES
+                                8991 -       8993
+REMOTE TYPE 1
+                                              840
+                                              844
+EXTERNAL NUMBER LENGTH DATA :
+EXTERNAL NUMBER                NUMBER LENGTH
+9000                                4 -  4
+9100                                4 -  4
+9500                                4 -  4
+9800                                4 -  4
+CALL DISCRIMINATION DATA :
+EXTERNAL/INTERNAL NUMBER           CDCAT            CUSTOMER
+000                                3                   0
+0010                               3  2  1             0
+01                                 3  2                0
+02                                 3  2                0
+03                                 3  2                0
+04                                 3  2                0
+05                                 3  2                0
+06                                 3  2                0
+07                                 3  2                0
+08                                 3  2                0
+09                                 3  2                0
+1                                  3  2  1  0          0
+2                                  3  2  1  0          0
+3                                  3  2  1  0          0
+4                                  3  2  1  0          0
+5                                  3  2  1  0          0
+6                                  3  2  1  0          0
+7                                  3  2  1  0          0
+8                                  3  2  1  0          0
+9                                  3  2  1  0          0

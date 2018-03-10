@@ -1,0 +1,15 @@
+Device board position information 
+
+  Boardpos  Brdid   Brdname  Individs  Signal    State     Status   
+                                       format
+   1A-0-40    126     TMU/3        32    long   active    assigned  
+   1A-2-00    125   E1/ISDN        32    long   active    assigned  
+   1A-2-10    125   E1/ISDN        32    long   active    assigned  
+   1A-2-20    125       PRI        32    long  passive  not assigned
+   1A-2-30    125       PRI        32    long  passive  not assigned
+   1A-2-40    125       PRI        32    long  passive  not assigned
+   1A-2-50    125       PRI        32    long  passive  not assigned
+   1A-2-60    125       PRI        32    long  passive  not assigned
+   1A-2-70    125       PRI        32    long  passive  not assigned
+
+END

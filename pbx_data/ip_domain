@@ -1,0 +1,15 @@
+Domain Name                   IP Net            Server IP Net  Codec Prio List                   Packetization  Bandwidth  Max video  Area  Emergency  Location Id  
+                                                                                                 Interval                             Code  Dirs                    
+                                                                                                 (ms/packet)    (kbit/s)   (percent)                                
+DEFAULT                       -                 -              PCMA,PCMU,G729AB,G729A,G723,G722  30             unlimited  100        -     -          -            
+appelbo.smallbusiness.local   192.168.100.0/24  -              PCMA,PCMU,G729AB,G729A,G723,G722  30             unlimited  100        0281  -          -            
+dalalist.smallbusiness.local  192.168.101.0/24  -              PCMA,PCMU,G729AB,G729A,G723,G722  30             unlimited  100        0280  -          -            
+hallefors.salby.local         192.168.107.0/24  -              PCMA,PCMU,G729AB,G729A,G723,G722  30             unlimited  100        0591  -          -            
+idre.salby.local              192.168.108.0/24  -              PCMA,PCMU,G729AB,G729A,G723,G722  30             unlimited  100        0253  -          -            
+malung.salby.local            192.168.104.0/24  -              PCMA,PCMU,G729AB,G729A,G723,G722  30             unlimited  100        0280  -          -            
+res.salby.local               192.168.103.0/24  -              PCMA,PCMU,G729AB,G729A,G723,G722  30             unlimited  100        0280  -          -            
+salen.salby.local             192.168.105.0/24  -              PCMA,PCMU,G729AB,G729A,G723,G722  30             unlimited  100        0280  -          -            
+vansbro.salby.local           192.168.106.0/24  -              PCMA,PCMU,G729AB,G729A,G723,G722  30             unlimited  100        0281  -          -            
+vdt.smallbusiness.local       192.168.102.0/24  -              PCMA,PCMU,G729AB,G729A,G723,G722  30             unlimited  100        0281  -          -            
+
+                             

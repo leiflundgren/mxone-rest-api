@@ -1,0 +1,8 @@
+
+Ring cadences used by analogue extensions
+
+                 On1 , Off1 ,  On2 , Off2 ,  On3 , Off3 
+Ringcadence 1 :   10 ,   50 ,   10 ,   50 ,    0 ,    0 (Internal)
+Ringcadence 2 :    4 ,    2 ,    4 ,   50 ,    0 ,    0 (External)
+Ringcadence 3 :    3 ,    4 ,    3 ,    4 ,    3 ,    4 (Callback)
+Ringcadence 4 :   10 ,   50 ,   10 ,   50 ,    0 ,    0 (Diverted)

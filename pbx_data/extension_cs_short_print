@@ -1,0 +1,173 @@
+
+Extension Text String
+
+Language: Cestina             
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Obs.                   
+BSY2      Linka obs              
+BSY3      Chybne                 
+BSY4      Chybne                 
+BSY5      Chybne                 
+BSY6      linka obs              
+BSY9      Chybne                 
+BSY11     Chybne                 
+BSY14     linka obs              
+BSY19     Neprijato              
+BSY20     Nedostupny             
+CAL1      Volam                  
+CAL2      Chybne                 
+CAL3      Prijato                
+CAL4      Prijato                
+CAL5      Hledani..              
+CAL6      Ve fronte              
+CAL7      Ve fronte              
+CAL8      Ve fronte              
+CAL9      Volam                  
+CAL10     Volam                  
+CAL20     Ve fronte              
+CAL21     Ve fronte              
+CAL23     Ve fronte              
+CAL28     Prijato                
+CAL34     Volam                  
+CNF1      Ved.konfer.            
+CNF2      Clen konf.             
+CNF3      >                      
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Prevzeti               
+DIV6      Skupina                
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Externi                
+EXT2      Firemni                
+ICS0      Obed                   TIME          
+ICS1      Obs.                   DATE          
+ICS2      Mimo                   TIME          
+ICS3      Schuzka                TIME          
+ICS4      Vyl.                   DATE          
+ICS5      Skolen                 TIME          
+ICS6      Volno                  DATE          
+ICS7      Volno                  DATE          
+ICS8      Doma                   TIME          
+ICS9      Nemoc                  
+ICS10     * volba                
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Profil                 
+MIS6      Ton.vol.zap.           
+MIS7      Pozdeji                
+MIS8      >                      
+MIS9      Selhalo                
+MIS10     Prijato                
+MIS11     Neznamy                
+MIS12     Kod Uctu               
+MIS13     Autor. kod             
+MIS14     Uctovano:              
+MIS15     PIN                    
+MIS16     Pozadavek              
+MIS17     Vloz  CQ               
+MIS18     Vice cisel             
+MIS19     Zdarma                 
+MIS20     Cena neznama           
+MIS21     Zadna cisla            
+MIS22     Ulozena c.             
+MIS23     Konec                  
+MIS25     >                      
+MIS34     Zadne Jmeno            
+MON1      Led                    
+MON2      Uno                    
+MON3      Bre                    
+MON4      Dub                    
+MON5      Kve                    
+MON6      Cen                    
+MON7      Cec                    
+MON8      Srp                    
+MON9      Zar                    
+MON10     Rij                    
+MON11     Lis                    
+MON12     Pro                    
+NOP1      Vycasovano             
+NOP2      Pretizeno              
+NOP3      Vycasovano             
+NOP4      Vycasovano             
+NOP5      Vycasovano             
+NOP6      Pretizeno              
+NOP7      Nepovoleno             
+NOP8      Linka Blok.            
+NOP9      Volne cislo            
+NOP10     Spojov.neni            
+NOP11     Zaveseno               
+NOP12     Prijato                
+NOP13     Chybne                 
+NOP14     Nenaprogram.           
+NOP15     Clen.neprit.           
+NOP16     Prazdna sku.           
+NOP17     Pretizeno              
+NOP18     Hovor neceka           
+NOP19     Nepritomen             
+NOP20     Neprovedeno            
+NOP21     Zakazano               
+NOP22     Centr.obsaz.           
+NOP23     Faultm.Ringb           
+NOP24     Oper.zavesil           
+NOP25     Chybnyformat           
+NOP26     Spojov.neni            
+NOP28     Neprijato              
+NOP29     Nouz. provoz           
+NOP31     Nekompatibil           
+NOP33     Vycasovano             
+NOP34     Pretizeno              
+NOP35     Obsazeno               
+NOP38     Blokovano              
+NOP40     Zaveseno               
+NOP41     Chybnyformat           
+NOP42     Chybnyformat           
+NOP43     Nekompatibil           
+NOP44     Nepovoleno             
+NOP46     Account kod            
+NOP47     Autoriz. kod           
+NOP50     Pretizeno              
+NOP52     Zamknuto               
+NOP53     Odemknuto              
+NOP54     Chyb.Zamknut           
+NOP55     Chyb.Odemknu           
+NOP56     Nerusit                
+NOP57     Neprijato              
+NOP58     Pretizeno              
+NOP59     Neprijato              
+NOP60     Obsazeno               
+NOP65     Prijato                
+NOP66     Neprijato              
+NOP69     Obsazeno               
+NOP72     Neprijato              
+NOP74     Neprijato              
+NOP75     Nedostupne             
+NOP76     Nedostupne             
+NOP77     Zamknuto               
+NOP78     Nepritomen             
+NOP79     Zamknuto               
+NOP89     CAC-CONG!              
+NOP93     Nedostupne             
+NOP99     System blok            
+PRK0      3 on hold              
+PRK1      2 on hold              
+PRK2      1 on hold              
+PRK3      Other parked           
+PRK4      L2 on hold             
+PRK5      L1 on hold             
+REG5      Kod OK                 
+REG7      Neplatny Kod           
+REG10     Kod OK                 
+REG14     Message wait           
+REG15     Zprava ceka            
+REG16     Zprava ceka            
+REG17     Zprava ceka            
+REG18     Pristup. kod           
+REG19     Ext. call              
+

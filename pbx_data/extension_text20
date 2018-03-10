@@ -1,0 +1,416 @@
+
+Extension Text String
+
+Language: English             
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Select Profile         
+ABS1      Direct Diversion to    
+ABS2      Follow Me              
+ABS3      Absence reason         
+ABS4      External Follow Me     
+ABS5      Do not Disturb         
+ABS6      Div on no answer to    
+ABS7      Div on busy to         
+ABS8      Active                 
+ABS9      Not active             
+ABS10     No profile             
+ABS11     Choice                 
+BSY1      Busy                   
+BSY2      Line busy              
+BSY3      Call back failed       
+BSY4      Call waiting failed    
+BSY5      Intrusion failed       
+BSY6      Cheapest line busy     
+BSY9      Call back failed       
+BSY11     Intrusion failed       
+BSY14     Line busy              
+BSY19     Not accepted           
+BSY20     Not reachable...       
+CAL1      Calling...             
+CAL2      Call back failed!      
+CAL3      CallWaiting accepted   
+CAL4      CallWaiting accepted   
+CAL5      Paging in progress..   
+CAL6      Call queued...         
+CAL7      Call queued...         
+CAL8      Paging queued...       
+CAL9      Calling...             
+CAL10     Calling...             
+CAL20     Call queued...         
+CAL21     Call queued...         
+CAL23     Call queued...         
+CAL28     CallWaiting accepted   
+CAL34     Calling...             
+CNF1      ConfLeader             
+CNF2      ConfMember             
+CNF3      Conference leader      
+CNF4      Conference member      
+CNF5      Members                
+DIR1      No match found!        
+DIR2      Top of directory       
+DIR3      End of directory       
+DIR4      Empty directory!       
+DIV1       >Direct               
+DIV2       >Busy                 
+DIV3       >NoAnswer             
+DIV4       >FollowMe             
+DIV5       Picked up             
+DIV6       GroupCall             
+DIV7       >External             
+DIV10      Redirect              
+DIV11      Redirect              
+DIV12      Redirect              
+DIV13      DNIS call             
+EXT1      External               
+EXT2      Corporate              
+FCN0      AccLine, ring type:    
+FCN1      AddLine, ring type:    
+FCN2      MultLine, ring type:   
+FCN3      Menu activation key    
+FCN4      Function key 1         
+FCN5      Function key 2         
+FCN6      NameKey,1-20 digits:   
+FCN8      External num. redial   
+FCN9      Function key 3         
+FCN10     Function key 4         
+FCN11     Automat. answer mode   
+FCN12     Free on 2nd line       
+FCN13     Call back key          
+FCN14     Divert all calls key   
+FCN16     Call pick up/Hold      
+FCN17     Call waiting key       
+FCN18     Conference key         
+FCN19     Intrusion key          
+FCN20     Paging key             
+FCN21     Unanswered calls key   
+FCN22     Message waiting key    
+FCN23     Program mode key       
+FCN24     Malicious call trace   
+FCN26     Do not disturb key     
+FCN27     Manual message wait.   
+FCN28     Clerical time key      
+FCN29     MultName, ring type:   
+FCN30     Data Directory No.     
+FCN31     DataKey,1-20 digits:   
+FCN32     Local mode key         
+FCN33     Redirection key        
+FCN34     Transfer key           
+FCN35     Personal No. Profile   
+FCN37     Transfer key           
+FCN41     Personal Number        
+ICS0       Lunch                 TIME          
+ICS1       Busy                  DATE          
+ICS2       Absent                TIME          
+ICS3       Meeting               TIME          
+ICS4       Trip                  DATE          
+ICS5       Course                TIME          
+ICS6       Vacation              DATE          
+ICS7       Day off               DATE          
+ICS8       GoneHome              TIME          
+ICS9       Illness               
+ICS10     * to dial              
+IDL2      DivertedTo             
+IDL3      FollowMeTo             
+IDL4      Do not disturb!        
+IDL5      Diverted to external   
+IDL6      All lines busy!        
+IDL7      Direct div             
+IDL8      Diverted to pager      
+IDL9      Do not disturb         
+IDL10     Message waiting!       
+IDL11     Manual message wait.   
+IDL13     Redirected to ISDN     
+IDL14     All lines busy         
+IDL15     Profile                
+MIS1      System time not set!   
+MIS2      On hold...             
+MIS4                Ring type:   
+MIS6      Tone sender on         
+MIS7      System busy!           
+MIS8      Diverted to external   
+MIS9      Call tracing failed!   
+MIS10     Call tracing OK        
+MIS11     Anonymous              
+MIS12     Enter account code!    
+MIS13     Enter author. code!    
+MIS14     Cost in !              
+MIS15     Enter ACD PIN code!    
+MIS16     Request accepted       
+MIS17     Enter CQ-code!         
+MIS18     CQ-code incomplete!    
+MIS19     Free of charge         
+MIS20     No cost information!   
+MIS21     No logged calls        
+MIS22     New missed calls:      
+MIS23     End of log list        
+MIS24     Enter Freeseat. Num!   
+MIS25     Unanswered             
+MIS26     Incoming               
+MIS27     Outgoing               
+MIS28     Make a new call        
+MIS29     Enter Follow Me num:   
+MIS30     Return time (HHMM):    
+MIS31     Return date (DDMM):    
+MIS32     Return date (MMDD):    
+MIS33     Enter External num:    
+MIS34     No name                
+MIS35     Emergency call         
+MON1      Jan                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Apr                    
+MON5      May                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Oct                    
+MON11     Nov                    
+MON12     Dec                    
+NOP1      Timed out!             
+NOP2      Congestion!            
+NOP3      Timed out!             
+NOP4      Timed out!             
+NOP5      Timed out!             
+NOP6      Congestion!            
+NOP7      Not allowed!           
+NOP8      Line blocked!          
+NOP9      Vacant number!         
+NOP10     OperAbsent/NightMode   
+NOP11     Hung up                
+NOP12     Accepted               
+NOP13     Failed!                
+NOP14     No number programmed   
+NOP15     All members absent!    
+NOP16     Not a group member!    
+NOP17     Congestion!            
+NOP18     No waiting call!       
+NOP19     Absent!                
+NOP20     Paging req. rejected   
+NOP21     Number barred!         
+NOP22     Alarm centre busy!     
+NOP23     Faultman's ringback    
+NOP24     Operator hung up       
+NOP25     Wrong format!          
+NOP26     OperAbsent/NightMode   
+NOP28     Not accepted!          
+NOP29     In emergency state!    
+NOP31     Not compatible!        
+NOP33     Timed out!             
+NOP34     Congestion!            
+NOP35     Busy...                
+NOP38     Blocked!               
+NOP40     Hung up                
+NOP41     Wrong format!          
+NOP42     Wrong format!          
+NOP43     Not compatible!        
+NOP44     Not allowed!           
+NOP46     Enter account code!    
+NOP47     Wrong authoriz. code   
+NOP50     Congestion!            
+NOP52     Extension locked!      
+NOP53     Extension unlocked!    
+NOP54     Failed to lock!        
+NOP55     Failed to unlock!      
+NOP56     Do not disturb!        
+NOP57     Not accepted!          
+NOP58     Congestion!            
+NOP59     Not accepted!          
+NOP60     Busy...                
+NOP65     Tracing call           
+NOP66     Tracing not accepted   
+NOP69     Busy...                
+NOP72     Not accepted!          
+NOP74     Not accepted!          
+NOP75     Not available!         
+NOP76     Not available now!     
+NOP77     Extension not locked   
+NOP78     Absent                 
+NOP79     Already locked!        
+NOP89     CAC-CONGESTION!        
+NOP93     Not available!         
+PRK0      InqOnHold              
+PRK1      A2 on hold             
+PRK2      A1 on hold             
+PRK3      On hold                
+PRK4      Line2 on hold          
+PRK5      Line 1 on hold         
+REG5      Account code OK        
+REG7      Account code invalid   
+REG10     Authoriz. code OK      
+REG14     ManualMessageWaiting   
+REG15     Message waiting!       
+REG16     Message waiting!       
+REG17     ManualMessageWaiting   
+REG18     Access code+ number:   
+REG19     External diversion     
+SKG0      Account                
+SKG1      Authority              
+SKG2      Back                   
+SKG3      Call                   
+SKG4      CallBack               
+SKG5      CallPager              
+SKG6      CallPickUp             
+SKG7      CallWaiting            
+SKG8      Clear                  
+SKG9      CommonHold             
+SKG10     Conference             
+SKG11     Connect                
+SKG12     CostInfo               
+SKG13     Delete                 
+SKG14     MoreInfo               
+SKG15     Down                   
+SKG16     NotDisturb             
+SKG17     Enter                  
+SKG18     Exit                   
+SKG19     Find                   
+SKG20     ForcedRel              
+SKG21     GrpPickUp              
+SKG22     HideMenu               
+SKG23     Intrusion              
+SKG24     Lock                   
+SKG25     LogOn                  
+SKG26     LogOff                 
+SKG27     more...                
+SKG28     Next                   
+SKG29     Open                   
+SKG30     PhoneBook              
+SKG31     Qualify                
+SKG32     Queue                  
+SKG33     Redial                 
+SKG34     Return                 
+SKG35     ShowDate               
+SKG36     ShowMenu               
+SKG37     ShowTimer              
+SKG38     Space                  
+SKG39     Start                  
+SKG40     Stop                   
+SKG41     Timer                  
+SKG42     Tones                  
+SKG43     TraceMalC              
+SKG44     Up                     
+SKG45     CallList               
+SKG46     Missed                 
+SKG47     Select                 
+SKG48     Program                
+SKG49     Transfer               
+SKG50     Conf/Transf            
+SKG51     AddMember              
+SKG52     Activate               
+SKG53     Deactivate             
+SKG54     Absence                
+SKG55     NoDiversion            
+SKG56     CancelDND              
+SKG57     Details                
+SKG58     PhoneSet               
+SKG59     Save                   
+SKG60     Yes                    
+SKG61     No                     
+SKG62     Keep                   
+SKG63     Diversion              
+SKG64     Presence               
+SKG65     FollowMe               
+SKG66     External FollowMe      
+SKG67     Ext. FollowMe          
+SKG68     Divert                 
+SKG69     Do Not Disturb         
+SKG70     Diverted               
+SKG71     Diverted               
+SKG72     Diversion              
+SKG73     VoiceMail              
+SKG74     Wrong password         
+SKG75     Return time (HHMM):    
+SKG76     Ret. time (HHMM)       
+SKG77     Return date (DDMM):    
+SKG78     Ret. date (DDMM)       
+SKG79     Return date (MMDD):    
+SKG80     Ret. date (MMDD)       
+SKG81     Not found              
+SKG82     Enter number           
+SKG83     Enter number           
+SKG84     Wrong format           
+SKG85     Service ordered        
+SKG86     Service ordered        
+SKG87     Service failed         
+SKG88     Service failed         
+SKG89     No time/date format    
+SKG90     Contact syst. admin.   
+SKG91     Services               
+SKG92     Unconfiguring phone    
+SKG93     User:                  
+SKG94     Password               
+SKG95     TempUser               
+SKG96     Temporary User         
+SKG97     Feature is not available
+SKI0      Open AcCo AutCo Time   
+SKI1      Lock AcCo AutCo Time   
+SKI2      CBack Page      Time   
+SKI3      CBackCWait Pick Intr   
+SKI4      Tones AcCo Cost Time   
+SKI5      Tones AcCo Conf Time   
+SKI6      Clear Del      Enter   
+SKI7                     Dial    
+SKI8      RDial AcCo Pick Time   
+SKI10                    Conct   
+SKI11                     Cost   
+SKI12                     AcCo   
+SKI14     Lock Que  AutCo Qual   
+SKI15     Lock Que  AutCo Time   
+SKI16     Tones AcCo Cost Qual   
+SKI17     Tones AcCo Conf Qual   
+SKI20     Open DND  AutCo Time   
+SKI21     Lock DND  AutCo Time   
+SKI23     CBackCWait CUp Time    
+SKI24     Tones Mal Cost Time    
+SKI25     Tones Mal Conf Time    
+SKI28     RDial DND Pick Time    
+SKI30     Next Del  Call Exit    
+SKI31     Next:+      Delete:-   
+SKI32     Exit:C                 
+SKI33     Back:1                 
+SKI36     Tones Mal Cost Qual    
+SKI37     Tones Mal Conf Qual    
+SKI40     Del  SpaceFind  Exit   
+SKI41     Up   Down Call  Back   
+SKI42     Open AcCo AutCo Dir    
+SKI43     Lock AcCo AutCo Dir    
+SKI44     RDial AcCo Pick Dir    
+SKI45     Lock Que  AutCo Dir    
+SKI46     Open DND  AutCo Dir    
+SKI47     Lock DND  AutCo Dir    
+SKI48     RDial DND Pick  Dir    
+TIM1      Stop  Clr Date Exit    
+TIM2      Start Clr Date Exit    
+TIM3      Stop  Clr Time Exit    
+TIM4      Start Clr Time Exit    
+TOP0      Program                
+TOP1      Programming of keys    
+TOP10     PhoneSet               
+TOP11     Display Contrast       
+TOP12     Melody Programming     
+TOP13     Firmware Indication    
+TOP14     Headset Preset         
+TOP15     Local Test Mode        
+TOP16     Option Unit Settings   
+TOP17     Set Hearing Level      
+TOP20     CallList               
+TOP21     Call List              
+TOP22     Unanswered calls       
+TOP23     Outgoing calls         
+TOP24     Incoming calls         
+TOP40     PhoneBook              
+TOP41     Central Directory      
+TOP50     Messages               
+TOP51     Message Waiting        
+TOP52     Voice mail:            
+VSU1      Ready!                 
+VSU2      Playing...             
+VSU3      Recording...           
+VSU4      Digit time out         
+VSU5      Wrong format!          
+VSU6      Rejected!              
+VSU7      Message timed out      
+VSU8      Message not stored     
+VSU9      Memory full!           
+

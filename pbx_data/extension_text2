@@ -1,0 +1,173 @@
+
+Extension Text String
+
+Language: Deutsch             
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Besetzt                
+BSY2      Leit besetzt           
+BSY3      Störung                
+BSY4      Störung                
+BSY5      Fehler                 
+BSY6      Leit besetzt           
+BSY9      Störung                
+BSY11     Störung                
+BSY14     Leit besetzt           
+BSY19     N.Angenommen           
+BSY20     Unerreichbar           
+CAL1      Verbinde               
+CAL2      Störung                
+CAL3      Angenommen             
+CAL4      Angenommen             
+CAL5      Funkruf...             
+CAL6      Bitte warten           
+CAL7      Bitte warten           
+CAL8      Funkruf...             
+CAL9      Verbinde               
+CAL10     Verbinde               
+CAL20     Bitte warten           
+CAL21     Bitte warten           
+CAL23     Bitte warten           
+CAL28     Angenommen             
+CAL34     Verbinde               
+CNF1      Konf-Leiter            
+CNF2      Konf-Teiln.            
+CNF3      >                      
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Ruf-Annahme            
+DIV6      Gruppen-Ruf            
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Extern                 
+EXT2      Intern                 
+ICS0      Mittag, bis            TIME          
+ICS1      Besetzt bis            DATE          
+ICS2      Abwesend               TIME          
+ICS3      Sitzung bis            TIME          
+ICS4      Reise,zurück           DATE          
+ICS5      Kurs, zurück           TIME          
+ICS6      Ferien, bis            DATE          
+ICS7      Freier Tag             DATE          
+ICS8      Arbeits-Ende           TIME          
+ICS9      Krankheit              
+ICS10     * zu wählen            
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Profil Nr.             
+MIS6      Tonsender an           
+MIS7      Wdh. später            
+MIS8      >                      
+MIS9      Störung                
+MIS10     Angenommen             
+MIS11     Kein Eintrag           
+MIS12     Kontoeingabe           
+MIS13     ID-Eingabe             
+MIS14     Kosten-Eing.           
+MIS15     PIN eingeben           
+MIS16     Angefordert            
+MIS17     CQ eingeben            
+MIS18     MehrZiffern!           
+MIS19     Geb.frei               
+MIS20     Keine Gebinf           
+MIS21     Keine Nummer           
+MIS22     Gespeich.Nr.           
+MIS23     Logbuch-Ende           
+MIS25     German                 
+MIS34     Kein Name              
+MON1      Jan                    
+MON2      Feb                    
+MON3      Mär                    
+MON4      Apr                    
+MON5      Mai                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Okt                    
+MON11     Nov                    
+MON12     Dez                    
+NOP1      Zeitüberlauf           
+NOP2      Überlastung            
+NOP3      Zeitüberlauf           
+NOP4      Zeitüberlauf           
+NOP5      Zeitüberlauf           
+NOP6      Überlastung            
+NOP7      Unzulässig             
+NOP8      Ausgesperrt            
+NOP9      Unbesetzt              
+NOP10     k.Vermittlng           
+NOP11     Aufgelegt              
+NOP12     Ausgeführt             
+NOP13     Störung                
+NOP14     k. Programm            
+NOP15     Undefiniert            
+NOP16     KeinMitglied           
+NOP17     Überlastung            
+NOP18     k.Anruf mehr           
+NOP19     Abwesend               
+NOP20     N.Ausgeführt           
+NOP21     Gesperrt               
+NOP22     Max.Anzahl             
+NOP23     Faultm.R-Ruf           
+NOP24     Leitung frei           
+NOP25     FormatFalsch           
+NOP26     k.Vermittlng           
+NOP28     N.Ausgeführt           
+NOP29     Nur Notrufe            
+NOP31     Inkompatibel           
+NOP33     Zeitüberlauf           
+NOP34     Überlastung            
+NOP35     Besetzt                
+NOP38     Blockiert              
+NOP40     Aufgelegt              
+NOP41     FormatFalsch           
+NOP42     Unbekannt              
+NOP43     unbek.Befehl           
+NOP44     N.Ausgeführt           
+NOP46     Konto angeb.           
+NOP47     Ungültig               
+NOP50     Überlastung            
+NOP52     Gesperrt               
+NOP53     Entsperrt              
+NOP54     Keine Sperre           
+NOP55     N.Entsperrt            
+NOP56     Nicht Stören           
+NOP57     Gesperrt               
+NOP58     Überlastung            
+NOP59     Gesperrt               
+NOP60     Besetzt                
+NOP65     Angenommen             
+NOP66     N.Angenommen           
+NOP69     Besetzt                
+NOP72     Gesperrt               
+NOP74     N.Ausgeführt           
+NOP75     N. verfügbar           
+NOP76     N. verfügbar           
+NOP77     Ber. aus...            
+NOP78     Abwesend               
+NOP79     Ber.gesperrt           
+NOP89     CAC-Überlastung        
+NOP93     N. verfügbar           
+NOP99     Syst. block.           
+PRK0      3 geparkt              
+PRK1      2 geparkt              
+PRK2      1 geparkt              
+PRK3      GeparkteGesp           
+PRK4      L2 geparkt             
+PRK5      L1 geparkt             
+REG5      Code OK                
+REG7      FalscherCode           
+REG10     Code OK                
+REG14     Neue Meldung           
+REG15     Neue Meldung           
+REG16     Neue Meldung           
+REG17     Neue Meldung           
+REG18     Eing.Ext-Nr.           
+REG19     Rufumleitung           
+

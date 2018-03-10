@@ -1,0 +1,413 @@
+
+Extension Text String
+
+Language: Norsk               
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Velg profil            
+ABS1      Dir. viderekobl. til   
+ABS2      Medflytting            
+ABS3      Fraværsinformasjon     
+ABS4      Vid.kobl. ekst. anr.   
+ABS5      Ikke forstyrr          
+ABS6      Vid.kobl. v/ikke sv.   
+ABS7      Vid.kobl. v/opptatt    
+ABS8      Aktiv                  
+ABS9      Ikke aktiv             
+ABS10     Ingen profil           
+ABS11     Valg                   
+BSY1      Opptatt                
+BSY2      Opptatt linje          
+BSY3      Tilb.ring mislykket    
+BSY4      Samtale venter misl    
+BSY5      Innbryting mislykket   
+BSY6      Billigste linje oppt   
+BSY9      Tilb.ring mislykket    
+BSY11     Innbryting mislykket   
+BSY14     Opptatt linje          
+BSY19     Ikke utført            
+BSY20     Ikke tilgjengelig      
+CAL1      Ringer                 
+CAL2      Tilb.ring mislykket    
+CAL3      Samt. venter godtatt   
+CAL4      Samt. venter godtatt   
+CAL5      Personsøk pågår        
+CAL6      Anrop i kø             
+CAL7      Anrop i kø             
+CAL8      Personsøkerkø          
+CAL9      Ringer                 
+CAL10     Ringer                 
+CAL20     Anrop i kø             
+CAL21     Anrop i kø             
+CAL23     Anrop i kø             
+CAL28     Samt. venter godtatt   
+CAL34     Ringer                 
+CNF1      Konf.leder             
+CNF2      Konf.medl.             
+CNF3      Konferanseleder        
+CNF4      Konferansemedlem       
+CNF5      Medlemmer              
+DIR1      Ingen treff            
+DIR2      Start på katalog       
+DIR3      Slutt på katalog       
+DIR4      Tom katalog            
+DIV1       >Direkte              
+DIV2       >Opptatt              
+DIV3       >IkkeSvar             
+DIV4       >Medflyt.             
+DIV5       Hentet                
+DIV6       GrpAnr.               
+DIV7       >Ekstern              
+DIV10      Omdiriger             
+DIV11      Omdiriger             
+DIV12      Omdiriger             
+DIV13      DNIS-anr.             
+EXT1      Ekstern                
+EXT2      Priv ekst              
+FCN0      TilgLj, ringetype:     
+FCN1      TillLj, ringetype:     
+FCN2      MultLj, ringetype:     
+FCN3      Menytast               
+FCN4      Funksjonstast 1        
+FCN5      Funksjonstast 2        
+FCN6      Navnetast,1-20 tegn:   
+FCN8      Rep.av eksternnummer   
+FCN9      Funksjonstast 3        
+FCN10     Funksjonstast 4        
+FCN11     Automatisk svarmodus   
+FCN12     Ledig på andre linje   
+FCN13     Tilbakeringing         
+FCN14     Vid.kobl alle anrop    
+FCN16     Parker/hent anrop      
+FCN17     Samtale venter         
+FCN18     Konferanse             
+FCN19     Innbryting             
+FCN20     Personsøking           
+FCN21     Ubesvarte anrop        
+FCN22     Melding venter         
+FCN23     Programmodus           
+FCN24     Sjikanesporing         
+FCN26     Ikke forstyrr          
+FCN27     Manuell meld. venter   
+FCN28     Etterbehandlingstid    
+FCN29     MultNavn, ringetype:   
+FCN30     Datalinje              
+FCN31     Datatast, 1-20 tegn:   
+FCN32     Lokal modus            
+FCN33     Omdirigering           
+FCN34     Overføring             
+FCN35     Pers. nummerprofil     
+FCN37     Overføring             
+FCN41     Personlig nummer       
+ICS0      Lunsj til              TIME          
+ICS1      Opptatt til            DATE          
+ICS2      Henvist                TIME          
+ICS3      Møte til               TIME          
+ICS4      Ute til                DATE          
+ICS5      Kurs til               TIME          
+ICS6      Ferie til              DATE          
+ICS7      Reise til              DATE          
+ICS8      Hjemme til             TIME          
+ICS9      Syk til                
+ICS10      *mer inf.             
+IDL2      Vid.kobl.              
+IDL3      Medflyttet             
+IDL4      Ikke forstyrr          
+IDL5      Vid.kobl til ekstern   
+IDL6      Alle linjer opptatt    
+IDL7      Dir vidkbl             
+IDL8      Vid.kobl personsøk     
+IDL9      Ikke forstyrr          
+IDL10     Melding venter         
+IDL11     Manuell meld. venter   
+IDL13     Omdirigert til ISDN    
+IDL14     Alle linjer opptatt    
+IDL15     Profil                 
+MIS1      Systemtid ikke satt    
+MIS2      Parkert                
+MIS4      Tone:                  
+MIS6      Tonesender innkoblet   
+MIS7      Systemet er opptatt    
+MIS8      Vid.kobl til ekstern   
+MIS9      Sporing mislykket      
+MIS10     Sporing OK             
+MIS11     Anonym                 
+MIS12     Tast kontokode         
+MIS13     Tast autoris.kode      
+MIS14     Pris i f               
+MIS15     Tast ACD PIN-kode      
+MIS16     Forespørsel godtatt    
+MIS17     Tast CQ-kode           
+MIS18     Ufullst. CQ-kode       
+MIS19     Gratis                 
+MIS20     Ingen prisinfo         
+MIS21     Ingen ubesv. anrop     
+MIS22     Nye tapte anrop:       
+MIS23     Slutt på loggliste     
+MIS24     Angi friplassnummer    
+MIS25     Ubesvart               
+MIS26     Innkommende            
+MIS27     Utgående               
+MIS28     Foreta nytt anrop      
+MIS29     Angi medflyttingsnr:   
+MIS30     Tilbake kl. (ttmm):    
+MIS31     Tilbake dato (ddmm):   
+MIS32     Tilbake dato (mmdd):   
+MIS33     Angi eksternnummer:    
+MIS35     Nødanrop               
+MON1      Jan                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Apr                    
+MON5      Mai                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Okt                    
+MON11     Nov                    
+MON12     Des                    
+NOP1      Tidsutkoblet           
+NOP2      Overbelastning         
+NOP3      Tidsutkoblet           
+NOP4      Tidsutkoblet           
+NOP5      Tidsutkoblet           
+NOP6      Overbelastning         
+NOP7      Ikke tillatt           
+NOP8      Linje blokkert         
+NOP9      Nummer ikke i bruk     
+NOP10     Eksp.frav./nattkobl.   
+NOP11     Lagt på                
+NOP12     Godtatt                
+NOP13     Mislykket              
+NOP14     Nummer ikke progr.     
+NOP15     Alle medl. utmeldt     
+NOP16     Ikke gruppemedlem      
+NOP17     Overbelastning         
+NOP18     Ingen samtale venter   
+NOP19     Ute                    
+NOP20     Personsøk avvist       
+NOP21     Sperret nummer         
+NOP22     Alarmsenter opptatt    
+NOP23     Tilbakering ved feil   
+NOP24     Eksp. har koblet ned   
+NOP25     Feil format            
+NOP26     Eksp.frav./nattkobl.   
+NOP28     Ikke godtatt           
+NOP29     I nødtilstand          
+NOP31     Ikke kompatibel        
+NOP33     Tidsutkoblet           
+NOP34     Overbelastning         
+NOP35     Opptatt                
+NOP38     Blokkert               
+NOP40     Lagt på                
+NOP41     Feil format            
+NOP42     Feil format            
+NOP43     Ikke kompatibel        
+NOP44     Ikke tillatt           
+NOP46     Tast tilgangskode      
+NOP47     Feil autoris.kode      
+NOP50     Overbelastning         
+NOP52     Internnummer stengt    
+NOP53     Internnummer åpent     
+NOP54     Stenging mislykket     
+NOP55     Åpning mislykket       
+NOP56     Ikke forstyrr          
+NOP57     Ikke godtatt           
+NOP58     Overbelastning         
+NOP59     Ikke godtatt           
+NOP60     Opptatt                
+NOP65     Sporer anrop           
+NOP66     Sporing ikke godtatt   
+NOP69     Opptatt                
+NOP72     Ikke godtatt           
+NOP74     Ikke godtatt           
+NOP75     Ikke tilgjengelig      
+NOP76     Ikke tilgjengelig nå   
+NOP77     Int.nr. ikke stengt    
+NOP78     Ute                    
+NOP79     Allerede stengt        
+PRK0      SpParkert              
+PRK1      A2 parkert             
+PRK2      A1 parkert             
+PRK3      Parkert                
+PRK4      Linje 2 parkert        
+PRK5      Linje 1 parkert        
+REG5      Kontokode OK           
+REG7      Ugyldig kontokode      
+REG10     Autoris.kode OK        
+REG14     Manuell meld. venter   
+REG15     Melding venter         
+REG16     Melding venter         
+REG17     Manuell meld. venter   
+REG18     Tilg.kode + nummer:    
+REG19     Ekstern viderekobl.    
+SKG0      Konto                  
+SKG1      Tilg.nivå              
+SKG2      Tilbake                
+SKG3      Ring                   
+SKG4      RingTilbake            
+SKG5      RingPerSøk             
+SKG6      HentAnrop              
+SKG7      SamtVenter             
+SKG8      Fjern                  
+SKG9      FellesPark             
+SKG10     Konferanse             
+SKG11     KobleTil               
+SKG12     Prisinfo               
+SKG13     Slett                  
+SKG14     MerInfo                
+SKG15     Ned                    
+SKG16     IkkeForstyrr           
+SKG17     Angi                   
+SKG18     Avslutt                
+SKG19     Finn                   
+SKG20     TvuNedkobl             
+SKG21     GrpHntAnr              
+SKG22     SkjulMeny              
+SKG23     Innbryting             
+SKG24     Stg                    
+SKG25     LoggPå                 
+SKG26     LoggAv                 
+SKG27     mer                    
+SKG28     Neste                  
+SKG29     Åpne                   
+SKG30     TlfBok                 
+SKG31     Kvalifiser             
+SKG32     Kø                     
+SKG33     RingPåNytt             
+SKG34     Tilbake                
+SKG35     VisDato                
+SKG36     VisMeny                
+SKG37     VisTidMåler            
+SKG38     Mlmrom                 
+SKG39     Start                  
+SKG40     Stopp                  
+SKG41     Tidsmåler              
+SKG42     Toner                  
+SKG43     Sjikanespor            
+SKG44     Opp                    
+SKG45     SamtListe              
+SKG46     Tapt                   
+SKG47     Velg                   
+SKG48     Program                
+SKG49     Overføring             
+SKG50     Konf/Overf             
+SKG51     LeggTMedl              
+SKG52     Aktiver                
+SKG53     Deaktiver              
+SKG54     Fravær                 
+SKG55     IngenVidKbl            
+SKG56     AvbrytIF               
+SKG57     Informasjon            
+SKG58     Telefonsett            
+SKG59     Lagre                  
+SKG60     Ja                     
+SKG61     Nei                    
+SKG62     Beholde                
+SKG63     Viderekobl             
+SKG64     Status                 
+SKG65     Medflytting            
+SKG66     Ekstern medflytting    
+SKG67     Ekstern medflyt.       
+SKG68     Viderekoble            
+SKG69     Ikke forstyrr          
+SKG70     Viderekoblet           
+SKG71     Viderekoblet           
+SKG72     Viderekobling          
+SKG73     Talepost               
+SKG74     Feil passord           
+SKG75     Tilbake kl. (ttmm):    
+SKG76     Tilbake (ttmm):        
+SKG77     Tilbake dato (ddmm):   
+SKG78     Tilb.dato(ddmm)        
+SKG79     Tilbake dato (mmdd):   
+SKG80     Tilb.dato(mmdd)        
+SKG81     Ikke funnet            
+SKG82     Angi nummer            
+SKG83     Angi nummer            
+SKG84     Feil format            
+SKG85     Tjeneste bestillt      
+SKG86     Tjen. bestillt         
+SKG87     Tjeneste feilet        
+SKG88     Tjeneste feilet        
+SKG89     Ingen tid/dato form.   
+SKG90     Kontakt systemadmin.   
+SKG91     Tjeneste               
+SKG92     Ukonfigurert telefon   
+SKG93     Bruker:                
+SKG94     Passord                
+SKG95     MidlBruker             
+SKG96     Midlertidig bruker     
+SKG97     Funksjon ikke tilgj.   
+SKI0      Åpne KtKd AutKd Tid    
+SKI1      Stg  KtKd AutKd Tid    
+SKI2      Tilb PSøk       Tid    
+SKI3      Tilb Vent Svar Innb    
+SKI4      Toner KtKd Pris Tid    
+SKI5      Toner KtKd Konf Tid    
+SKI6      FjernSlett     Angi    
+SKI7                     Tast    
+SKI8      Gjent KtKd Svar Tid    
+SKI10                    Koble   
+SKI11                    Pris    
+SKI12                    KtKd    
+SKI14     Stg   Kø  AutKd Kval   
+SKI15     Stg   Kø  AutKd Tid    
+SKI16     Toner KtKd Pris Kval   
+SKI17     Toner KtKd Konf Kval   
+SKI20     Åpne  IF  AutKd Tid    
+SKI21     Stg   IF  AutKd Tid    
+SKI23     Tilb Vent Hent  Tid    
+SKI24     Toner Sjik Pris Tid    
+SKI25     Toner Sjik Konf Tid    
+SKI28     Gjent IF  Svar  Tid    
+SKI30     Neste Slt  Anr Avsl    
+SKI31     Neste:+      Slett:-   
+SKI32     Avslutt:C              
+SKI33     Tilbake:1              
+SKI36     Toner Sjik Pris Kval   
+SKI37     Toner Sjik Konf Kval   
+SKI40     Slt  MlRom Finn Avsl   
+SKI41     Opp   Ned  Anr Tilb    
+SKI42     Åpne KtKd AutKd Kat    
+SKI43     Stg  KtKd AutKd Kat    
+SKI44     Gjent KtKd Svar Kat    
+SKI45     Stg   Kø  AutKd Kat    
+SKI46     Åpne  IF  AutKd Kat    
+SKI47     Stg   IF  AutKd Kat    
+SKI48     Gjent IF  Svar  Kat    
+TIM1      Stopp Slt Dato Avsl    
+TIM2      Start Slt Dato Avsl    
+TIM3      Stopp Slt  Tid Avsl    
+TIM4      Start Slt  Tid Avsl    
+TOP0      Program                
+TOP1      Programmere taster     
+TOP10     Telefonsett            
+TOP11     Tegnrutekontrast       
+TOP12     Melodiprogrammering    
+TOP13     Fastvareindikasjon     
+TOP14     Hodetelefonprioritet   
+TOP15     Lokal testmodus        
+TOP16     Innst. valgfri enhet   
+TOP17     Angi hørevolum         
+TOP20     SamtListe              
+TOP21     Samtaleliste           
+TOP22     Ubesvarte anrop        
+TOP23     Utgående anrop         
+TOP24     Innkommende anrop      
+TOP40     TlfBok                 
+TOP41     SentralKatalog         
+TOP50     Meldinger              
+TOP51     Melding venter         
+TOP52     Talepost:              
+VSU1      Klar                   
+VSU2      Avspilling             
+VSU3      Innspilling            
+VSU4      For sen inntasting     
+VSU5      Feil format            
+VSU6      Avvist                 
+VSU7      Melding tidsutkoblet   
+VSU8      Melding ikke lagret    
+VSU9      Minne fullt            
+

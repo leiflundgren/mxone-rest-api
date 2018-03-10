@@ -1,0 +1,110 @@
+SERVICE CODE   SERVICE IDENTITY   DESCRIPTION
+1B             202                Individual abbreviated dialing                              
+2B             203                Individual abbreviated dialing                              
+3B             204                Individual abbreviated dialing                              
+4B             205                Individual abbreviated dialing                              
+5B             206                Individual abbreviated dialing                              
+6B             207                Individual abbreviated dialing                              
+7B             208                Individual abbreviated dialing                              
+8B             209                Individual abbreviated dialing                              
+9B             210                Individual abbreviated dialing                              
+A              10                 Start of parameter (character * default)                    
+A08A           94                 Choice of language. Change of language                      
+A0A            36                 Selection of individual trunk line (from attendant)         
+A0B            4                  Take own call on another multiple terminal, Answer common bell, Group call pickup or Night bell (common procedure)
+A10A           97                 Activate specified Personal Number/RID list (own)           
+A10B           95                 Activate default Personal Number/RID list (own)             
+A11A           101                Activate Free seating (log on)                              
+A211A          16                 Activate Call Div on no ans for specified number, from OPI (remote)
+A211B          12                 Activate (own) Call Diversion on no answer                  
+A212A          18                 Activate Call Div on busy for specified number from OPI (remote)
+A212B          14                 Activate (own) Call Diversion on busy                       
+A218A          26                 Activate follow-me to Paging for the specified number       
+A218B          27                 Activate follow-me to Paging number                         
+A21A           9                  Activate Follow-me or Diversion on no answer for the specified number (remote)
+A21B           0                  Activate Direct call diversion                              
+A22A           70                 Activate External Follow-me for specified number (remote)   
+A22B           69                 Activate External Follow-me (own)                           
+A230A          49                 Activate Message Div (Interception) from answer position / secondary
+A23A           45                 Activate Message Diversion (Interception)                   
+A241A          90                 Close traffic distribution from ANCD group to ACD-group     
+A24A           79                 Activate Follow-me for specified hunt group number (remote) 
+A24B           77                 Activate Follow-me for hunt group                           
+A25A           75                 Activate Group Do not disturb for specified number (remote) 
+A27A           58                 Activate Do not disturb for specified number (remote)       
+A27B           57                 Activate (individual) Do not disturb                        
+A29A           108                Log-In procedure for a Group hunt(PBX) member to login to a particular group
+A31A           65                 Activate Manual Message waiting                             
+A32B           64                 Dial back to Message Waiting/Manual Message Waiting origin  
+A36B           86                 Activate User-User signalling, service 3 (ISDN)             
+A39B           73                 Request Malicious Call Tracing                              
+A3B            35                 Activate conference from OPI (remote)                       
+A41B           61                 Activate data privacy on call                               
+A42B           104                Activate Calling Line Identity Restriction on per call basis
+A44A           56                 Call to ind external line,with intrusion and force release possibility
+A51A           21                 Individual abbreviated dialling                             
+A52A           62                 Initiate Account code as abbreviated number                 
+A53A           63                 Initiate Authority code as abbreviated number               
+A54A           87                 Initiate individual Authority Code as individual Abbreviated number
+A60A           8                  Bypass of Diversion, Follow-me, DoNotDisturb or Personal Number
+A61A           68                 Account code use (dialling)                                 
+A72A           55                 Authority dialling, use highest Call Discrimination category
+A73A           52                 Activate Common Authority Code (lock)                       
+A74A           85                 Changing individual Authority Code                          
+A75A           82                 Individual Authority Code dialling                          
+A76A           83                 Locking the terminal with individual Authority Code         
+A77A           88                 Enter Customer Identity                                     
+A80A           74                 Day/night switch the system                                 
+A810A          25                 Activate page alarm                                         
+A81A           43                 Paging call to specified number, key telephones             
+A820A          42                 Answer to Paging alarm                                      
+A82A           44                 Answer to Paging on specified number, key telephones        
+A82B           39                 Answer to Paging                                            
+A84A           28                 Activate night switching for specified number (remote)      
+A89A           105                Set/activate group number and name, to be used as CLI when a PBX member does an outgoing call (representing the group)
+A90B           40                 Activate Emergency switching for the system                 
+A9B            102                Activate temporary answer position for Remote extension     
+AA0            20                 Last number re-dial/repetition                              
+AB21B          81                 Interrogate/verify the Diversion position                   
+AB23A          46                 Interrogate Message Diversion (Interception) status         
+B              24                 End of parameter (character # default)                      
+B001A          31                 Cancel all for specified number (remote)                    
+B001B          32                 Cancel all                                                  
+B10A           98                 Cancel Personal Number/RID service for specified number (remote)
+B10B           96                 Cancel Personal Number/RID service (own)                    
+B11A           100                Cancel Free seating for specified number (log off, remote)  
+B11B           99                 Cancel Free seating (log off)                               
+B211A          17                 Cancel Call Div on no ans for specified number, from OPI (remote)
+B211B          13                 Cancel (own) Call Diversion on no answer                    
+B212A          19                 Cancel Call Div on busy for specified number from OPI (remote)
+B212B          15                 Cancel (own) Call Diversion on busy                         
+B218A          93                 Cancel Follow-me to Paging number for specified number      
+B218B          92                 Cancel Follow-me to Paging number                           
+B21A           11                 Cancel direct call div and Follow-me for the specified number(remote)
+B21B           1                  Cancel Direct call diversion or Follow-me                   
+B22A           72                 Cancel External Follow-me for specified number (remote)     
+B22B           71                 Cancel External Follow-me (own)                             
+B230A          50                 Cancel Message Div(Interception) from answer position / secondary
+B23A           48                 Cancel Message Div (Intception) specify I/O output port for printout
+B23B           47                 Cancel Message Diversion (Interception)                     
+B241A          91                 Open traffic distribution from ANCD group to ACD-group      
+B24A           80                 Cancel Follow-me for specified hunt group number (remote)   
+B24B           78                 Cancel Follow-me for hunt group                             
+B25A           76                 Cancel Group Do not disturb for specified number (remote)   
+B27A           60                 Cancel Do not disturb for specified number (remote)         
+B27B           59                 Cancel Do not disturb                                       
+B29A           107                Log-Out procedure for a Group hunt(PBX) member to logoff from a particular group
+B31A           66                 Cancel Manual Message waiting for specified number (remote) 
+B31B           67                 Cancel Manual Message waiting (own)                         
+B37A           6                  Cancel Callback for specified directory number              
+B37B           7                  Cancel all Callback missions                                
+B51A           22                 Cancel individual abbreviated dialling                      
+B51B           23                 Cancel all abbreviated numbers                              
+B73A           53                 Cancel Common Authority Code (unlock)                       
+B76A           84                 Unlocking the terminal with individual Authority Code       
+B84A           30                 Cancel night switching for specified number (remote)        
+B84B           29                 Cancel all night switching                                  
+B89B           106                Remove/deactivate group number and name, earlier used as CLI for a PBX member
+B90B           41                 Cancel Emergency switching for the system                   
+B91B           51                 Cancel Message Waiting                                      
+B9B            103                Cancel temporary answer position for Remote extension       

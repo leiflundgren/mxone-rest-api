@@ -1,0 +1,11 @@
+LDAP Master
+Server          DNS name             IP address      
+mxone.salby.se  ldapmaster.salby.se  192.168.104.18  
+
+DNS Master
+Server          DNS name            IP address      
+mxone.salby.se  dnsmaster.salby.se  192.168.104.17  
+
+Lim servers
+Lim  Server  IP address     Lim DNS name  Lim IP address  
+1    mxone   192.168.104.9  lim1          192.168.104.9   

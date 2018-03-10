@@ -1,0 +1,14 @@
+INFORMATION COMPUTER COMMON FUNCTIONS DATA
+   UPDATING START TIME IS  01:30
+   MESSAGE WAITING FUNCTIONALITY IS  ALL
+INFORMATION COMPUTER EQUIPMENT DATA
+ IFCIND ISTYPE INTTYP LIM IP:RPORT              IP:LPORT              DFMT UPDFCN FILLER ICEXG USER
+
+ 0      1      1      1   192.168.104.24 :6001  -                     4    YES    64     NONE           
+                                                                                                        
+
+ 1                    1                                                                  NONE  GENERIC  
+
+END
+ 
+ 

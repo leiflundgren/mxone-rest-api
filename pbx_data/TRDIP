@@ -1,0 +1,15 @@
+  TRAFFIC RECORDING DIRECTORY
+  MENO   OBJECT  START1  STOP1   START2  STOP2     TIME     LIM     INFO
+     0   ROUDIO 08FEB17 30DEC20                 06:00-19:00       ROU = 1    
+     1   ROUDIO 08FEB17 30DEC20                 06:00-19:00       ROU = 70   
+     2   OPMANN 08FEB17 30DEC20                 06:00-19:00       DIR = 8991      
+     3   OPMANN 08FEB17 30DEC20                 06:00-19:00       DIR = 8992      
+     4   OPMANN 08FEB17 30DEC20                 06:00-19:00       DIR = 8993      
+     5   OPINDI 08FEB17 30DEC20                 06:00-19:00       DIR = 8991      
+     6   OPINDI 08FEB17 30DEC20                 06:00-19:00       DIR = 8992      
+     7   OPINDI 08FEB17 30DEC20                 06:00-19:00       DIR = 8993      
+     8   OPCORG 08FEB17 30DEC20                 06:00-19:00       CORG = 1    
+     9   OPCORG 08FEB17 30DEC20                 06:00-19:00       CORG = 2    
+    10   OPCORG 08FEB17 30DEC20                 06:00-19:00       CORG = 3    
+
+END

@@ -1,0 +1,173 @@
+
+Extension Text String
+
+Language: Eesti               
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Hõivatud               
+BSY2      Hõivatud               
+BSY3      Ebaõnnestus            
+BSY4      Ebaõnnestus            
+BSY5      Ebaõnnestus            
+BSY6      Hõivatud               
+BSY9      Ebaõnnestus            
+BSY11     Ebaõnnestus            
+BSY14     Liin kinni             
+BSY19     Ebaõnnestus            
+BSY20     Pole levis             
+CAL1      Helistan..             
+CAL2      Ebaõnnestus            
+CAL3      Aktiivne               
+CAL4      Aktiivne               
+CAL5      Otsitakse...           
+CAL6      Järjekorras            
+CAL7      Järjekorras            
+CAL8      Järjekorras            
+CAL9      Helistan..             
+CAL10     Helistan..             
+CAL20     Järjekorras            
+CAL21     Järjekorras            
+CAL23     Järjekorras            
+CAL28     Aktiivne               
+CAL34     Helistan..             
+CNF1      Konv. juht             
+CNF2      Konv.osal              
+CNF3      ->                     
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Nopitud                
+DIV6      Grupikõne              
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Väliskõne              
+EXT2      Võrgukõne              
+ICS0      Lõuna                  TIME          
+ICS1      Hõivatud               DATE          
+ICS2      Saabun                 TIME          
+ICS3      Koosolek               TIME          
+ICS4      Lähetus                DATE          
+ICS5      Koolitus               TIME          
+ICS6      Puhkusel               DATE          
+ICS7      Vaba                   DATE          
+ICS8      Tagasi                 TIME          
+ICS9      Muu põhjus             
+ICS10     vali *                 
+IDL2      ->                     
+IDL3      ->                     
+IDL4      ->                     
+IDL5      ->                     
+IDL15     Profiil nr             
+MIS6      DTMF-saatm.            
+MIS7      Hõivatud               
+MIS8      ->                     
+MIS9      Keelatud               
+MIS10     Kõnejälitus            
+MIS11     Salastatud             
+MIS12     Kasutuskood            
+MIS13     PIN-kood               
+MIS14     EUR                    
+MIS15     ACD-PIN kood           
+MIS16     Täidetud               
+MIS17     Kõnekood               
+MIS18     Vale kood              
+MIS19     Maksuvaba              
+MIS20     Maksuvaba              
+MIS21     Logi tühi              
+MIS22     Vastamata              
+MIS23     Logi lõpp              
+MIS25     ->                     
+MIS34     Nime pole              
+MON1      Jan                    
+MON2      Veb                    
+MON3      Mär                    
+MON4      Apr                    
+MON5      Mai                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Okt                    
+MON11     Nov                    
+MON12     Det                    
+NOP1      Aeg läbi               
+NOP2      Takistus               
+NOP3      Aeg läbi               
+NOP4      Aeg läbi               
+NOP5      Aeg läbi               
+NOP6      Takistus               
+NOP7      Keelatud               
+NOP8      Blokeeritud            
+NOP9      Vale number            
+NOP10     Ebaõnnestus            
+NOP11     Kõne lõpp              
+NOP12     õnnestus               
+NOP13     Ebaõnnestus            
+NOP14     Lühinr puudu           
+NOP15     Ebaõnnestus            
+NOP16     Keelatud               
+NOP17     Keelatud               
+NOP18     Kõned puudu            
+NOP19     Pole kohal             
+NOP20     Ebaõnnestus            
+NOP21     Keelatud               
+NOP22     Max nr.                
+NOP23     Testkõne               
+NOP24     Kõne lõpp              
+NOP25     Vale formaat           
+NOP26     Ebaõnnestus            
+NOP28     Ebaõnnestus            
+NOP29     Keelatud               
+NOP31     Ebaõnnestus            
+NOP33     Aeg läbi               
+NOP34     Hõivatud               
+NOP35     Hõivatud               
+NOP38     Blokeeritud            
+NOP40     Kõne lõpp              
+NOP41     Vale formaat           
+NOP42     Vale formaat           
+NOP43     Ei sobi                
+NOP44     Keelatud               
+NOP46     Kasutuskood            
+NOP47     Vale PIN               
+NOP50     Hõivatud               
+NOP52     Lukustatud             
+NOP53     Avatud                 
+NOP54     Ebaõnnestus            
+NOP55     Ebaõnnestus            
+NOP56     Ära sega               
+NOP57     Keelatud               
+NOP58     Hõivatud               
+NOP59     Keelatud               
+NOP60     Hõivatud               
+NOP65     Lubatud                
+NOP66     Keelatud               
+NOP69     Hõivatud               
+NOP72     Keelatud               
+NOP74     Keelatud               
+NOP75     Teenust pole           
+NOP76     Teenust pole           
+NOP77     Juba avatud            
+NOP78     Takistus               
+NOP79     Juba lukus             
+NOP89     Keelatud               
+NOP93     Keelatud               
+NOP99     Jaam blokis            
+PRK0      Liin 3 ootel           
+PRK1      Liin 2 ootel           
+PRK2      Liin 1 ootel           
+PRK3      Ootel                  
+PRK4      Liin 2 ootel           
+PRK5      Liin 1 ootel           
+REG5      Kood õige              
+REG7      Vale kood              
+REG10     PIN õige               
+REG14     Helist.palve           
+REG15     Teade ootab            
+REG16     Teade ootab            
+REG17     Helist.palve           
+REG18     Vali välisnr           
+REG19     Suun. välja            
+

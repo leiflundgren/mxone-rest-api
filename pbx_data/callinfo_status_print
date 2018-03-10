@@ -1,0 +1,111 @@
+Call information output configuration print 
+
+Recording in Lim : 1 is passive and is not forwarding to central log.
+    QoS reporting from endpoints: on with reporting interval 8 seconds.
+
++----------------------------------------------------------------------------+
+Lim 1 
+     Output 0 not connected. Recording disabled
+     Type                  : tcp
+     Subtype               : asb501
+     Records/calls queued  : 0
+     Infotype              : call   
+     Data base server:port : 192.168.104.13:12000
+     Data base server host : 192.168.104.13
+     Format string         : 
+     Default time as       : UTC
+     Newline handling      : NL
+     Output for all (global) data
+     No heartbeat
+
+
+     Output 1 not connected. Recording disabled
+     Type                  : file
+     Subtype               : none
+     Records/calls queued  : 0
+     Infotype              : call   
+     Default time as       : UTC
+     Output for all (global) data
+     No heartbeat
+
+
+     Output 2 not connected. Recording disabled
+     Type                  : file
+     Subtype               : none
+     Records/calls queued  : 0
+     Infotype              : call   
+     Default time as       : UTC
+     Output for all (global) data
+     No heartbeat
+
+
+     Output 3 not connected. Recording disabled
+     Type                  : file
+     Subtype               : none
+     Records/calls queued  : 0
+     Infotype              : call   
+     Default time as       : UTC
+     Output for all (global) data
+     No heartbeat
+
+
+     Output 4 not connected. Recording disabled
+     Type                  : file
+     Subtype               : none
+     Records/calls queued  : 0
+     Infotype              : call   
+     Default time as       : UTC
+     Output for all (global) data
+     No heartbeat
+
+
+     Output 5 not connected. Recording disabled
+     Type                  : file
+     Subtype               : none
+     Records/calls queued  : 0
+     Infotype              : call   
+     Default time as       : UTC
+     Output for all (global) data
+     No heartbeat
+
+
+     Output 6 not connected. Recording disabled
+     Type                  : file
+     Subtype               : none
+     Records/calls queued  : 0
+     Infotype              : call   
+     Default time as       : UTC
+     Output for all (global) data
+     No heartbeat
+
+
+     Output 7 not connected. Recording disabled
+     Type                  : file
+     Subtype               : none
+     Records/calls queued  : 0
+     Infotype              : call   
+     Default time as       : UTC
+     Output for all (global) data
+     No heartbeat
+
+
+     Output 8 not connected. Recording disabled
+     Type                  : file
+     Subtype               : none
+     Records/calls queued  : 0
+     Infotype              : call   
+     Default time as       : UTC
+     Output for all (global) data
+     No heartbeat
+
+
+     Output 9 not connected. Recording disabled
+     Type                  : file
+     Subtype               : none
+     Records/calls queued  : 0
+     Infotype              : call   
+     Default time as       : UTC
+     Output for all (global) data
+     No heartbeat
+
+

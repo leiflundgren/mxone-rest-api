@@ -1,0 +1,413 @@
+
+Extension Text String
+
+Language: Euskara             
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Hautatu profila        
+ABS1      Desb. zuz. hona:       
+ABS2      Jarrai nazazu          
+ABS3      Ez-egot. arrazoia      
+ABS4      Kanpo deien desb.      
+ABS5      Ez molestatu           
+ABS6      Er Ez desb:            
+ABS7      Okup. desb:            
+ABS8      Aktibo                 
+ABS9      Inaktibo               
+ABS10     Profilik gabe          
+ABS11     Hautapena              
+BSY1      Okupatuta              
+BSY2      Loturak okupatuta      
+BSY3      Deitu b.: ez da on.    
+BSY4      Deia zain: ez da on.   
+BSY5      Baim gabe: ez da on.   
+BSY6      Kost tx bidea okup.    
+BSY9      Deitu b.: ez da on.    
+BSY11     Baim gabe: ez da on.   
+BSY14     Lotura okupatuta       
+BSY19     Jada bada deitu b.     
+BSY20     Ez da erabilgarri      
+CAL1      Deika                  
+CAL2      Deitu b.: ez da on.    
+CAL3      Deia zain: onartu da   
+CAL4      Deia zain: onartu da   
+CAL5      Perts.-bil.: on. da    
+CAL6      Deiak ilaran           
+CAL7                             
+CAL8      Perts.-bil. deia il.   
+CAL9      Deika                  
+CAL10     Deika                  
+CAL20     Deiak ilaran           
+CAL21     Deiak ilaran           
+CAL23     Deiak ilaran           
+CAL28     Deia zain: onartu da   
+CAL34     Deika                  
+CNF1      Liderra konf           
+CNF2      Kidea konf             
+CNF3      Liderra konf           
+CNF4      Kidea konf             
+CNF5      Kideak                 
+DIR1      Ez dator bat           
+DIR2      Zerrendako lehena      
+DIR3      Zerrendako azkena      
+DIR4      Datu-basea hutsik      
+DIV1       Desb. zuz.            
+DIV2       Okup. desb.           
+DIV3       Er Ez desb.           
+DIV4       Jarrai nazazu         
+DIV5       Kapturatuta           
+DIV6       Taldea da             
+DIV7       Kanpo desb.           
+DIV10      Desbideratuta         
+DIV11     Desb. ilaran           
+DIV12      Desbideratuta         
+DIV13      DNIS deia             
+EXT1        Kanpokoa             
+EXT2        Tieline              
+FCN0      Bere zenbakia: 0-6     
+FCN1      Zk. osagarria: 0-6     
+FCN2      Zenbaki anitza: 0-4    
+FCN3      Menua                  
+FCN4      1. teklaren funtzioa   
+FCN5      2. teklaren funtzioa   
+FCN6      Programatutako zk.     
+FCN8      Markatut. azken zk.    
+FCN9      3. teklaren funtzioa   
+FCN10     4. teklaren funtzioa   
+FCN11     Erantzun automatikoa   
+FCN12     2. linea libre         
+FCN13     B. deitze autom.       
+FCN14     Dei-desbideratzea      
+FCN16     Deien kaptura          
+FCN17     Deiak zain             
+FCN18     Multikonferentzia      
+FCN19     Baim. gabe sartzea     
+FCN20     Pertsona-bilatzailea   
+FCN21     Er. gabeko deiak       
+FCN22     Mezua zain             
+FCN23     Programazio modua      
+FCN24     Dei gaiztoa            
+FCN26     Ez molestatu akt.      
+FCN27     Eskuzko mezua zain     
+FCN28     Admin. ordua           
+FCN29     Izen anitz. zk.: 0-4   
+FCN30     Datuen zenbakia        
+FCN31     Program. datuen zk.    
+FCN32     Tokiko modua           
+FCN33     Birbideratzen          
+FCN34     Transferitu da         
+FCN35     Zk. perts. zerrenda    
+FCN37     Transferitu da         
+FCN41     Zenbaki pertsonala     
+ICS0       Bazkaltzen            TIME          
+ICS1       Okupatuta             DATE          
+ICS2       Kanpoan               TIME          
+ICS3       Bileran               TIME          
+ICS4       Bidaia                DATE          
+ICS5       Ikastaroa             TIME          
+ICS6       Oporrak               DATE          
+ICS7       Jai                   DATE          
+ICS8       Irtenda               TIME          
+ICS9       Gaixo                 
+ICS10     *=Markatu              
+IDL2      Desbideratuta:         
+IDL3      Jarrai nazazu:         
+IDL4      Ez molestatu akt.      
+IDL5      Desbideratu kanpora    
+IDL6      B. batek erab.         
+IDL7      Hona desbideratuta:    
+IDL8      Desbid. perts.-bil.    
+IDL9      Ez mol. taldea akt.    
+IDL10     Mezua zain             
+IDL11     Eskuzko mezua zain     
+IDL13     Birbideratzen          
+IDL14     Linea okupatuta        
+IDL15     Zerrenda akt.          
+MIS1      Ordua/data ez. gabe    
+MIS2        Atxikita             
+MIS4      Txirrinaren tonua      
+MIS6      Tonu igorlea akt.      
+MIS7      Saiatu b. geroago      
+MIS8      Kanpo desbideratzea    
+MIS9      Dei gaizt: ez da on.   
+MIS10     Dei gaiztoa: on. da    
+MIS11     Anonimoa               
+MIS12     Markatu kontu-kodea    
+MIS13     Markatu kode baim.     
+MIS14      Euro                  
+MIS15     Markatu PIN kodea      
+MIS16     Zerbitzuaren eskaera   
+MIS17     Markatu kalif. kodea   
+MIS18     Mark. digitu geh.      
+MIS19     Tarifarik gabe         
+MIS20     Kostua ez dago er.     
+MIS21     Bilt. deirik ez        
+MIS22     Dei galduak:           
+MIS23     Am. er. gab. zk.       
+MIS24     Mark. freeset zk.      
+MIS25     Erantzun gabea         
+MIS26     Sarrerakoa             
+MIS27     Irteerakoa             
+MIS28     Mark. beste dei bat    
+MIS29     Mark. jarraitu zk:     
+MIS30     Itz.-ordua (hhmm)      
+MIS31     Itzulera-data (ddmm)   
+MIS32     Itzulera-data (mmdd)   
+MIS33     Mark. kanpoko zk:      
+MIS35     Larrialdi-deia         
+MON1      Urt                    
+MON2      Ots                    
+MON3      Mar                    
+MON4      Api                    
+MON5      Mai                    
+MON6      Eka                    
+MON7      Uzt                    
+MON8      Abu                    
+MON9      Ira                    
+MON10     Urr                    
+MON11     Aza                    
+MON12     Abe                    
+NOP1      Dig arteko geh denb    
+NOP2      Pilaketak              
+NOP3      Denbora-muga           
+NOP4      Denbora-muga           
+NOP5      Denbora-muga           
+NOP6      Pilaketak              
+NOP7      Sarbide baim. gabea    
+NOP8      Zerb. kanp. helb.      
+NOP9      Helb. zk. ez dago      
+NOP10     Operadorea ez dago     
+NOP11     Eseki du               
+NOP12     Eragiketa onartu da    
+NOP13     Ez du on. erag.        
+NOP14     Progr. gabeko zk.      
+NOP15     Taldea, guzt. kanp.    
+NOP16     Ez da taldeko kidea    
+NOP17     Saiatu berriro         
+NOP18     Ez dago deirik zain    
+NOP19     Perts.-bil. ez dago    
+NOP20     Ez du on. erag.        
+NOP21     Zenbaki mugatua        
+NOP22     Kide-muga              
+NOP23     Probako b. deitzea     
+NOP24     Operad. eseki du       
+NOP25     Formatu desegokia      
+NOP26     Operadorea ez dago     
+NOP28     Ez du on. erag.        
+NOP29     Terminal bateraez.     
+NOP31     Terminal bateraez.     
+NOP33     Denbora-muga           
+NOP34     Loturen pilaketa       
+NOP35     Terminala okupatuta    
+NOP38     Terminala blokeatuta   
+NOP40     Helburuak eseki du     
+NOP41     Formatu desegokia      
+NOP42     Markaketa desegokia    
+NOP43     Terminal bateraez.     
+NOP44     Ez du on. erag.        
+NOP46     Markatu kontu-kodea    
+NOP47     Baim. kod. okerra      
+NOP50     Saiatu berriro         
+NOP52     Giltzarrapoa itxita    
+NOP53     Giltzarrapoa irekita   
+NOP54     Ez du on. erag.        
+NOP55     Ez du on. erag.        
+NOP56     Ez molestatu akt.      
+NOP57     Ez du on. erag.        
+NOP58     Loturen pilaketa       
+NOP59     Sarbide baim. gabea    
+NOP60     Helburua okupatuta     
+NOP65     Dei gaiztoa: on. da    
+NOP66     Dei gaizt: ez da on.   
+NOP69     Luzapena okupatuta     
+NOP72     Ez du on. erag.        
+NOP74     Zerb. ez da on.        
+NOP75     Zerb. ez dago erab.    
+NOP76     Zerb ord ez erabilg    
+NOP77     Giltzarrapoa irekita   
+NOP78     Agentea ez erabilg.    
+NOP79     Giltzarrapoa itxita    
+PRK0       L3 zain               
+PRK1       L2 zain               
+PRK2       L1 zain               
+PRK3       L1 zain               
+PRK4       2. linea zain         
+PRK5       1. linea zain         
+REG5      Baliozko kontu-kodea   
+REG7      Kontu-kodea balio ez   
+REG10     Baliozko baim. kod.    
+REG14     Eskuzko mezua zain     
+REG15     Mezua zain             
+REG16     Mezua zain             
+REG17     Eskuzko mezua zain     
+REG18     Markatu kanpoko zk.    
+REG19     Kanp. jarrai nazazu    
+SKG0      Kontua                 
+SKG1      Baimendua              
+SKG2      Atzera                 
+SKG3      Deitu                  
+SKG4      Deitu berriro          
+SKG5      Pertsona-bilatzailea   
+SKG6      Dei-kaptura            
+SKG7      Deia zain              
+SKG8      Hasiera                
+SKG9      Atxikitze arrunta      
+SKG10     Multikonf.             
+SKG11     Konekt.                
+SKG12     Kost. informazioa      
+SKG13     Ezabatu                
+SKG14     Inf. gehiago           
+SKG15     Behera                 
+SKG16     Ez mol.                
+SKG17     Markatu                
+SKG18     Irten                  
+SKG19     Bilatu                 
+SKG20     Behart. ask.           
+SKG21     Talde-kaptura          
+SKG22     Ezkut. menua           
+SKG23     Baim. gabe sartzea     
+SKG24     Blok.                  
+SKG25     Akt.                   
+SKG26     Desakt.                
+SKG27     gehiago...             
+SKG28     Hurr.                  
+SKG29     Ireki                  
+SKG30     Agenda                 
+SKG31     Kalif.                 
+SKG32     Ilara                  
+SKG33     Azk.                   
+SKG34     Itzuli                 
+SKG35     Ikusi data             
+SKG36     Ikusi menua            
+SKG37     Ikusi tenp.            
+SKG38     Zuriunea               
+SKG39     Hasi                   
+SKG40     Gelditu                
+SKG41     Tenporiz.              
+SKG42     Tonuak                 
+SKG43     Dei gaiztoak           
+SKG44     Gora                   
+SKG45     Deien zerrenda         
+SKG46     Galdua                 
+SKG47     Hautatu                
+SKG48     Programatu             
+SKG49     Transferitu            
+SKG50     Konf/Transf            
+SKG51     Geh. kidea             
+SKG52     Aktibatu               
+SKG53     Desaktibatu            
+SKG54     Kanpoan                
+SKG55     Desbid. gabe           
+SKG56     Utzi ez mol.           
+SKG57     Xehetasunak            
+SKG58     Konf. tel.             
+SKG59     Gorde                  
+SKG60     Bai                    
+SKG61     Ez                     
+SKG62     Mantendu               
+SKG63     Desbid.                
+SKG64     Presentzia             
+SKG65     Jarrai nazazu          
+SKG66     Kanp. jarrai nazazu    
+SKG67     Kanp. jarrai nazazu    
+SKG68     Desbideratu            
+SKG69     Ez molestatu           
+SKG70     Desbideratuta          
+SKG71     Desbideratuta          
+SKG72     Desbideratzea          
+SKG73     Ahozko mezularitza     
+SKG74     Pasahitz okerra        
+SKG75     Itzul.-ordua (hhmm):   
+SKG76     Itz.-ord (hhmm):       
+SKG77     Itzul.-data (ddmm):    
+SKG78     Itzul.-data (ddmm):    
+SKG79     Itzul.-data (mmdd):    
+SKG80     Itzul.-data (mmdd):    
+SKG81     Ez da aurkitu          
+SKG82     Idatzi zenbakia        
+SKG83     Idatzi zk.             
+SKG84     Formatu desegokia      
+SKG85     Eskatutako zerbitzua   
+SKG86     Eskatutako zerb.       
+SKG87     Zerbitzua ukatu da     
+SKG88     Zerb. ukatu da         
+SKG89     Ordu/data form falta   
+SKG90     Jarri harrem. admin.   
+SKG91     Zerbitzuak             
+SKG92     Deskonfig. telefonoa   
+SKG93     Erabiltzailea:         
+SKG94     Pasahitza              
+SKG95     Aldi bat. erabiltz.    
+SKG96     Aldi bat. erabiltz.    
+SKG97     Funtz. ez dago erab.   
+SKI0       Ireki KKd KBm Ord.    
+SKI1       Itxi KKd KBm Ord.     
+SKI2       Deitu b. Bil. Ord.    
+SKI3       Dei b. Itx Kpt Int    
+SKI4       MF   KKd Kost Ord.    
+SKI5       MF   KKd Konf Ord.    
+SKI6      Ezab. Atzera Markatu   
+SKI7                   Markatu   
+SKI8       Azk. KKd Kpt Ord.     
+SKI10                Deitu b.    
+SKI11                  Kostua    
+SKI12                     KK     
+SKI14      Itxi Ilara KBm Kod    
+SKI15      Itxi Ilara KBm Ord    
+SKI16      MF   KKd Kost Kod     
+SKI17      MF   KKd Konf Kod     
+SKI20     Ireki EzMol KBm Ord    
+SKI21     Itxi EzMol KBm Ord     
+SKI23     Deitu b. Zur Kpt Ord   
+SKI24      MF  Gaizt Kost Ord    
+SKI25      MF  Gaizt Konf Ord    
+SKI28     Azk EzMol Kapt Ord     
+SKI30     Jarr Ezab Mark Irt     
+SKI31     Jarr.:+      Ezab.:-   
+SKI32     Irten:C                
+SKI33     Atzera:1               
+SKI36      MF  Gaizt Kost Kod    
+SKI37      MF  Gaizt Konf Kod    
+SKI40     Ezab Zur Bil Irten     
+SKI41     Aur Hurr MarkAtzera    
+SKI42      Ireki KKd KBm Gida    
+SKI43      Itxi KKd KBm Gida     
+SKI44      Azk. KKd Kapt Gida    
+SKI45     Itxi Il. KBm Gida      
+SKI46     Ir. EzMol KBm Gida     
+SKI47     Itxi EzMol KBm Gida    
+SKI48     Azk. EzMol Kpt Gida    
+TIM1      Geld Has Ezab Irt      
+TIM2      Hasi Has Ezab Irt      
+TIM3      Geld Has Pant Irt      
+TIM4      Hasi Has Pant Irt      
+TOP0      Zerbitzuak             
+TOP1      Teklak programatzea    
+TOP10     Konf. tel.             
+TOP11     Kar. txirrina tonua    
+TOP12     Progr. melodia         
+TOP13     Firmware-adierazp.     
+TOP14     Aurik. lehentasuna     
+TOP15     Tokiko proba mod       
+TOP16     Konf. auk. unit.       
+TOP17     Konf. soin. maila      
+TOP20     Deien zerrenda         
+TOP21     Deien zerrenda         
+TOP22     Er. gabeko deiak       
+TOP23     Irteerako deiak        
+TOP24     Sarrerako deiak        
+TOP40     Agenda                 
+TOP41     Mark. izena            
+TOP50     Mezuak                 
+TOP51     Mezua zain             
+TOP52     Ahozko mezularitza:    
+VSU1      Prest                  
+VSU2      Hasi errepr.           
+VSU3      Hasi grabatzen         
+VSU4      Dig arteko geh denb    
+VSU5      Formatu okerra         
+VSU6      Proz. baztertu da      
+VSU7      Denbora-muga           
+VSU8      Mezua ez da grab.      
+VSU9      Memoria beteta         
+

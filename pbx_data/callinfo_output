@@ -1,0 +1,240 @@
+
+For type: sql. Valid subtypes are:
+=========================================
+ parameters for subtype postgresql : 
+ -output -lim -type -subtype -dbname  -server -port -user -password
+ [-local] [-record]
+
+-----------------------------------------
+ parameters for subtype none : 
+ -output -lim -type -subtype
+ [-local] [-record]
+
+-----------------------------------------
+
+For type: file. Valid subtypes are:
+=========================================
+ parameters for subtype none : 
+ -output -lim -type -subtype
+ [-local] [-record]
+
+-----------------------------------------
+ parameters for subtype commaSeparated : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype xml : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype general : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype fp15 : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype mdfp15 : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype asb501 : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype asbumdfp15 : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype demo1 : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype demo2 : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype mobility : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+
+For type: tcp. Valid subtypes are:
+=========================================
+ parameters for subtype commaSeparated : 
+ -output -lim -type -subtype -server -port
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype xml : 
+ -output -lim -type -subtype -server -port
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype general : 
+ -output -lim -type -subtype -server -port -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype fp15 : 
+ -output -lim -type -subtype -server -port -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype mdfp15 : 
+ -output -lim -type -subtype -server -port -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype asb501 : 
+ -output -lim -type -subtype -server -port -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype asbumdfp15 : 
+ -output -lim -type -subtype -server -port -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype demo1 : 
+ -output -lim -type -subtype -server -port
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype demo2 : 
+ -output -lim -type -subtype -server -port
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype mobility : 
+ -output -lim -type -subtype -server -port
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+
+For type: v24. Valid subtypes are:
+=========================================
+ parameters for subtype commaSeparated : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol] (-noinit |[[-bitrate] [-parity] [-paritycheck] 
+ [-flowcontrol] [-databits] [-stopbits ]])
+
+-----------------------------------------
+ parameters for subtype xml : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol] (-noinit |[[-bitrate] [-parity] [-paritycheck] 
+ [-flowcontrol] [-databits] [-stopbits ]])
+
+-----------------------------------------
+ parameters for subtype general : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol] (-noinit |[[-bitrate] [-parity] [-paritycheck] 
+ [-flowcontrol] [-databits] [-stopbits ]])
+
+-----------------------------------------
+ parameters for subtype fp15 : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol] (-noinit |[[-bitrate] [-parity] [-paritycheck] 
+ [-flowcontrol] [-databits] [-stopbits ]])
+
+-----------------------------------------
+ parameters for subtype mdfp15 : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol] (-noinit |[[-bitrate] [-parity] [-paritycheck] 
+ [-flowcontrol] [-databits] [-stopbits ]])
+
+-----------------------------------------
+ parameters for subtype asb501 : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol] (-noinit |[[-bitrate] [-parity] [-paritycheck] 
+ [-flowcontrol] [-databits] [-stopbits ]])
+
+-----------------------------------------
+ parameters for subtype asbumdfp15 : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol] (-noinit |[[-bitrate] [-parity] [-paritycheck] 
+ [-flowcontrol] [-databits] [-stopbits ]])
+
+-----------------------------------------
+ parameters for subtype demo1 : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol] (-noinit |[[-bitrate] [-parity] [-paritycheck] 
+ [-flowcontrol] [-databits] [-stopbits ]])
+
+-----------------------------------------
+ parameters for subtype demo2 : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol] (-noinit |[[-bitrate] [-parity] [-paritycheck] 
+ [-flowcontrol] [-databits] [-stopbits ]])
+
+-----------------------------------------
+ parameters for subtype mobility : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol] (-noinit |[[-bitrate] [-parity] [-paritycheck] 
+ [-flowcontrol] [-databits] [-stopbits ]])
+
+-----------------------------------------
+
+For type: asyncFile. Valid subtypes are:
+=========================================
+ parameters for subtype commaSeparated : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype xml : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype general : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype fp15 : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype mdfp15 : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype asb501 : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype asbumdfp15 : 
+ -output -lim -type -subtype -dbname  -format [-heartbeat]
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype demo1 : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype demo2 : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol]
+
+-----------------------------------------
+ parameters for subtype mobility : 
+ -output -lim -type -subtype -dbname 
+ [-local] [-record] [-eol]
+
+-----------------------------------------

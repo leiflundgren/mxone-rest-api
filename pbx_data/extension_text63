@@ -1,0 +1,416 @@
+
+Extension Text String
+
+Language: Polski              
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Wybierz profil         
+ABS1      Bezposr. przenos do    
+ABS2      Za mna                 
+ABS3      Przyczyna nieobecn.    
+ABS4      Za mna - zewnetrzne    
+ABS5      Nie przeszkadzac       
+ABS6      Przek.przy braku odp   
+ABS7      Przek. przy zajet.     
+ABS8      Aktywne                
+ABS9      Nieaktywne             
+ABS10     Bez profilu            
+ABS11     Wybor                  
+BSY1      Zajety                 
+BSY2      Linia zajeta           
+BSY3      Blad oddzwaniania      
+BSY4      Blad pol. oczekuj.     
+BSY5      Blad wlaczenia sie     
+BSY6      Najtansza zajeta       
+BSY9      Blad oddzwaniania      
+BSY11     Blad wlaczenia sie     
+BSY14     Linia zajeta           
+BSY19     Juz zamowione          
+BSY20     Nr nieosiagalny        
+CAL1      Polaczenie             
+CAL2      Blad oddzwaniania      
+CAL3      Pol.oczekuj.przyjete   
+CAL4      Pol.oczekuj.przyjete   
+CAL5      Przywolywanie          
+CAL6      Polaczenie w kolejce   
+CAL7      Polaczenie w kolejce   
+CAL8      Przywol. w kolejce     
+CAL9      Polaczenie             
+CAL10     Polaczenie             
+CAL20     Polaczenie w kolejce   
+CAL21     Polaczenie w kolejce   
+CAL23     Polaczenie w kolejce   
+CAL28     Pol.oczekuj.przyjete   
+CAL34     Polaczenie             
+CNF1      InicjaKonf             
+CNF2      UczestKonf             
+CNF3      Inicjator konferenc.   
+CNF4      Uczestnik konfer.      
+CNF5      Uczestnicy             
+DIR1      Nie znaleziono         
+DIR2      Poczatek listy         
+DIR3      Koniec listy           
+DIR4      Lista jest pusta       
+DIV1       >Bezposr.             
+DIV2       >Zajety               
+DIV3       >BrakOdp              
+DIV4       >Za mna               
+DIV5       Odebrane              
+DIV6       Grupowe               
+DIV7       >Zewn.                
+DIV10      Uchyl                 
+DIV11      Uchyl                 
+DIV12      Uchyl                 
+DIV13      Pol. DNIS             
+EXT1      Nr zewn.               
+EXT2      Firmowe                
+FCN0      L. wlasna, dzwonek:    
+FCN1      Dod. linia, dzwonek:   
+FCN2      Linia multi,dzwonek:   
+FCN3      Przyc.aktywacji menu   
+FCN4      Przycisk funkcyjny 1   
+FCN5      Przycisk funkcyjny 2   
+FCN6      Nazwa, 1-20 cyfr:      
+FCN8      Pon. wyb. nru zewn.    
+FCN9      Przycisk funkcyjny 3   
+FCN10     Przycisk funkcyjny 4   
+FCN11     Tryb autom. odbier.    
+FCN12     Wolny na 2. linii      
+FCN13     Oddzwanianie           
+FCN14     Przen. wszystk. pol.   
+FCN16     Odbier./zawiesz.pol.   
+FCN17     Pol. oczekujace        
+FCN18     Konferencja            
+FCN19     Wlacz. sie do rozm.    
+FCN20     Przywolanie            
+FCN21     Polacz. nieodebrane    
+FCN22     Wiadomosc oczekujaca   
+FCN23     Tryb programowania     
+FCN24     sledz. pol. zlosliw.   
+FCN26     Nie przeszkadzac       
+FCN27     Reczne pow. o wiad.    
+FCN28     Czas obslugi           
+FCN29     Nazwa multi,dzwonek:   
+FCN30     Nr spisu danych        
+FCN31     Dane, 1-20 cyfr:       
+FCN32     Tryb lokalny           
+FCN33     Przekierowanie         
+FCN34     Transfer               
+FCN35     Profil nru osobist.    
+FCN37     Transfer               
+FCN41     Numer osobisty         
+ICS0       Lunch                 TIME          
+ICS1       Zajety                DATE          
+ICS2       Nieobecny             TIME          
+ICS3       Spotkanie             TIME          
+ICS4       Podroz                DATE          
+ICS5       Szkolenie             TIME          
+ICS6       Urlop                 DATE          
+ICS7       Wolne                 DATE          
+ICS8       W domu                TIME          
+ICS9       Choroba               
+ICS10      * przek.              
+IDL2      Przen. do              
+IDL3      Za mna                 
+IDL4      Nie przeszkadzac       
+IDL5      Przenies na zewn.      
+IDL6      Wszyst. linie zajete   
+IDL7      Przen.bezp             
+IDL8      Przenies. na pager     
+IDL9      Nie przeszkadzac       
+IDL10     Wiadomosc oczekujaca   
+IDL11     Reczne pow. o wiad.    
+IDL13     Przekier. do ISDN      
+IDL14     Wszyst. linie zajete   
+IDL15     Profil                 
+MIS1      Nieustawiony czas      
+MIS2      Zawiesz.               
+MIS4        Dzwonek:             
+MIS6      Wysyl. tonu wlaczone   
+MIS7      System zajety          
+MIS8      Przenies. na zewn.     
+MIS9      Blad sledzenia pol.    
+MIS10     sledzenie polacz. OK   
+MIS11     Anonimowy              
+MIS12     Wprowadz kod konta     
+MIS13     Wpr. kod autoryzacji   
+MIS14     Koszt w                
+MIS15     Wprowadz kod PIN ACD   
+MIS16     Zadanie przyjete       
+MIS17     Wprowadz kod CQ        
+MIS18     Niepelny kod CQ        
+MIS19     Bezplatne              
+MIS20     Brak inf. o kosztach   
+MIS21     Brak zarejestr. pol.   
+MIS22     Nowe pol. nieod.:      
+MIS23     Koniec dziennika       
+MIS24     Nr wirtualn. biurka    
+MIS25     Nieodebrane            
+MIS26     Przychodzace           
+MIS27     Wychodzace             
+MIS28     Nowe polaczenie        
+MIS29     Wprowadz nr Za mna:    
+MIS30     Godz.powrotu (ggmm):   
+MIS31     Data powrotu (ddmm):   
+MIS32     Data powrotu (mmdd):   
+MIS33     Wprowadz nr zewn.:     
+MIS34     Brak nazwy             
+MIS35     Polaczenie alarmowe    
+MON1      Sty                    
+MON2      Lut                    
+MON3      Mar                    
+MON4      Kwi                    
+MON5      Maj                    
+MON6      Cze                    
+MON7      Lip                    
+MON8      Sie                    
+MON9      Wrz                    
+MON10     Paz                    
+MON11     Lis                    
+MON12     Gru                    
+NOP1      Czas przekroczony      
+NOP2      Natlok                 
+NOP3      Czas przekroczony      
+NOP4      Czas przekroczony      
+NOP5      Czas przekroczony      
+NOP6      Natlok                 
+NOP7      Niedozwolone           
+NOP8      Linia zablokowana      
+NOP9      Nr niewykorzystany     
+NOP10     OperNieob/TrybNocny    
+NOP11     Rozlaczenie            
+NOP12     Zaakceptowano          
+NOP13     Blad                   
+NOP14     Nie zaprogr. numeru    
+NOP15     Wszyscy nieobecni      
+NOP16     Nie nalezy do grupy    
+NOP17     Natlok                 
+NOP18     Brak polacz.oczekuj.   
+NOP19     Nieobecny              
+NOP20     Przywol. odrzucone     
+NOP21     Numer zablokowany      
+NOP22     Centr. alarm. zajete   
+NOP23     Pol. zwr. serwisanta   
+NOP24     Rozlacz. przez oper.   
+NOP25     Zly format             
+NOP26     OperNieob/TrybNocny    
+NOP28     Nie zaakcept!          
+NOP29     W stanie alarmowym     
+NOP31     Niezgodnosc            
+NOP33     Czas przekroczony      
+NOP34     Natlok                 
+NOP35     Zajety                 
+NOP38     Zablokowany            
+NOP40     Rozlaczenie            
+NOP41     Zly format             
+NOP42     Zly format             
+NOP43     Niezgodnosc            
+NOP44     Niedozwolone           
+NOP46     Wprowadz kod dostepu   
+NOP47     Zly kod autoryzacji    
+NOP50     Natlok                 
+NOP52     Nr wewn. zablokow.     
+NOP53     Nr wewn. odblokow.     
+NOP54     Blad blokowania        
+NOP55     Blad odblokowania      
+NOP56     Nie przeszkadzac       
+NOP57     Nie przyjeto           
+NOP58     Natlok                 
+NOP59     Nie przyjeto           
+NOP60     Zajety                 
+NOP65     sledzenie polaczenia   
+NOP66     sledzenie odrzucone    
+NOP69     Zajety                 
+NOP72     Nie przyjeto           
+NOP74     Nie przyjeto           
+NOP75     Niedostepne            
+NOP76     Niedostepne teraz      
+NOP77     Nr wewn. niezablok.    
+NOP78     Nieobecny              
+NOP79     Juz zablokowany        
+NOP89     CAC-NIEDOSTEPNE!       
+NOP93     Niedostepne!           
+PRK0      ZapZaw                 
+PRK1      A2 zaw.                
+PRK2      A1 zaw.                
+PRK3      Zawiesz.               
+PRK4      Linia 2 zawieszona     
+PRK5      Linia 1 zawieszona     
+REG5      Kod konta OK           
+REG7      Zly kod konta          
+REG10     Kod autoryzacji OK     
+REG14     Reczne pow. o wiad.    
+REG15     Wiadomosc oczekujaca   
+REG16     Wiadomosc oczekujaca   
+REG17     Reczne pow. o wiad.    
+REG18     Kod dostepu + nr:      
+REG19     Przeniesienie zewn.    
+SKG0      KodKonta               
+SKG1      KodAutor               
+SKG2      Wstecz                 
+SKG3      Polacz                 
+SKG4      Oddzwon                
+SKG5      PrzywPag               
+SKG6      Odbieranie             
+SKG7      PolOczekuj             
+SKG8      Kasuj                  
+SKG9      ZawWspol               
+SKG10     Konferenc              
+SKG11     Polacz                 
+SKG12     Koszty                 
+SKG13     Usun                   
+SKG14     WiecejInf.             
+SKG15     WDol                   
+SKG16     NiePrzeszk             
+SKG17     Wprowadz               
+SKG18     Wyjdz                  
+SKG19     Znajdz                 
+SKG20     WymRozl                
+SKG21     GrOdbPol               
+SKG22     UkryjMenu              
+SKG23     WlDoRoz                
+SKG24     Blokuj                 
+SKG25     Zaloguj                
+SKG26     Wyloguj                
+SKG27     wiecej                 
+SKG28     Dalej                  
+SKG29     Otworz                 
+SKG30     SpisTelefon            
+SKG31     Kwalifikacja           
+SKG32     Kolejka                
+SKG33     PonWyb                 
+SKG34     Powrot                 
+SKG35     PokazDate              
+SKG36     PokazMenu              
+SKG37     PokazZeg               
+SKG38     Spacja                 
+SKG39     Start                  
+SKG40     Stop                   
+SKG41     Zegar                  
+SKG42     Tonowo                 
+SKG43     sledzPol               
+SKG44     WGore                  
+SKG45     ListaPol               
+SKG46     Nieodebr               
+SKG47     Wybierz                
+SKG48     Programuj              
+SKG49     Transfer               
+SKG50     Konf/Transf            
+SKG51     DodUczestn             
+SKG52     Wlacz                  
+SKG53     Wylacz                 
+SKG54     Nieobecn               
+SKG55     BezPrzen               
+SKG56     AnulujNP               
+SKG57     Szczegoly              
+SKG58     Ustawienia             
+SKG59     Zapisz                 
+SKG60     Tak                    
+SKG61     Nie                    
+SKG62     Zachowaj               
+SKG63     Przekierow.            
+SKG64     Obecność               
+SKG65     Za mna                 
+SKG66     Za mna - zewnetrzne    
+SKG67     Za mna - zewnetrzne    
+SKG68     Przenies               
+SKG69     Nie przeszkadzać       
+SKG70     Przeniesiony           
+SKG71     Przeniesiony           
+SKG72     Przekierowanie         
+SKG73     Poczta głosowa         
+SKG74     złe hasło              
+SKG75     Godz.powrotu (ggmm):   
+SKG76     Godz.powrotu (ggmm)    
+SKG77     Data powrotu (ddmm):   
+SKG78     Data powrotu (ddmm)    
+SKG79     Data powrotu (mmdd):   
+SKG80     Data powrotu (mmdd)    
+SKG81     Nie znaleziono         
+SKG82     Wprowadz numer         
+SKG83     Wprowadz numer         
+SKG84     Zły format             
+SKG85     Usługa zamowiona       
+SKG86     Usługa zamowiona       
+SKG87     Blad                   
+SKG88     Blad                   
+SKG89     Zly format data/czas   
+SKG90     Skontakt. sie z adm.   
+SKG91     Usługi                 
+SKG92     Usuwam konfiguracje    
+SKG93     Użytkownik:            
+SKG94     Hasło                  
+SKG95     UzytkTymcz             
+SKG96     Uz.ytkownik tymczasowy 
+SKG97     Funkcja niedostępna!   
+SKI0      Odbl KKon KAut Czas    
+SKI1      Zabl KKon KAut Czas    
+SKI2      Oddz Przyw     Czas    
+SKI3      Oddz Oczek Odb Wlacz   
+SKI4      Tony KKon Koszt Czas   
+SKI5      Tony KKon Konf Czas    
+SKI6      KasujUsun      Enter   
+SKI7                     Przen   
+SKI8      PonowKKon  Odb Czas    
+SKI10                    Lacz    
+SKI11                    Koszt   
+SKI12                    KKon    
+SKI14     Zabl  Kol KAut Kwal    
+SKI15     Zabl  Kol KAut Czas    
+SKI16     Tony KKon Koszt Kwal   
+SKI17     Tony KKon Konf Kwal    
+SKI20     Odbl  NP  KAut Czas    
+SKI21     Zabl  NP  KAut Czas    
+SKI23     Oddz OczekGrOd Czas    
+SKI24     Tony sled Koszt Czas   
+SKI25     Tony sled Konf Czas    
+SKI28     Ponow  NP  Odb Czas    
+SKI30     Dalej Usun Wyb Koncz   
+SKI31     Dalej:+       Usun:-   
+SKI32     Wyjdz:C                
+SKI33     Wstecz:1               
+SKI36     Tony sled Koszt Kwal   
+SKI37     Tony sled Konf Kwal    
+SKI40     Usun Spac Znaj Koncz   
+SKI41     Gora  Dol WyborPowrt   
+SKI42     Odbl KKon KAut Spis    
+SKI43     Zabl KKon KAut Spis    
+SKI44     PonowKKon  Odb Spis    
+SKI45     Zabl  Kol KAut Spis    
+SKI46     Odbl  NP  KAut Spis    
+SKI47     Zabl  NP  KAut Spis    
+SKI48     Ponow NP   Odb Spis    
+TIM1      Stop  Kas Data Koncz   
+TIM2      Start Kas Data Koncz   
+TIM3      Stop  Kas Czas Koncz   
+TIM4      Start Kas Czas Koncz   
+TOP0      Programuj              
+TOP1      Progr. przyciskow      
+TOP10     Ust. tel.              
+TOP11     Kontrast wyswietl.     
+TOP12     Programow. melodii     
+TOP13     Wersja oprogr. wewn.   
+TOP14     Ust. zest. sluchawk.   
+TOP15     Tryb testu lokalnego   
+TOP16     Ust.modulu urz.opcj.   
+TOP17     Glosnosc sluchawek     
+TOP20     Lista pol.             
+TOP21     Lista polaczen         
+TOP22     Polacz. nieodebrane    
+TOP23     Polacz. wychodzace     
+TOP24     Polacz. przychodzace   
+TOP40     Spis tel.              
+TOP41     Lista glowna           
+TOP50     Wiadomosci             
+TOP51     Wiadomosc oczekujaca   
+TOP52     Poczta glosowa:        
+VSU1      Gotowe                 
+VSU2      Odtwarzanie            
+VSU3      Nagrywanie             
+VSU4      Czas przekroczony      
+VSU5      Zly format             
+VSU6      Odrzucono              
+VSU7      Przekr. czas wiadom.   
+VSU8      Wiadom. niezapisana    
+VSU9      Pamiec zapelniona      
+

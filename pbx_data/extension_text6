@@ -1,0 +1,168 @@
+
+Extension Text String
+
+Language: Suomi               
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Varattu                
+BSY2      Varattu                
+BSY3      Ei onnistu             
+BSY4      Ei onnistu             
+BSY5      Ei onnistu             
+BSY6      Varattu                
+BSY9      Ei onnistu             
+BSY11     Ei onnistu             
+BSY14     Varattu                
+BSY19     Ei sallittu            
+BSY20     Ei tavoit              
+CAL1      Kutsutaan              
+CAL2      Ei onnistu             
+CAL3      Aktivoitu              
+CAL4      Aktivoitu              
+CAL5      Haku ...               
+CAL6      Jonotetaan             
+CAL7      Jonotetaan             
+CAL8      Haku ...               
+CAL9      Kutsutaan              
+CAL10     Kutsutaan              
+CAL20     Jonotetaan             
+CAL21     Jonotetaan             
+CAL23     Jonotetaan             
+CAL28     Aktivoitu              
+CAL34     Kutsutaan              
+CNF1      Neuv joht              
+CNF2      Neuv osal              
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      Follow me              
+DIV5      Poiminta               
+DIV6      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Ulkopuhelu             
+EXT2      Verkkopuhelu           
+ICS0      Lounas                 TIME          
+ICS1      Varattu                DATE          
+ICS2      Sairas                 TIME          
+ICS3      Kokous                 TIME          
+ICS4      Matka                  DATE          
+ICS5      Kurssi                 TIME          
+ICS6      Loma                   DATE          
+ICS7      Poissa                 DATE          
+ICS8      Lähtenyt               TIME          
+ICS9      Poissa                 
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Profiili               
+MIS6      DTMF                   
+MIS7      Tilap. esto            
+MIS8      >                      
+MIS9      Ei onnistu             
+MIS10     Aktivoitu              
+MIS11     Henkilö X              
+MIS12     Laskutustunn           
+MIS13     Kayttöoikeus           
+MIS14     EURO :                 
+MIS15     Anna PIN               
+MIS16     Aktivoidaan            
+MIS17     Puhelutyyppi           
+MIS18     Lisää numer.           
+MIS19     Maksuton               
+MIS20     Ei lask tiet           
+MIS21     Ei numeroita           
+MIS22     Ei vastatut            
+MIS23     Loppu                  
+MIS25     Suomi                  
+MON1      Tam                    
+MON2      Hel                    
+MON3      Maa                    
+MON4      Huh                    
+MON5      Tou                    
+MON6      Kes                    
+MON7      Hei                    
+MON8      Elo                    
+MON9      Syy                    
+MON10     Lok                    
+MON11     Mar                    
+MON12     Jou                    
+NOP1      Aikavalvonta           
+NOP2      Esto                   
+NOP3      Aikavalvonta           
+NOP4      Aikavalvonta           
+NOP5      Aikavalvonta           
+NOP6      Esto                   
+NOP7      Ei sallittu            
+NOP8      Lukittu                
+NOP9      Ei ohjelm              
+NOP10     Väl. poissa            
+NOP11     Purettu                
+NOP12     Aktivoitu              
+NOP13     Ei aktivoitu           
+NOP14     Ei ohjelm              
+NOP15     Ei vastaajia           
+NOP16     Ei jäsen               
+NOP17     Jonoesto               
+NOP18     Ei puhelua             
+NOP19     Poissa                 
+NOP20     Ei onnistu             
+NOP21     Luokkaesto             
+NOP22     Jono täynnä            
+NOP23     Huoltosoitto           
+NOP24     Väl sulkenut           
+NOP25     Virh. koodi            
+NOP26     Väl. poissa            
+NOP28     Ei onnistu             
+NOP29     Esto                   
+NOP31     Ei kytkett.            
+NOP33     Aikavalvonta           
+NOP34     Väyläesto              
+NOP35     Varattu                
+NOP38     Teljetty               
+NOP40     Purettu                
+NOP41     Virh. koodi            
+NOP42     Tuntematon             
+NOP43     Data puhelu            
+NOP44     Ei onnistu             
+NOP46     Virh. laskut           
+NOP47     Ei hyväksyt.           
+NOP50     Esto jonossa           
+NOP52     Lukittu                
+NOP53     Lukitsematon           
+NOP54     Ei onnistu             
+NOP55     Ei onnistu             
+NOP56     älä häiritse           
+NOP57     Luokkaesto             
+NOP58     Väyläesto              
+NOP59     Luokkaesto             
+NOP60     Varattu                
+NOP65     Sallittu               
+NOP66     Ei sallittu            
+NOP69     Varattu                
+NOP72     Luokkaesto             
+NOP74     Ei aktivoitu           
+NOP75     Ei tavoit              
+NOP76     Ei tavoit              
+NOP77     Jo avattu              
+NOP78     Poissa                 
+NOP79     Jo lukittu             
+NOP93     Ei tavoit              
+NOP99     Teljetty               
+PRK0      L3 pidossa             
+PRK1      L2 pidossa             
+PRK2      L1 pidossa             
+PRK3      L1 pidossa             
+PRK4      L2 pidossa             
+PRK5      L1 pidossa             
+REG5      Tunnus hyväk           
+REG7      Virh. tunnus           
+REG10     Tunnus hyväk           
+REG14     Soittopyyntö           
+REG15     Viesti                 
+REG16     Viesti                 
+REG17     Soittopyyntö           
+REG18     Anna ulkonro           
+REG19     Ulkosiirto             
+

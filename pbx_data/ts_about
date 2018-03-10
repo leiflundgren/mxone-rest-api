@@ -1,0 +1,21 @@
+======  MiVoice MX-ONE ======
+Version: 6.3.1.4.5
+
+ RPM Packages
+ ============
+ MX-ONE Service Node 16.3.1.4.5 :
+   eri_sn_opt-16.3.1.4.5-201712181618
+   eri_sn_dbg-16.3.1.4.5-201712181618
+
+ Media Server 4.1.10.2 :
+   mgw-4.1.10.2-1
+
+ Media Gateway Classic :
+   -
+
+ MX-ONE Service Node Manager 6.3.1.4.9.530.27 :
+   eri_om-6.3.1.4.9.530.27-201712181352
+
+ MX-ONE Provisioning Manager 6.3.1.4.2.531.27 :
+   eri_mp-6.3.1.4.2.531.27-201712181359
+

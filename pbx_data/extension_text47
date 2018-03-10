@@ -1,0 +1,170 @@
+
+Extension Text String
+
+Language: Español             
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Ocupado                
+BSY2      LineaOcupada           
+BSY3      No Aceptado            
+BSY4      No Aceptado            
+BSY5      No Aceptado            
+BSY6      LineaOcupada           
+BSY9      No Aceptado            
+BSY11     No Aceptado            
+BSY14     LineaOcupada           
+BSY19     No Aceptado            
+BSY20     NoAlcanzable           
+CAL1      Llamando               
+CAL2      No Aceptado            
+CAL3      Aceptado               
+CAL4      Aceptado               
+CAL5      BuscaPers.             
+CAL6      En cola                
+CAL7      En cola                
+CAL8      BuscaPers.             
+CAL9      Llamando               
+CAL10     Llamando               
+CAL20     En cola                
+CAL21     En cola                
+CAL23     En cola                
+CAL28     Aceptado               
+CAL34     Llamando               
+CNF1      Líder Conf             
+CNF2      Miemb Conf             
+CNF3      Conectado              
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Capturado              
+DIV6      LlamadaGrupo           
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Exterior               
+EXT2      Corporativo            
+ICS0      Comida                 TIME          
+ICS1      OcupadoHasta           DATE          
+ICS2      Ausente                TIME          
+ICS3      Reunión                TIME          
+ICS4      De Viaje               DATE          
+ICS5      De Curso               TIME          
+ICS6      DeVacaciones           DATE          
+ICS7      Día Libre              DATE          
+ICS8      Resto Día              TIME          
+ICS9      Enfermo                
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Lista Num              
+MIS6      EmisorTonAct           
+MIS7      Int.MasTarde           
+MIS8      >                      
+MIS9      No Aceptado            
+MIS10     Aceptado               
+MIS11     SR.                    
+MIS12     MarqueCuenta           
+MIS13     MarqueAutor.           
+MIS14     Euros                  
+MIS15     Marque PIN             
+MIS16     Petición               
+MIS17     Marque calif           
+MIS18     Marq.MásDig            
+MIS19     Sin Tarific            
+MIS20     CosteNoDisp            
+MIS21     NumNoAlmacen           
+MIS22     NumAlmacen             
+MIS23     NumAlmacen             
+MIS25     Spanish                
+MON1      Ene                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Abr                    
+MON5      May                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Ago                    
+MON9      Sep                    
+MON10     Oct                    
+MON11     Nov                    
+MON12     Dic                    
+NOP1      TiempoExced.           
+NOP2      Congestión             
+NOP3      TiempoExced.           
+NOP4      TiempoExced.           
+NOP5      TiempoExced.           
+NOP6      Congestión             
+NOP7      AccesoNoAut            
+NOP8      FueraDeServ            
+NOP9      DestNoExiste           
+NOP10     Oper.Ausente           
+NOP11     Ha Colgado             
+NOP12     Aceptada               
+NOP13     No Aceptada            
+NOP14     NoProgramado           
+NOP15     Todos Ausent           
+NOP16     NoEsMiembro            
+NOP17     Congestión             
+NOP18     NoLl.Espera            
+NOP19     Ausente                
+NOP20     No Aceptada            
+NOP21     Restringido            
+NOP22     Numero Max             
+NOP23     RellamPrueba           
+NOP24     Oper.colgado           
+NOP25     FormatoInco.           
+NOP26     Oper.Ausente           
+NOP28     No Ejecutado           
+NOP29     Emergencia             
+NOP31     Incompatible           
+NOP33     TiempoExced.           
+NOP34     Congestión             
+NOP35     Ocupado                
+NOP38     Bloqueado              
+NOP40     Ha colgado             
+NOP41     FormatoInco.           
+NOP42     Desconocido            
+NOP43     Incompatible           
+NOP44     No Aceptada            
+NOP46     CódigoCuenta           
+NOP47     Inválido               
+NOP50     Congestión             
+NOP52     Cerrado                
+NOP53     Abierto                
+NOP54     No Aceptada            
+NOP55     No Aceptada            
+NOP56     NoMolestar             
+NOP57     Restringido            
+NOP58     Congestión             
+NOP59     Restringido            
+NOP60     Ocupado                
+NOP65     Aceptado               
+NOP66     No Aceptado            
+NOP69     Ocupado                
+NOP72     Restringido            
+NOP74     No Ejecutado           
+NOP75     NoDisponible           
+NOP76     NoDisponible           
+NOP77     Ya Abierto             
+NOP78     Ausente                
+NOP79     Ya Cerrado             
+NOP93     NoDisponible           
+NOP99     Sist.bloque.           
+PRK0      3 en espera            
+PRK1      2 en espera            
+PRK2      1 en espera            
+PRK3      OtroAparcado           
+PRK4      L2 en espera           
+PRK5      L1 en espera           
+REG5      CódigoValido           
+REG7      CódigoNoVal.           
+REG10     CódigoVálido           
+REG14     MsgEnEspera            
+REG15     MsgEnEspera            
+REG16     MsgEnEspera            
+REG17     MsgEnEspera            
+REG18     MarqueNumExt           
+REG19     Desviado               
+

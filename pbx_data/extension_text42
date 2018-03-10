@@ -1,0 +1,174 @@
+
+Extension Text String
+
+Language: Frysk               
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Tastel Beset           
+BSY2      Rûte Beset             
+BSY3      CAB Mislear.           
+BSY4      CAW Mislear.           
+BSY5      INT Mislear.           
+BSY6      LCR Beset              
+BSY9      CAB Mislear.           
+BSY11     INT Mislear.           
+BSY14     Netl. Beset            
+BSY19     Netl. Beset            
+BSY20     Net Te Berik           
+CAL1      Tsl. Bellet            
+CAL2      CAB Mislear.           
+CAL3      CAW Aktyf              
+CAL4      CAW Aktyf              
+CAL5      PAG Aktyf              
+CAL6      Yn Wachtrige           
+CAL7      Yn Wachtrige           
+CAL8      Yn Wachtrige           
+CAL9      Tsl. Bellet            
+CAL10     Tsl. Bellet            
+CAL20     Yn Wachtrige           
+CAL21     Yn Wachtrige           
+CAL23     Yn Wachtrige           
+CAL28     CAW Aktyf              
+CAL34     Tsl. Bellet            
+CNF1      Konf. Ldr              
+CNF2      Konf.Dielnr            
+CNF3      Ferbûn                 
+DIV1      Div. Direkt            
+DIV2      Div. Beset             
+DIV3      Div. B.G.G.            
+DIV4      Follow-Me              
+DIV5      Pick-Up                
+DIV6      Groep                  
+DIV7      Div. Ekstern           
+DIV10     Trochset               
+DIV11     Trochset               
+DIV12     Trochset               
+EXT1      Netline                
+EXT2      Ferb. Line             
+ICS0      Skoft                  TIME          
+ICS1      Fuort                  DATE          
+ICS2      Fuort                  TIME          
+ICS3      Geark.                 TIME          
+ICS4      OpReis                 DATE          
+ICS5      Kursus                 TIME          
+ICS6      Fakân.                 DATE          
+ICS7      FryeD.                 DATE          
+ICS8      N.Oanw                 TIME          
+ICS9      Siik                   
+ICS10      * = Kies              
+IDL2      Trochset:              
+IDL3      Folchstân:             
+IDL4      Net Steure!            
+IDL5      Eks.FM                 
+IDL15     Profyl:                
+MIS6      Toanstj. Oan           
+MIS7      Net Mooglik            
+MIS8      Ekst.Trochsk           
+MIS9      Ôfwiisd                
+MIS10     Tastien                
+MIS11     Geheim Nû.             
+MIS12     ACC.Koade ?            
+MIS13     AUTH.Koade ?           
+MIS14     Kosten:                
+MIS15     PIN Koade ?            
+MIS16     Oanfrege               
+MIS17     CQ Koade ?             
+MIS18     Jou Sifers             
+MIS19     Fergees                
+MIS20     Net Beskikb.           
+MIS21     Gjin Nûmers            
+MIS22     Opsleine Nû.           
+MIS23     Ein Fan NLOG           
+MIS25     Frisian                
+MIS34     Gjin Namme             
+MON1      jan                    
+MON2      feb                    
+MON3      mrt                    
+MON4      apr                    
+MON5      mei                    
+MON6      jun                    
+MON7      jul                    
+MON8      aug                    
+MON9      sep                    
+MON10     okt                    
+MON11     nov                    
+MON12     des                    
+NOP1      Tiid Oer               
+NOP2      Stagnaasje             
+NOP3      Tiid Oer               
+NOP4      Tiid Oer               
+NOP5      Tiid Oer               
+NOP6      Rûte Beset             
+NOP7      Net Tastien            
+NOP8      Blokkearre             
+NOP9      Net Besteand           
+NOP10     Gjin Betsj.            
+NOP11     Ferbrutsen             
+NOP12     Ûtfierd                
+NOP13     Mislearre              
+NOP14     Gjin Numer             
+NOP15     Gjin Dieln.            
+NOP16     Gjin Petear            
+NOP17     Wachtr. Fol            
+NOP18     Gjin Petear            
+NOP19     Pag.Net Oanw           
+NOP20     Pag.Mislear.           
+NOP21     Net Tastien            
+NOP22     AlarmNrBeset           
+NOP23     Werhelle Opr           
+NOP24     Betsj. Ferbr           
+NOP25     Ferk.Formaat           
+NOP26     Gjin Betsj.            
+NOP28     Net Tastien            
+NOP29     Needbidriuw!           
+NOP31     Net Tastien            
+NOP33     Stagnaaasje            
+NOP34     Rûte Beset             
+NOP35     Beset                  
+NOP38     Blokkearre             
+NOP40     Ferbrutsen             
+NOP41     Ferkeard Fmt           
+NOP42     Ûnbek.Fasil            
+NOP43     Data Oprop             
+NOP44     Net Tastien            
+NOP46     ACC Koade ?            
+NOP47     Koade Ûnjild           
+NOP50     Wachtr. Fol            
+NOP52     Blokkearre             
+NOP53     Deblokkearre           
+NOP54     Mislearre              
+NOP55     Mislearre              
+NOP56     Niet Steure!           
+NOP57     Net Tastien            
+NOP58     Opstopping             
+NOP59     Blokkearre             
+NOP60     Beset                  
+NOP65     Tastien                
+NOP66     Ôfwiisd                
+NOP69     Tsl. Beset             
+NOP72     Net Tastien            
+NOP74     Opdr.Mislear           
+NOP75     NetBeskikber           
+NOP76     NetBeskikber           
+NOP77     Beskikber              
+NOP78     Ôfwêzich               
+NOP79     Al Blokkear.           
+NOP89     CAC Stagn.!            
+NOP93     NetBeskikber           
+NOP99     Gjin Tagong            
+PRK0      L3 Wachtsj.            
+PRK1      L2 Wachtsj.            
+PRK2      L1 Wachtsj.            
+PRK3      L1 Wachtsj.            
+PRK4      L2 Wachtsj.            
+PRK5      L1 Wachtsj.            
+REG5      Koade Jildig           
+REG7      Koade Ûnjild           
+REG10     Koade Jildig           
+REG14     Mes. Waiting           
+REG15     Mes. Waiting           
+REG16     Mes. Waiting           
+REG17     Mes. Waiting           
+REG18     Jou Ekst. Nr           
+REG19     Eksterne FM.           
+

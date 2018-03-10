@@ -1,0 +1,39 @@
+Available languages
+===================
+Code   Name of language
+--------------------------------
+eu     Basque
+pt-BR  Brasilian Portuguese
+cs     Czech
+da     Danish
+nl     Dutch
+en     English
+et     Estonian
+fi     Finnish
+fr     French
+fy     Frisian
+de     German
+it     Italian
+es-MX  Latin American Spanish
+no     Norwegian
+pl     Polish
+pt     Portuguese
+ro     Romanian
+ru     Russian
+es     Spanish
+sv     Swedish
+
+Current languages
+=================
+Num  Code   Default                  Override
+--------------------------------------------------------------
+0    en     English                  n/a
+1    fr     French                   n/a
+2    de     German                   n/a
+3    es     Spanish                  n/a
+4    it     Italian                  n/a
+5    sv     Swedish                  
+6    fi     Finnish                  
+7    da     Danish                   
+8    no     Norwegian                
+9    nl     Dutch                    

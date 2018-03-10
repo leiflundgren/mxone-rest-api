@@ -1,0 +1,413 @@
+
+Extension Text String
+
+Language: Deutsch             
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Profil wählen          
+ABS1      Direkte Rufuml. zu     
+ABS2      Umgeleitet             
+ABS3      Grund f. Abwesenheit   
+ABS4      Nst.-Anrufweiterleit   
+ABS5      Anrufschutz            
+ABS6      Uml. bei keiner Antw   
+ABS7      Uml. bei besetzt zu    
+ABS8      Aktiv                  
+ABS9      n. aktiv               
+ABS10     Kein Profil            
+ABS11     Auswahl                
+BSY1      Besetzt                
+BSY2      Leitungen besetzt      
+BSY3      Rückruf n. aktiviert   
+BSY4      Anklopfen n. aktiv     
+BSY5      Aufschalten n.aktiv    
+BSY6      LCR Bündel besetzt     
+BSY9      Rückruf n. aktiviert   
+BSY11     Aufschalten n.aktiv    
+BSY14     Leitung besetzt        
+BSY20     Nicht erreichbar       
+CAL1      Verbinde               
+CAL2      Rückruf n. aktiviert   
+CAL3      Anklopfen aktiviert    
+CAL4      Anklopfen aktiviert    
+CAL5      Personensuchen aktiv   
+CAL6      Ruf in Warteschlange   
+CAL7      Ruf in Warteschlange   
+CAL8      Pag. Ruf / Wartesch.   
+CAL9      Anruf...               
+CAL10     Anruf...               
+CAL20     Ruf in Warteschlange   
+CAL21     Ruf in Warteschlange   
+CAL23     Ruf in Warteschlange   
+CAL28     Anklopfen aktiviert    
+CAL34     Verbinde               
+CNF1      Konf.Leit.             
+CNF2      Konf. Tln.             
+CNF3      Konferenzleiter        
+CNF4      Konferenzteilnehmer    
+CNF5      Teilnehmer             
+DIR1      Kein Eintrag           
+DIR2      Anfang Namensliste     
+DIR3      Ende Namensliste       
+DIR4      Datenbank leer         
+DIV1      >Sofort                
+DIV2      >Besetzt               
+DIV3      >KeineAntw             
+DIV4      Umgeleitet             
+DIV5      Ruf geholt             
+DIV6      Gruppenruf             
+DIV7      >Extern                
+DIV10     Umgeleitet             
+DIV11     Umgeleitet             
+DIV12     Umgeleitet             
+DIV13     DNIS-Ruf               
+EXT1      Extern                 
+EXT2      Netzwerk               
+FCN0      Eig.Ltg., Ruftyp:      
+FCN1      Zus.Ltg., Ruftyp:      
+FCN2      Ber.Ltg., Ruftyp:      
+FCN3      Menütaste              
+FCN4      Funktionstaste 1       
+FCN5      Funktionstaste 2       
+FCN6      Zielwahl max.20 Zif.   
+FCN8      Wahlwiederholung       
+FCN9      Funktionstaste 3       
+FCN10     Funktionstaste 4       
+FCN11     Autom. Rufannahme      
+FCN12     Frei für 2. Anruf      
+FCN13     Rückruf                
+FCN14     Rufumleitung           
+FCN16     Anruf übernehmen       
+FCN17     Anklopfen              
+FCN18     Konferenz              
+FCN19     Aufschalten            
+FCN20     Personensuchen         
+FCN21     Anrufliste             
+FCN22     Nachricht wartet       
+FCN23     Programmiermodus       
+FCN24     Fangschaltung          
+FCN26     Bitte nicht stören     
+FCN27     Bitte zurückrufen.     
+FCN28     Nachbearbeitungszeit   
+FCN29     MNS, Ruftyp:           
+FCN30     Datenleitung           
+FCN31     Zielwahl max.20Zif:    
+FCN32     Lokalmodus             
+FCN33     Weiterleitung          
+FCN34     Übergabe               
+FCN35     Pers. Nummer Profil    
+FCN37     Übergabe               
+FCN41     Personalnummer         
+ICS0       Pause                 TIME          
+ICS1       n. Hause              DATE          
+ICS2       Außend.               TIME          
+ICS3       Sitzung               TIME          
+ICS4       auf Reise             DATE          
+ICS5       krank                 TIME          
+ICS6       Urlaub                DATE          
+ICS7       Lehrgang              DATE          
+ICS8       abwesend              TIME          
+ICS9       n. errei              
+ICS10      * = Wahl              
+IDL2      Umgeleitet             
+IDL3      Umgeleitet             
+IDL4      Bitte nicht stören     
+IDL5      Ruf ext. umgeleitet    
+IDL6      Alle Ltg. besetzt      
+IDL7      Umgeleitet             
+IDL8      Rufumleitung zu PSE    
+IDL9      Anrufschutz Gruppe     
+IDL10     Nachricht wartet       
+IDL11     Bitte zurückrufen      
+IDL13     Weitergeleitet         
+IDL14     Leitung besetzt        
+IDL15     Profil                 
+MIS1      Datum/Zeit n.gesetzt   
+MIS2      Gehalten               
+MIS4      Ruftyp:                
+MIS6      MFV-Wahl aktiv         
+MIS7      Später versuchen       
+MIS8      Ruf ext. umgeleitet    
+MIS9      Fangen nicht möglich   
+MIS10     Fangen durchgeführt    
+MIS11     Anonym                 
+MIS12     Projektcode Eingabe    
+MIS13     Berecht.Code Eingabe   
+MIS14     Gebühr                 
+MIS15     Eingabe PIN-Code       
+MIS16     Dienst angefordert     
+MIS17     Eingabe Rufkennung     
+MIS18     Rufkennung falsch      
+MIS19     Gebührenfrei           
+MIS20     Keine Gebühreninfo     
+MIS21     Keine Einträge         
+MIS22     Unbeantw. Anrufe:      
+MIS23     Ende der Liste         
+MIS24     Nr. fr. Platzw. eing   
+MIS25     Unbeantwortet          
+MIS26     Ankommend              
+MIS27     Abgehend               
+MIS28     Neuen Anruf tätigen    
+MIS29     Umleiteziel eing.:     
+MIS30     Rückkehrzeit (hhmm):   
+MIS31     Rückkehrdat. (ddmm):   
+MIS32     Rückkehrdat. (mmdd):   
+MIS33     Ext Rufnr. eingeben:   
+MIS34     Kein Name              
+MIS35     Notruf                 
+MON1      Jan                    
+MON2      Feb                    
+MON3      Mär                    
+MON4      Apr                    
+MON5      Mai                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Okt                    
+MON11     Nov                    
+MON12     Dez                    
+NOP1      Keine Verbindung       
+NOP2      Nicht erreichbar       
+NOP3      Zeitüberschreitung     
+NOP4      Zeitüberschreitung     
+NOP5      Zeitüberschreitung     
+NOP6      Leitungen besetzt      
+NOP7      Nicht berechtigt       
+NOP8      Teilnehmer blockiert   
+NOP9      Nummer ungültig        
+NOP10     Vermittl. unbesetzt    
+NOP11     Aufgelegt              
+NOP12     Funktion ausgeführt    
+NOP13     Funktion nicht aktiv   
+NOP14     Kurzwahl fehlt         
+NOP15     Gruppe ohne Teiln.     
+NOP16     Kein Gruppenmitglied   
+NOP17     Warteschlange voll     
+NOP18     Kein wartender Anruf   
+NOP19     Teilnehmer abwesend    
+NOP20     Nicht ausgeführt       
+NOP21     Nicht berechtigt       
+NOP22     Alarmnummer besetzt    
+NOP23     Wiederanruf            
+NOP24     Durch Verm. getrennt   
+NOP25     Formatfehler           
+NOP26     Vermittl. unbesetzt    
+NOP28     Nicht ausgeführt       
+NOP29     Anlage in Notbetrieb   
+NOP31     Ziel n. kompatibel     
+NOP33     Zeitüberschreitung     
+NOP34     Amtsbündel besetzt     
+NOP35     Ext. Ziel besetzt      
+NOP38     Anschluss blockiert    
+NOP40     Aufgelegt              
+NOP41     Formatfehler           
+NOP42     Formatfehler           
+NOP43     Datenruf               
+NOP44     Keine Berechtigung     
+NOP46     Projektcode fehlt      
+NOP47     Berecht.Code ungült.   
+NOP50     Warteschlange voll     
+NOP52     Nebenstelle gesperrt   
+NOP53     Nebenstelle offen      
+NOP54     Falsche Eingabe        
+NOP55     Falsche Eingabe        
+NOP56     Bitte nicht stören     
+NOP57     Keine Berechtigung     
+NOP58     Bündel besetzt         
+NOP59     Nicht berechtigt       
+NOP60     Ext.Teiln. Besetzt     
+NOP65     Fangen aktiviert       
+NOP66     Fangen n. aktiviert    
+NOP69     Teilnehmer besetzt     
+NOP72     Nicht berechtigt       
+NOP74     Nicht ausgeführt       
+NOP75     Funktion n.verfügbar   
+NOP76     Zur Zeit n.verfügbar   
+NOP77     Nebenstelle offen      
+NOP78     Teilnehmer abwesend    
+NOP79     Nebenstelle gesperrt   
+PRK0      Halten L3              
+PRK1      Halten L2              
+PRK2      Halten L1              
+PRK3      Halten                 
+PRK4      Leitung 2 geparkt      
+PRK5      Leitung 1 geparkt      
+REG5      Projektcode gültig     
+REG7      Projektcode ungültig   
+REG10     Berecht.Code gültig    
+REG14     Nachricht aktiviert    
+REG15     Nachricht angezeigt    
+REG16     Nachricht angezeigt    
+REG17     Nachricht aktiviert    
+REG18     Rufnummer eingeben     
+REG19     Ruf ext. umgeleitet    
+SKG0      Konto                  
+SKG1      Berechtig.             
+SKG2      Zurück                 
+SKG3      Wahl                   
+SKG4      Rückruf                
+SKG5      Pager-Ruf              
+SKG6      Anrufübern             
+SKG7      Anklopfen              
+SKG8      Löschen                
+SKG9      Halten allg.           
+SKG10     Konferenz              
+SKG11     Verbinden              
+SKG12     KostenInfo             
+SKG13     Löschen                
+SKG14     MehrInfo               
+SKG15     Nach unten             
+SKG16     Nicht stören           
+SKG17     Eingeben               
+SKG18     Beenden                
+SKG19     Suchen                 
+SKG20     Freig. erzw.           
+SKG21     Grupp.übern.           
+SKG22     Menü ausbl.            
+SKG23     Aufschalten            
+SKG24     Sperr                  
+SKG25     Anmelden               
+SKG26     Abmelden               
+SKG27     Weitere                
+SKG28     Weiter                 
+SKG29     Öffnen                 
+SKG30     Tel.buch               
+SKG31     Berecht.               
+SKG32     Warteschl.             
+SKG33     Wahlwiederh.           
+SKG34     Rückkehr               
+SKG35     Datum anzeig           
+SKG36     Menü anzeig.           
+SKG37     Stoppuhr anz           
+SKG38     Leer                   
+SKG39     Start                  
+SKG40     Stopp                  
+SKG41     Stoppuhr               
+SKG42     MFV                    
+SKG43     Fangschalt.            
+SKG44     Nach oben              
+SKG45     Anrufliste             
+SKG46     Unbeantw.              
+SKG47     Auswählen              
+SKG48     Programm               
+SKG49     Gespr.überg.           
+SKG50     Konf/Transf            
+SKG51     Teiln hinzuf           
+SKG52     Aktivieren             
+SKG53     Deaktivieren           
+SKG54     Abwesenheit            
+SKG55     Keine Rufuml           
+SKG56     Anrs abbr.             
+SKG57     Details                
+SKG58     Telefon                
+SKG59     Speichern              
+SKG60     Ja                     
+SKG61     Nein                   
+SKG62     Behalten               
+SKG63     Umleitung              
+SKG64     Anwesenheit            
+SKG65     Rufumleitung           
+SKG66     Externe Rufumleitung   
+SKG67     Ext Rufumleitung       
+SKG68     Umleiten               
+SKG69     Anrufschutz            
+SKG70     Umgeleitet             
+SKG71     Umgeleitet             
+SKG72     Umleitung              
+SKG73     Mailbox                
+SKG74     Falsches Passwort      
+SKG75     Zurück um (hhmm):      
+SKG76     Zurück um (hhmm)       
+SKG77     Zurück am (ttmm):      
+SKG78     Zurück am (ttmm)       
+SKG79     Zurück am (mmtt):      
+SKG80     Zurück am (mmtt)       
+SKG81     Nicht verfügbar        
+SKG82     Nummer eingeben        
+SKG83     Nummer eingeben        
+SKG84     Formatfehler           
+SKG85     Dienst angefordert     
+SKG86     Dienst angef.          
+SKG87     Fehlgeschlagen         
+SKG88     Fehlgeschlagen         
+SKG89     Format Zeit/Datum?     
+SKG90     An Systemadm. wenden   
+SKG91     Dienste                
+SKG92     Reset Telefon          
+SKG93     Benutzer:              
+SKG94     Passwort               
+SKG95     TemporBen.             
+SKG96     Temporärer Benutzer    
+SKG97     Funktion nicht verfügbar!
+SKI0      ÖffneProj BeCo SUhr    
+SKI1      SperrProj BeCo SUhr    
+SKI2      RüRu Page      SUhr    
+SKI3      RüRu Ankl Über Aufs    
+SKI4      MFV  Proj Geb. SUhr    
+SKI5      MFV  Proj Konf SUhr    
+SKI6      Lösch <--      Eing    
+SKI7      Wahl                   
+SKI8      Merke Proj Über SUhr   
+SKI10     RüRu                   
+SKI11     Geb.                   
+SKI12     Proj                   
+SKI14     SperrWarS  BeCo  CQ    
+SKI15     SperrWarS BeCo Suhr    
+SKI16     MFV Proj Geb CQ        
+SKI17     MFV  Proj Konf  CQ     
+SKI20     ÖffneAnrs BeCo SUhr    
+SKI21     SperrAnrs BeCo SUhr    
+SKI23     RüRu Ankl Über SUhr    
+SKI24     MFV  Fang Geb. SUhr    
+SKI25     MFV  Fang Konf SUhr    
+SKI28     MerkeAnrs Über SUhr    
+SKI30     Näch LöschWahl Ende    
+SKI31     Weiter:+   Löschen:-   
+SKI32     Beenden:C              
+SKI33     Zurück:1               
+SKI36     MFV  Fang Geb.  CQ     
+SKI37     MFV  Fang Konf  CQ     
+SKI40     LöschLeer Such Ende    
+SKI41     Hoch  Ru  Wahl Zurü.   
+SKI42     ÖffneProj BeCo TeleB   
+SKI43     SperrProj BeCo TeleB   
+SKI44     MerkeProj ÜNah TeleB   
+SKI45     SperrQue  BeCo TeleB   
+SKI46     ÖffneAnrs BeCo TeleB   
+SKI47     SperrAnrs BeCo TeleB   
+SKI48     MerkeAnrs Über TeleB   
+TIM1      Stop Rset Datum End    
+TIM2      StartRset Datum End    
+TIM3      Stop Rset SUhr  End    
+TIM4      StartRset SUhr End     
+TOP0      Services               
+TOP1      Progr. v. Funkt.tast   
+TOP10     Telefon                
+TOP11     Display-Kontrast       
+TOP12     Melodieprogrammier.    
+TOP13     Firmware-Anzeige       
+TOP14     Priorität Headset      
+TOP15     Lokaler Testmodus      
+TOP16     Option Unit-Einstell   
+TOP17     Hörer-Lautst einst.    
+TOP20     Anrufliste             
+TOP21     Anrufliste             
+TOP22     Unbeantw. Anrufe       
+TOP23     Abgehende Anrufe       
+TOP24     Ankommende Rufe        
+TOP40     Tel.buch               
+TOP41     Zentrale Namensliste   
+TOP50     Nachrichten            
+TOP51     Nachricht wartet       
+TOP52     Mailbox:               
+VSU1      VSU bereit             
+VSU2      Wiedergabe             
+VSU3      Aufnahme               
+VSU4      Bedienzeit Ablauf      
+VSU5      Formatfehler           
+VSU6      Nicht durchgeführt     
+VSU7      Aufnahmezeit Ende      
+VSU8      Text nicht aufgenom.   
+VSU9      VSU Speicher voll      
+

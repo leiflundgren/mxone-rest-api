@@ -1,0 +1,154 @@
+
+Extension Text String
+
+Language: Polski              
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Zajety                 
+BSY2      Linia zajeta           
+BSY3      Blad                   
+BSY4      Blad                   
+BSY5      Blad                   
+BSY6      Linia zajeta           
+BSY9      Blad                   
+BSY11     Blad                   
+BSY14     Linia zajeta           
+BSY19     Juz zamow.             
+BSY20     Nr nieosiag            
+CAL1      Polaczenie             
+CAL2      Blad                   
+CAL3      Przyjete               
+CAL4      Przyjete               
+CAL5      Przywolywan.           
+CAL6      Pol. w kol.            
+CAL7      Pol. w kol.            
+CAL8      Przywolywan.           
+CAL9      Polaczenie             
+CAL10     Polaczenie             
+CAL20     Pol. w kol             
+CAL21     Pol. w kol             
+CAL23     Pol. w kol             
+CAL28     Przyjete               
+CAL34     Polaczenie             
+CNF1      InicjaKonf             
+CNF2      UczestKonf             
+CNF3      >                      
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Odebrane               
+DIV6      Grupowe                
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Nr zewn.               
+EXT2      Firmowe                
+ICS0      Lunch                  TIME          
+ICS1      Zajety                 DATE          
+ICS2      Nieobecny              TIME          
+ICS3      Spotkanie              TIME          
+ICS4      Podroz                 DATE          
+ICS5      Szkolenie              TIME          
+ICS6      Urlop                  DATE          
+ICS7      Wolne                  DATE          
+ICS8      W domu                 TIME          
+ICS9      Choroba                
+ICS10     * przek.               
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Profil                 
+MIS8      >                      
+MIS9      Blad                   
+MIS34     Brak nazwy             
+MON1      Sty                    
+MON2      Lut                    
+MON3      Mar                    
+MON4      Kwi                    
+MON5      Maj                    
+MON6      Cze                    
+MON7      Lip                    
+MON8      Sie                    
+MON9      Wrz                    
+MON10     Paz                    
+MON11     Lis                    
+MON12     Gru                    
+NOP1      Czas przekr.           
+NOP2      Natlok                 
+NOP4      Czas przekr.           
+NOP5      Czas przekr.           
+NOP6      Natlok                 
+NOP7      Niedozwolone           
+NOP8      Linia zablok           
+NOP9      Nr niewykorz           
+NOP10     OperNieob              
+NOP11     Rozlaczenie            
+NOP12     Wykonano               
+NOP13     Blad                   
+NOP14     Nie zaprogr.           
+NOP15     WszyscyNieob           
+NOP16     Poza grupa             
+NOP17     Natlok                 
+NOP18     Brak polacz.           
+NOP19     Nieobecny              
+NOP20     Odrzucone              
+NOP21     Zablokowany            
+NOP22     Zajete                 
+NOP23     Pol. zwrotne           
+NOP24     Roz.przez op           
+NOP25     Zly format             
+NOP26     OperNieob              
+NOP28     Nie przyjeto           
+NOP29     Stan alarm.            
+NOP31     Niezgodnosc            
+NOP33     Czas przekr            
+NOP34     Natlok                 
+NOP35     Zajety                 
+NOP38     Zablokowany            
+NOP40     Rozlaczenie            
+NOP41     Zly format             
+NOP42     Zly format             
+NOP43     Niezgodnosc            
+NOP44     Niedozwolone           
+NOP46     Wpr.Kod.Dost           
+NOP47     Zly.Kod.Aut.           
+NOP50     Natlok                 
+NOP52     Nr wew zabl.           
+NOP53     Nr wew odbl.           
+NOP54     Blad blokow.           
+NOP55     Blad odblok.           
+NOP56     Nie przeszk.           
+NOP57     Zablokowane            
+NOP58     Natlok                 
+NOP59     Zablokowane            
+NOP60     Zajety                 
+NOP65     Przyjeto               
+NOP66     Nie przyjeto           
+NOP69     Zajety                 
+NOP72     Zablokowane            
+NOP74     Nie wykonano           
+NOP75     Niedostepne            
+NOP76     Niedostepne            
+NOP77     Odblokowany            
+NOP78     Nieobecny              
+NOP79     Juz zablokow           
+NOP89     CAC-NiEDOST!           
+NOP93     Niedostepne            
+NOP99     Zablokowane            
+PRK0      3 zaw.                 
+PRK1      2 zaw.                 
+PRK2      1 zaw.                 
+PRK3      Zawiesz.               
+PRK4      L2 zaw.                
+PRK5      L1 zaw.                
+REG5      Kod OK                 
+REG7      Zly kod                
+REG14     Pow. o wiad.           
+REG15     Wiadomosc              
+REG16     Wiadomosc              
+REG17     Wiadomosc              
+REG18     Wprowadz nr            
+REG19     Przen na zew           
+

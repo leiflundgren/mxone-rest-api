@@ -1,0 +1,417 @@
+
+Extension Text String
+
+Language: Frysk               
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Profyl Selektearje     
+ABS1      Trochskeakelje Nei     
+ABS2      Trochskeakelje         
+ABS3      Reden Ôfwêzichheid     
+ABS4      Ekst.Trochskeakelje    
+ABS5      Net Steure             
+ABS6      Trochset B.G.G.        
+ABS7      Trochset Beset         
+ABS8      Aktyf                  
+ABS9      Ynaktyf                
+ABS10     Gjin profyl            
+ABS11     Keuze                  
+BSY1      Tsl. Beset             
+BSY2      Rûte Beset             
+BSY3      CAB Opdr. Mislearre    
+BSY4      CAW Opdr. Mislearre    
+BSY5      INT Opdr. Mislearre    
+BSY6      LCR Rûte Beset         
+BSY9      CAB Opdr. Mislearre    
+BSY11     INT Opdr. Mislearre    
+BSY14     Netline Beset          
+BSY19     Netl. Beset            
+BSY20     Net Te Berikken        
+CAL1      Tsl. Bellet            
+CAL2      CAB Opdr. Mislearre    
+CAL3      CAW Opdr. Aktyf        
+CAL4      CAW Opdr. Aktyf        
+CAL5      PAG Opdracht Aktyf     
+CAL6      Oprop Yn Wachtrige     
+CAL7      Oprop Yn Wachtrige     
+CAL8      Oprop Yn Wachtrige     
+CAL9      Tsl. Bellet            
+CAL10     Tsl. Bellet            
+CAL20     Oprop Yn Wachtrige     
+CAL21     Oprop Yn Wachtrige     
+CAL23     Oprop Yn Wachtrige     
+CAL28     CAW Opdracht Aktyf     
+CAL34     Tastel Bellet          
+CNF1      Konf. L.               
+CNF2      Konf. D.               
+CNF3      Konferinsje Lieder     
+CNF4      Konferinsje Dielnmr    
+CNF5      Dielnimmer             
+DIR1      Neat Fûn               
+DIR2      Begjin Nammelist       
+DIR3      Ein Nammelist          
+DIR4      Lege Database          
+DIV1      > Direct               
+DIV2      > Beset                
+DIV3      > B.G.G.               
+DIV4      Follow-Me              
+DIV5      Pick-Up                
+DIV6      Groep                  
+DIV7      > Ekstern              
+DIV10     Trochset               
+DIV11     Trochset               
+DIV12     Trochset               
+DIV13     DNIS Oprop             
+EXT1      Netline                
+EXT2      Ferb. Line             
+FCN0      ODN/Eigen Nûmer        
+FCN1      ADN/Ekstra Nûmer       
+FCN2      MDN/Mearfâldich Nû.    
+FCN3      Menu                   
+FCN4      Softkey F1             
+FCN5      Softkey F2             
+FCN6      TNS/Frije Toets        
+FCN8      ENR/Ekst.Nû.Werhelje   
+FCN9      Softkey F3             
+FCN10     Softkey F4             
+FCN11     AANS/Autom. Beantw.    
+FCN12     Frij Op 2e Line        
+FCN13     CAB/Werombelje         
+FCN14     CAD/Trochskeakelje     
+FCN16     CUP/Call Pick-up       
+FCN17     CAW/Trúntoan           
+FCN18     CNF/Konferinsje        
+FCN19     INT/Opskeakelje        
+FCN20     PAG/Paging             
+FCN21     NLOG/Nûmer Log         
+FCN22     MEW/Boadskip Oanw.     
+FCN23     Programmearstân        
+FCN24     Malicious Call Trace   
+FCN26     DND/Net Steure         
+FCN27     MMW/Hânm. Boadskip     
+FCN28     CLT/Neiwurktiid ACD    
+FCN29     MNS/Monitor & Kieze    
+FCN30     DDN/Datanûmer          
+FCN31     DNS/Frije Datatoets    
+FCN32     LCM/Lokale Stân        
+FCN33     SBC/Switch B-Channel   
+FCN34     RDC/Redirect -> ISDN   
+FCN35     PEN/Pers. Nûmer List   
+FCN37     TFR/Trochskeakelje     
+FCN41     Sjef/Sekretaresse      
+ICS0       Mid. Skoft            TIME          
+ICS1       Efkesfuort            DATE          
+ICS2       Skoftfuort            TIME          
+ICS3       Gearkomste            TIME          
+ICS4       Op Reis               DATE          
+ICS5       Kursus                TIME          
+ICS6       Fakânsje              DATE          
+ICS7       Frye Dei              DATE          
+ICS8       Net Oanw.             TIME          
+ICS9       Siik                  
+ICS10      * = Kies              
+IDL2      Trochset:              
+IDL3      Folchstân:             
+IDL4      Net Steure Aktyf       
+IDL5      Ekstern Trochset       
+IDL6      Yn Gebrûk              
+IDL7      Trochset               
+IDL8      Trochset Nei Paging    
+IDL9      Net Steure Aktyf       
+IDL10     Boadskip Oanw.         
+IDL11     Hânm. Boadskip Oanw.   
+IDL13     Trochset Nei ISDN      
+IDL14     Beide Linen Beset      
+IDL15     Profyl:                
+MIS1      Datum/Tiid Ûntbrekt    
+MIS2      Wachtsjend             
+MIS4      Bel Type:              
+MIS6      Toanstjoerder Oan      
+MIS7      No Net Mooglik         
+MIS8      Ekst. Trochskeak.      
+MIS9      MCT Ôfwiisd            
+MIS10     MCT Tastien            
+MIS11     Geheim Nû.             
+MIS12     Jou ACC Koade          
+MIS13     Jou AUTH Koade         
+MIS14     Kosten EUR:            
+MIS15     Jou ACD Pinkoade       
+MIS16     Service Oanfrege       
+MIS17     Jou CQ Koade           
+MIS18     Jou Mear Sifers        
+MIS19     Fergees                
+MIS20     Gjin Koste info        
+MIS21     Gjin Opsleine Nû.      
+MIS22     Opsleine Nûmers        
+MIS23     Ein Fan Nûmer Log      
+MIS24     Nûmer Free Seating     
+MIS25     Ônbeantwurde           
+MIS26     Ynkommend              
+MIS27     Útgeand                
+MIS28     Nei Petear             
+MIS29     Folchstân Nûmer        
+MIS30     Tiid Werom (uumm):     
+MIS31     Datum Werom (ddmm):    
+MIS32     Datum Werom (mmdd):    
+MIS33     Extern Nûmer:          
+MIS34     Gjin Namme             
+MIS35     Needoprop              
+MON1      jan                    
+MON2      feb                    
+MON3      mrt                    
+MON4      apr                    
+MON5      mei                    
+MON6      jun                    
+MON7      jul                    
+MON8      aug                    
+MON9      sep                    
+MON10     okt                    
+MON11     nov                    
+MON12     des                    
+NOP1      Nûmer Net Folslein     
+NOP2      Stagnaasje             
+NOP3      Gjin Gehoar            
+NOP4      Beset                  
+NOP5      Stagnaasje O.Netline   
+NOP6      Rûte Beset             
+NOP7      Ferkearde Kategory     
+NOP8      Net Te Berikken        
+NOP9      Net Besteand Nûmer     
+NOP10     Gjin Betsjinning       
+NOP11     Ophongen               
+NOP12     Opdracht Ûtfierd       
+NOP13     Opdr. Mislearre        
+NOP14     Gjin Ferkoarte Nû.     
+NOP15     Gjin Dieln. Frij       
+NOP16     Gjin Groepslid         
+NOP17     Wachtrige Fol          
+NOP18     Gjin Petear            
+NOP19     Pager Net Oanwêzich    
+NOP20     Pag. Oprop Mislearre   
+NOP21     Net Tastien            
+NOP22     Alarmnûmer Beset       
+NOP23     Werhelle Oprop         
+NOP24     Betsjinning Ferbrekt   
+NOP25     Ferkeard Formaat       
+NOP26     Gjin Betsjinning       
+NOP28     Net Tastien            
+NOP29     Yn Needbidriuw !       
+NOP31     Net Tastien            
+NOP33     Stagnaasje             
+NOP34     Rûte Beset             
+NOP35     Oproppen Pers. Beset   
+NOP38     Blokkearre Nûmer       
+NOP40     Ferbining Ferbrutsen   
+NOP41     Ferkeard Formaat       
+NOP42     Ûnbekende Fasiliteit   
+NOP43     Data Oprop             
+NOP44     Net Tastien            
+NOP46     Jou Goede ACC Koade    
+NOP47     Ûnjildige AUTH Koade   
+NOP50     Wachtrige Fol          
+NOP52     Blokkearre             
+NOP53     Deblokkearre           
+NOP54     Blokk. Mislearre       
+NOP55     Deblokk. Mislearre     
+NOP56     Net Steure Aktyf       
+NOP57     Net Tastien            
+NOP58     Rûte Opstopping        
+NOP59     Net Tastien            
+NOP60     Tastel Beset           
+NOP65     MCT Tastien            
+NOP66     MCT Ôfwiisd            
+NOP69     Tastel Beset           
+NOP72     Net Tastien            
+NOP74     Opdr. Mislearre        
+NOP75     Net Beskikber          
+NOP76     No Net Beskikber       
+NOP77     Al Frijjûn             
+NOP78     Groep Dieln.Ôfwêzich   
+NOP79     Al Blokkearre          
+NOP89     CAC Stagnaasje!        
+NOP93     Net Beskikber          
+NOP99     Gjin Tagong            
+PRK0      L3 Wachtsjend          
+PRK1      L2 Wachtsjend          
+PRK2      L1 Wachtsjend          
+PRK3      L1 Wachtsjend          
+PRK4      L2 Wachtsjend          
+PRK5      L1 Wachtsjend          
+REG5      Jildige ACC Koade      
+REG7      Ûnjildige ACC Koade    
+REG10     Jildige Aut Koade      
+REG14     Man. Boadskip Oanw.    
+REG15     Boadskip Oanwêzich     
+REG16     Boadskip Oanwêzich     
+REG17     MMW & DIV/FME aktyf    
+REG18     Jou Ekstern Nûmer      
+REG19     Ekst. Trochskeakele    
+SKG0      Acc. Koade             
+SKG1      Auth. Koade            
+SKG2      Terug                  
+SKG3      Skilje                 
+SKG4      Werombelje             
+SKG5      Paging                 
+SKG6      Call Pick-Up           
+SKG7      Wacht Toan             
+SKG8      Wiskje                 
+SKG9      Wacht Stân             
+SKG10     Konferinsje            
+SKG11     Ferbine                
+SKG12     Kosten                 
+SKG13     Ferwiderje             
+SKG14     Kies                   
+SKG15     Omleech                
+SKG16     Net Steure             
+SKG17     Ynfieren               
+SKG18     Útgong                 
+SKG19     Siikje                 
+SKG20     Frijjaan               
+SKG21     Groepspetear           
+SKG22     Útgong                 
+SKG23     Tuskenkomst            
+SKG24     Blokkearre             
+SKG25     Oanmelden              
+SKG26     Ofmelde                
+SKG27     Mear                   
+SKG28     Folgjende              
+SKG29     Frijjaan               
+SKG30     Tillef.Gids            
+SKG31     CQ Koade               
+SKG32     Wachtrige              
+SKG33     Opnij ?                
+SKG34     Werom                  
+SKG35     Datum                  
+SKG36     Menu                   
+SKG37     Timer                  
+SKG38     Spaasje                
+SKG39     Starte                 
+SKG40     Stopje                 
+SKG41     Timer                  
+SKG42     Toanen                 
+SKG43     MCT                    
+SKG44     Omheech                
+SKG45     Petearlist             
+SKG46     Miste Oprop.           
+SKG47     Selectearje            
+SKG48     Program.               
+SKG49     Transport              
+SKG50     Konf./Transp           
+SKG51     Knf/Útwreide           
+SKG52     Aktivearje             
+SKG53     Deaktivear.            
+SKG54     Ôfwêzichh.             
+SKG55     Net Trochsk.           
+SKG56     Net Steuren            
+SKG57     Details                
+SKG58     Ynstellingen           
+SKG59     Opslaan                
+SKG60     Ja                     
+SKG61     Nee                    
+SKG62     Bewarje                
+SKG63     Trochsk.               
+SKG64     Oanwêzigheid           
+SKG65     Folgstân               
+SKG66     Eksterne Folgstân      
+SKG67     Ekst.Folgstân          
+SKG68     Trochskeakelje         
+SKG69     Net Steure             
+SKG70     Trochskeakele          
+SKG71     Trochskeakele          
+SKG72     Trochskeakelje         
+SKG73     Voicemail              
+SKG74     Ferkeard Password      
+SKG75     Tiid Werom (uumm):     
+SKG76     Werom (uumm):          
+SKG77     Datum Werom (ddmm):    
+SKG78     Werom (ddmm):          
+SKG79     Datum Werom (mmdd):    
+SKG80     Werom (mmdd):          
+SKG81     Neat Fûn               
+SKG82     Jou Nûmer              
+SKG83     Jou Nûmer              
+SKG84     Ferkeard Formaat       
+SKG85     Opdracht Ûtfierd       
+SKG86     Opdracht Ûtfierd       
+SKG87     Opdracht Ôfwiisd       
+SKG88     Opdracht Ôfwiisd       
+SKG89     Gjin Datum/Tiid Form   
+SKG90     Kontakt Behearder      
+SKG91     Tjiinsten              
+SKG92     Net Ynst.Telefoan      
+SKG93     Brûker:                
+SKG94     Password               
+SKG95     Tyd.brûker             
+SKG96     Tydlike brûker         
+SKG97     Feature is not available!
+SKI0       Open Acc Aut  Timer   
+SKI1       Blok Acc Aut  Timer   
+SKI2       Cab  Pag      Timer   
+SKI3       Cab  Caw Pick Opsk    
+SKI4       Dtmf Acc Kost Timer   
+SKI5       Dtmf Acc Konf Timer   
+SKI6      Wisk  <--      Bvst    
+SKI7                     Kies    
+SKI8       Lnr  Acc Pick Tiid    
+SKI10                     Cwf    
+SKI11                    Kost    
+SKI12                     Acc    
+SKI14      Blok Que Aut    Cq    
+SKI15      Blok Que Aut  Timer   
+SKI16      Dtmf Acc Kost   Cq    
+SKI17      Dtmf Acc Konf   Cq    
+SKI20      Open Dnd Aut  Tiid    
+SKI21      Blok Dnd Aut  Tiid    
+SKI23      Cab  Caw Cup  Tiid    
+SKI24      Dtmf Mct Kost Tiid    
+SKI25      Dtmf Mct Konf Tiid    
+SKI28      Lnr  Dnd Pick Tiid    
+SKI30     Folg  Wisk Kies Ein    
+SKI31     Folgjende:+ Wiskje:-   
+SKI32     Ein:C                  
+SKI33     Werom:1                
+SKI36      Dtmf Mct Kost   Cq    
+SKI37      Dtmf Mct Konf   Cq    
+SKI40     Wisk  Sp  Skje  Ein    
+SKI41      Op   Del Kies Werom   
+SKI42      Open Acc  Aut  Dir    
+SKI43      Blok Acc  Aut  Dir    
+SKI44      Lnr  Acc Pick  Dir    
+SKI45      Blok Que  Aut  Dir    
+SKI46      Open Dnd  Aut  Dir    
+SKI47      Blok Dnd  Aut  Dir    
+SKI48      Lnr  Dnd Pick  Dir    
+TIM1       Stop Rst Datum Ein    
+TIM2      Start Rst Datum Ein    
+TIM3       Stop Rst Timer Ein    
+TIM4      Start Rst Timer Ein    
+TOP0      Tsjinsten              
+TOP1      Programmearkaaien      
+TOP10     Ynstellingen           
+TOP11     Skerm Kontrast         
+TOP12     Melody Programmearje   
+TOP13     Firmware Yndikaasje    
+TOP14     Koptelf. Prioriteit    
+TOP15     Lokale Testmodus       
+TOP16     Optie Unit Ynstelle    
+TOP17     Lúd Nivo Oanpasse      
+TOP20     Petearlist             
+TOP21     Petearlist Sjen?       
+TOP22     Únbeäntwurde Petear    
+TOP23     Útgeand Petear         
+TOP24     Ynkommend Petear       
+TOP40     Gids                   
+TOP41     Kieze Op Namme         
+TOP50     Boadskip               
+TOP51     Nij Berjocht           
+TOP52     Voicemail:             
+VSU1      VSU Klear              
+VSU2      Ôfspyljen Begûn        
+VSU3      Opnimmen Begûn         
+VSU4      Nûmer Timeout          
+VSU5      Ferkeard Formaat       
+VSU6      Opdracht Ôfwiisd       
+VSU7      Boadskip Timeout       
+VSU8      Net Opnommen           
+VSU9      VSU Geheugen Fol       
+

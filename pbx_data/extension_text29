@@ -1,0 +1,417 @@
+
+Extension Text String
+
+Language: Nederlands          
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Profiel Selecteren     
+ABS1      Direct Doorschakelen   
+ABS2      Volgstand              
+ABS3      Reden Afwezigheid      
+ABS4      Externe Follow-me      
+ABS5      Niet Storen            
+ABS6      Doorschakelen B.G.G.   
+ABS7      Doorschakelen Bezet    
+ABS8      Actief                 
+ABS9      Inactief               
+ABS10     Geen Profiel           
+ABS11     Keuze                  
+BSY1      Tsl. Bezet             
+BSY2      Route Bezet            
+BSY3      CAB Opdracht Mislukt   
+BSY4      CAW Opdracht Mislukt   
+BSY5      INT Opdracht Mislukt   
+BSY6      LCR Route Bezet        
+BSY9      CAB Opdracht Mislukt   
+BSY11     INT Opdracht Mislukt   
+BSY14     Netlijn Bezet          
+BSY19     Netl. Bezet            
+BSY20     Niet Bereikbaar        
+CAL1      Tsl. Belt              
+CAL2      CAB Opdracht Mislukt   
+CAL3      CAW Opdracht Actief    
+CAL4      CAW Opdracht Actief    
+CAL5      PAG Opdracht Actief    
+CAL6      Oproep In Wachtrij     
+CAL7      Oproep In Wachtrij     
+CAL8      Oproep In Wachtrij     
+CAL9      Tsl. Belt              
+CAL10     Tsl. Belt              
+CAL20     Oproep In Wachtrij     
+CAL21     Oproep In Wachtrij     
+CAL23     Oproep In Wachtrij     
+CAL28     CAW Opdracht Actief    
+CAL34     Toestel Belt           
+CNF1      Conf. L.               
+CNF2      Conf. D.               
+CNF3      Conferentie Leider     
+CNF4      Conferentie Deelnmr    
+CNF5      Leden                  
+DIR1      Geen Naam Gevonden     
+DIR2      Begin Van Namenlijst   
+DIR3      Einde Van Namenlijst   
+DIR4      Lege Database          
+DIV1      > Direct               
+DIV2      > Bezet                
+DIV3      > B.G.G.               
+DIV4      Follow-Me              
+DIV5      Pick-Up                
+DIV6      Groep                  
+DIV7      > Extern               
+DIV10     Doorgezet              
+DIV11     Doorgezet              
+DIV12     Doorgezet              
+DIV13     DNIS Opr.              
+EXT1      Netlijn                
+EXT2      Verb. Lijn             
+FCN0      ODN/Eigen Nummer       
+FCN1      ADN/Extra Nummer       
+FCN2      MDN/Meervoudignr.      
+FCN3      Menu                   
+FCN4      Softkey F1             
+FCN5      Softkey F2             
+FCN6      TNS/Vrije toets        
+FCN8      ENR/Ext.Nr.Herhaling   
+FCN9      Softkey F3             
+FCN10     Softkey F4             
+FCN11     AANS/Autom. Beantw.    
+FCN12     ODN2/Vrij Op 2e Lijn   
+FCN13     CAB/Terugbellen        
+FCN14     CAD/Doorschakelen      
+FCN16     CUP/Call Pick-Up       
+FCN17     CAW/Maantoon           
+FCN18     CNF/Conferentie        
+FCN19     INT/Opschakelen        
+FCN20     PAG/Paging             
+FCN21     NLOG/Nummer Log        
+FCN22     MEW/Message Waiting    
+FCN23     Programmeer Mode       
+FCN24     Malicious Call Trace   
+FCN26     DND/Niet Storen        
+FCN27     MMW/Man.Message Wait   
+FCN28     CLT/Nawerktijd ACD     
+FCN29     MNS/Monitor & Kiezen   
+FCN30     DDN/Datanummer         
+FCN31     DNS/Vrije Datatoets    
+FCN32     LCM/Local Mode         
+FCN33     SBC/Switch B-Channel   
+FCN34     RDC/Redirect -> ISDN   
+FCN35     PEN/Pers.Nummer Lyst   
+FCN37     TFR/Doorverbinden      
+FCN41     Chef/Secretaresse      
+ICS0       Lunch                 TIME          
+ICS1       Kort Afw.             DATE          
+ICS2       Lang Afw.             TIME          
+ICS3       Vergader.             TIME          
+ICS4       Op Reis               DATE          
+ICS5       Cursus                TIME          
+ICS6       Vakantie              DATE          
+ICS7       Vrije Dag             DATE          
+ICS8       Afwezig               TIME          
+ICS9       Ziek                  
+ICS10      * = Kies              
+IDL2      Doorgezet:             
+IDL3      Volgstand:             
+IDL4      Niet Storen Actief     
+IDL5      Extern Doorgezet       
+IDL6      In Gebruik             
+IDL7      Msg Div.               
+IDL8      Doorgezet -> Paging    
+IDL9      Niet Storen Actief     
+IDL10     Message Waiting        
+IDL11     Man. Message Waiting   
+IDL13     Doorgezet Naar ISDN    
+IDL14     Beide Lijnen Bezet     
+IDL15     Profiel:               
+MIS1      Datum/Tijd Ontbreekt   
+MIS2      Wachtende              
+MIS4      Belsoort:              
+MIS6      Toon Zender Aan        
+MIS7      Nu Niet Mogelijk       
+MIS8      Externe Doorschak.     
+MIS9      MCT Afgewezen          
+MIS10     MCT Toegestaan         
+MIS11     Geheim Nr.             
+MIS12     Geef ACC Code          
+MIS13     Geef AUTH Code         
+MIS14     Kosten EUR:            
+MIS15     Geef ACD Pin Code      
+MIS16     Verzoek Geaccepteerd   
+MIS17     Geef CQ Code           
+MIS18     Geef Meer Cijfers      
+MIS19     Gratis                 
+MIS20     Geen Kosteninfo!       
+MIS21     Geen Opgeslagen Nr.    
+MIS22     Opgeslagen Nummers     
+MIS23     Einde Van Nummer Log   
+MIS24     Nummer Free Seating:   
+MIS25     Onbeantwoord           
+MIS26     Inkomend               
+MIS27     Uitgaand               
+MIS28     Nieuw Gesprek          
+MIS29     Volgstandnummer:       
+MIS30     Tijd Terugk. (uumm):   
+MIS31     Datum Terugk.(ddmm):   
+MIS32     Datum Terugk.(mmdd):   
+MIS33     Extern Nummer:         
+MIS34     Geen Naam              
+MIS35     Noodoproep             
+MON1      jan                    
+MON2      feb                    
+MON3      mrt                    
+MON4      apr                    
+MON5      mei                    
+MON6      jun                    
+MON7      jul                    
+MON8      aug                    
+MON9      sep                    
+MON10     okt                    
+MON11     nov                    
+MON12     dec                    
+NOP1      Nummer Niet Compleet   
+NOP2      Stagnatie              
+NOP3      Geen Gehoor            
+NOP4      Bezet                  
+NOP5      Stagnatie Op Netlijn   
+NOP6      Route Bezet            
+NOP7      Verkeerde Categorie    
+NOP8      Niet Bereikbaar        
+NOP9      Niet Bestaand Nummer   
+NOP10     Bediening Afwezig      
+NOP11     Opgehangen             
+NOP12     Opdracht Uitgevoerd    
+NOP13     Opdracht Mislukt       
+NOP14     Geen Verkort Nummer    
+NOP15     Geen Deelnemers Vrij   
+NOP16     Geen Groepslid         
+NOP17     Wachtrij Vol           
+NOP18     Geen Gesprek           
+NOP19     Pager Niet Aanwezig    
+NOP20     Pagingoproep Mislukt   
+NOP21     Niet Toegestaan        
+NOP22     Alarmnummer Bezet      
+NOP23     Heroproep              
+NOP24     Bediening Verbreekt    
+NOP25     Onjuist Formaat        
+NOP26     Bediening Afwezig      
+NOP28     Niet Toegestaan        
+NOP29     In Noodbedrijf !       
+NOP31     Niet Toegestaan        
+NOP33     Stagnatie              
+NOP34     Route Bezet            
+NOP35     Opgeroepene Bezet      
+NOP38     Geblokkeerd Nummer     
+NOP40     Verbinding Verbroken   
+NOP41     Onjuist Formaat        
+NOP42     Onbekende Faciliteit   
+NOP43     Data Oproep            
+NOP44     Niet Toegestaan        
+NOP46     Geef Goede ACC Code    
+NOP47     Ongeldige AUTH Code    
+NOP50     Wachtrij Vol           
+NOP52     Geblokkeerd            
+NOP53     Gedeblokkeerd          
+NOP54     Blokkeren Mislukt      
+NOP55     Deblokkeren Mislukt    
+NOP56     Niet Storen Actief     
+NOP57     Niet Toegestaan        
+NOP58     Route Congestie        
+NOP59     Niet Toegestaan        
+NOP60     Toestel Bezet          
+NOP65     MCT Toegestaan         
+NOP66     MCT Afgewezen          
+NOP69     Toestel Bezet          
+NOP72     Niet Toegestaan        
+NOP74     Opdracht Mislukt       
+NOP75     Niet Beschikbaar       
+NOP76     Nu Niet Beschikbaar    
+NOP77     Reeds Vrijgegeven      
+NOP78     Groep Deeln. Afwezig   
+NOP79     Reeds Geblokkeerd      
+NOP89     CAC Congestie          
+NOP93     Niet Beschikbaar       
+NOP99     Geen Toegang           
+PRK0      L3 Wachtende           
+PRK1      L2 Wachtende           
+PRK2      L1 Wachtende           
+PRK3      L1 Wachtende           
+PRK4      L2 Wachtende           
+PRK5      L1 Wachtende           
+REG5      Geldige ACC Code       
+REG7      Ongeldige ACC Code     
+REG10     Geldige AUTH Code      
+REG14     Man. Message Waiting   
+REG15     Message Waiting        
+REG16     Message Waiting        
+REG17     MMW & DIV/FME aktief   
+REG18     Geef Extern Nummer     
+REG19     Ext. Doorgeschakeld    
+SKG0      Acc. Code              
+SKG1      Auth. Code             
+SKG2      Terug                  
+SKG3      Bellen                 
+SKG4      Terugbellen            
+SKG5      Paging                 
+SKG6      Call Pick-Up           
+SKG7      Wachttoon              
+SKG8      Wissen                 
+SKG9      Wachtstand             
+SKG10     Conferentie            
+SKG11     Verbinden              
+SKG12     Kosten                 
+SKG13     Verwijderen            
+SKG14     Kies                   
+SKG15     Omlaag                 
+SKG16     Niet Storen            
+SKG17     Invoeren               
+SKG18     Afsluiten              
+SKG19     Zoeken                 
+SKG20     Gedw. Vrijg.           
+SKG21     Call Pick-Up           
+SKG22     Afsluiten              
+SKG23     Tussenkomst            
+SKG24     Blokkeren              
+SKG25     Aanmelden              
+SKG26     Afmelden               
+SKG27     Meer                   
+SKG28     Volgende               
+SKG29     Deblokkeren            
+SKG30     Gids                   
+SKG31     CQ code                
+SKG32     Wachtrij               
+SKG33     Opnieuw?               
+SKG34     Terug                  
+SKG35     Datum                  
+SKG36     Menu                   
+SKG37     Timer                  
+SKG38     Spatie                 
+SKG39     Starten                
+SKG40     Stoppen                
+SKG41     Timer                  
+SKG42     DTMF                   
+SKG43     MCT                    
+SKG44     Omhoog                 
+SKG45     Bellijst               
+SKG46     Gemist                 
+SKG47     Selecteren             
+SKG48     Program.               
+SKG49     Transfer               
+SKG50     Conf/Transf            
+SKG51     Conf Uitbr.            
+SKG52     Activeren              
+SKG53     Deactiveren            
+SKG54     Afwezigh.              
+SKG55     Niet Doorsch           
+SKG56     Niet Storen            
+SKG57     Details                
+SKG58     Tsl Instel.            
+SKG59     Opslaan                
+SKG60     Ja                     
+SKG61     Nee                    
+SKG62     Bewaren                
+SKG63     Doorschak.             
+SKG64     Aanwezigheid           
+SKG65     Volgstand              
+SKG66     Externe Volgstand      
+SKG67     Ext.Volgstand          
+SKG68     Doorschakelen          
+SKG69     Niet Storen            
+SKG70     Doorgeschakeld         
+SKG71     Doorgeschakeld         
+SKG72     Doorschakelen          
+SKG73     Voicemail              
+SKG74     Verkeerd Wachtwoord    
+SKG75     Tijd Terug (uumm):     
+SKG76     Terug (uumm):          
+SKG77     Datum Terug (ddmm):    
+SKG78     Terug (ddmm):          
+SKG79     Datum Terug (mmdd):    
+SKG80     Terug (mmdd):          
+SKG81     Niet Gevonden          
+SKG82     Voer Nummer In         
+SKG83     Voer Nummer In         
+SKG84     Onjuist Formaat        
+SKG85     Opdracht Uitgevoerd    
+SKG86     Opdr.Uitgevoerd        
+SKG87     Opdracht Afgewezen     
+SKG88     Opdr.Afgewezen         
+SKG89     Geen Datum/Tijd Form   
+SKG90     Contact Beheerder      
+SKG91     Diensten               
+SKG92     Niet Geconf.Telefoon   
+SKG93     Gebruiker:             
+SKG94     Wachtwoord             
+SKG95     TempUser               
+SKG96     Tijdelijke Gebruiker   
+SKG97     Functie is onbeschikbaar!
+SKI0       Open Acc Auth Timer   
+SKI1       Blok Acc Auth Timer   
+SKI2       Cab  Pag      Timer   
+SKI3       Cab  Caw Pick Intr    
+SKI4       Dtmf Acc Kost Timer   
+SKI5       Dtmf Acc Conf Timer   
+SKI6      Clear <--      Enter   
+SKI7                     Kies    
+SKI8       Lnr  Acc Pick Timer   
+SKI10                     Cwf    
+SKI11                    Kost    
+SKI12                     Acc    
+SKI14      Blok Que Auth   Cq    
+SKI15      Blok Que Auth Timer   
+SKI16      Dtmf Acc Kost   Cq    
+SKI17      Dtmf Acc Conf   Cq    
+SKI20      Open Dnd Auth Tijd    
+SKI21      Blok Dnd Auth Tijd    
+SKI23      Cab  Caw Pick Tijd    
+SKI24      Dtmf Mct Kost Tijd    
+SKI25      Dtmf Mct Conf Tijd    
+SKI28      Lnr  Dnd Pick Tijd    
+SKI30     Volg. Wis Kies Einde   
+SKI31     Volgende:+  Wissen:-   
+SKI32     Afsluiten:C            
+SKI33     Terug:1                
+SKI36      Dtmf Mct Kost   Cq    
+SKI37      Dtmf Mct Conf   Cq    
+SKI40      Wis  Sp  Zoek Einde   
+SKI41      Op  Neer Kies Terug   
+SKI42      Open Acc Auth  Gids   
+SKI43      Blok Acc Auth  Gids   
+SKI44      Lnr  Acc Pick  Gids   
+SKI45      Blok Que Auth  Gids   
+SKI46      Open Dnd Auth  Gids   
+SKI47      Blok Dnd Auth  Gids   
+SKI48      Lnr  Dnd Pick  Gids   
+TIM1       Stop Rst Datum Exit   
+TIM2      Start Rst Datum Exit   
+TIM3       Stop Rst Timer Exit   
+TIM4      Start Rst Timer Exit   
+TOP0      Diensten               
+TOP1      Toetsen Programmeren   
+TOP10     Toestel Instellingen   
+TOP11     Display Contrast       
+TOP12     Melodie Programmeren   
+TOP13     Firmware Indicatie     
+TOP14     Headset Prioriteit     
+TOP15     Lokale Testmodus       
+TOP16     Optionunit Instellen   
+TOP17     Ontvangstniv. Aanp.    
+TOP20     Bellijst               
+TOP21     Bellijst Tonen         
+TOP22     Onbeantw. Gesprekken   
+TOP23     Uitgaande Gesprekken   
+TOP24     Inkomende Gesprekken   
+TOP40     Gids                   
+TOP41     Kiezen Op Naam         
+TOP50     Berichten              
+TOP51     Nieuw Bericht          
+TOP52     Voicemail:             
+VSU1      VSU Gereed             
+VSU2      Afspelen Gestart       
+VSU3      Opnemen Gestart        
+VSU4      Nummer Timeout         
+VSU5      Verkeerd Formaat       
+VSU6      Procedure Afgewezen    
+VSU7      Bericht Timeout        
+VSU8      Niets Opgenomen        
+VSU9      VSU Geheugen Vol       
+

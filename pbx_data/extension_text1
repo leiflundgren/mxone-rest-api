@@ -1,0 +1,170 @@
+
+Extension Text String
+
+Language: Français            
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Occupé                 
+BSY2      Ligne Occup.           
+BSY3      Echoué                 
+BSY4      Echoué                 
+BSY5      Echoué                 
+BSY6      Ligne Occup.           
+BSY9      Echoué                 
+BSY11     Echoué                 
+BSY14     Ligne Occup.           
+BSY19     Non Accepté            
+BSY20     Indisponible           
+CAL1      Appel                  
+CAL2      Echoué                 
+CAL3      Accepté                
+CAL4      Accepté                
+CAL5      Pagination             
+CAL6      AppelFileAtt           
+CAL7      AppelFileAtt           
+CAL8      Pagination             
+CAL9      Appel                  
+CAL10     Appel                  
+CAL20     AppelFileAtt           
+CAL21     AppelFileAtt           
+CAL23     AppelFileAtt           
+CAL28     Accepté                
+CAL34     Appel                  
+CNF1      Maître Conf.           
+CNF2      Membre Conf.           
+CNF3      Connecté               
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Décroché               
+DIV6      Appel Groupe           
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Externe                
+EXT2      Société                
+ICS0      Déjeun.,Ret.           TIME          
+ICS1      Occupé Jusq.           DATE          
+ICS2      Absent                 TIME          
+ICS3      Réunion,Ret.           TIME          
+ICS4      Voyage,Ret.            DATE          
+ICS5      EnCours,Ret.           TIME          
+ICS6      Vacances,Ret           DATE          
+ICS7      Jour Libre             DATE          
+ICS8      RetourMaison           TIME          
+ICS9      Malade                 
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Profil                 
+MIS6      EmetTonalOn            
+MIS7      Réessayer              
+MIS8      >                      
+MIS9      Echoué                 
+MIS10     Accepté                
+MIS11     Non Listé              
+MIS12     SaisieCompte           
+MIS13     SaisieAuteur           
+MIS14     Saisie Coût            
+MIS15     Saisie PIN             
+MIS16     Demandé                
+MIS17     Saisie CQ              
+MIS18     EntPlusChiff           
+MIS19     Non Facturé            
+MIS20     InfoNonFact.           
+MIS21     Pas N° Enreg           
+MIS22     N° Enregist.           
+MIS23     Fin Session            
+MIS25     Français               
+MON1      Janvier                
+MON2      Février                
+MON3      Mars                   
+MON4      Avril                  
+MON5      Mai                    
+MON6      Juin                   
+MON7      Juillet                
+MON8      Août                   
+MON9      Septembre              
+MON10     Octobre                
+MON11     Novembre               
+MON12     Décembre               
+NOP1      Temps Ecoulé           
+NOP2      Encombrement           
+NOP3      Temps Ecoulé           
+NOP4      Temps Ecoulé           
+NOP5      Temps Ecoulé           
+NOP6      Encombrement           
+NOP7      Interdit               
+NOP8      Protégé                
+NOP9      Vacant                 
+NOP10     Opé. Absente           
+NOP11     Raccroché              
+NOP12     Effectué               
+NOP13     Echoué                 
+NOP14     NonProgramm.           
+NOP15     Tous Absents           
+NOP16     Non Membre             
+NOP17     Encombrement           
+NOP18     PasAppelAtt.           
+NOP19     Absent                 
+NOP20     Non Effectué           
+NOP21     Fermé                  
+NOP22     Nombre Max.            
+NOP23     Encombrement           
+NOP24     Opé. Effacée           
+NOP25     Format Faux            
+NOP26     Opé. Absente           
+NOP28     Non Effectué           
+NOP29     Etat Urgence           
+NOP31     Incompatible           
+NOP33     Temps Ecoulé           
+NOP34     Encombrement           
+NOP35     Occupé                 
+NOP38     Bloqué                 
+NOP40     Raccroché              
+NOP41     Format Faux            
+NOP42     DemandInconn           
+NOP43     Incompatible           
+NOP44     Non Effectué           
+NOP46     CodeAccesDem           
+NOP47     Non Valide             
+NOP50     Encombrement           
+NOP52     Verrouillé             
+NOP53     Déverrouillé           
+NOP54     Verro.Echoué           
+NOP55     Déver.Echoué           
+NOP56     NePasDérang.           
+NOP57     Fermé                  
+NOP58     Encombrement           
+NOP59     Fermé                  
+NOP60     Occupé                 
+NOP65     Accepté                
+NOP66     Non accepté            
+NOP69     Occupé                 
+NOP72     Fermé                  
+NOP74     Non Effectué           
+NOP75     Indisponible           
+NOP76     Indisponible           
+NOP77     Déjà Déverr.           
+NOP78     Absent                 
+NOP79     Déjà Verrou.           
+NOP93     Indisponible           
+NOP99     Syst.blocked           
+PRK0      3 en Attente           
+PRK1      2 en Attente           
+PRK2      1 en Attente           
+PRK3      Autre en Att           
+PRK4      2ème garde             
+PRK5      1ère garde             
+REG5      Code OK                
+REG7      MauvCodeComp           
+REG10     Code OK                
+REG14     Mess.Attente           
+REG15     Mess.Attente           
+REG16     Mess.Attente           
+REG17     Mess.Attente           
+REG18     EntrerN° Ext           
+REG19     Dévié                  
+

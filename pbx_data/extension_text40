@@ -1,0 +1,162 @@
+
+Extension Text String
+
+Language: Português do Brasil 
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Ocupado                
+BSY2      Linha Ocup.            
+BSY3      Falha                  
+BSY4      Falha                  
+BSY5      Falha                  
+BSY6      Ocupado                
+BSY9      Falha                  
+BSY11     Falha                  
+BSY14     Linha Ocup.            
+BSY19     Nao aceito             
+BSY20     Nao disp.              
+CAL1      Chamando               
+CAL2      Falha                  
+CAL3      Aceito                 
+CAL4      Aceito                 
+CAL5      Buscando               
+CAL6      Cham Em Fila           
+CAL7      Cham Em Fila           
+CAL8      Buscando               
+CAL9      Chamando               
+CAL10     Chamando               
+CAL21     Cham Em Fila           
+CAL23     Cham Em Fila           
+CAL28     Aceito                 
+CAL34     Chamando               
+CNF1      Lider Conf             
+CNF2      Membro Conf            
+CNF3      >                      
+DIV5      Capturado              
+DIV6      Cham Grp               
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Publico                
+EXT2      Privado                
+ICS0      Almoco                 TIME          
+ICS1      Ocupado                DATE          
+ICS2      Ausente                TIME          
+ICS3      Reuniao                TIME          
+ICS4      Viagem                 DATE          
+ICS5      Treinamento            TIME          
+ICS6      Ferias                 DATE          
+ICS7      Folga                  DATE          
+ICS8      Em Casa                TIME          
+ICS9      Doença                 
+ICS10     * p/ discar            
+IDL15     Perfil                 
+MIS6      EmisTonsAtiv           
+MIS7      Tente Depois           
+MIS9      Falha                  
+MIS10     Aceito                 
+MIS11     Nao Listado            
+MIS12     Dig. CodCont           
+MIS13     Dig. CodAut            
+MIS14     Custo em:              
+MIS15     Dig. PIN               
+MIS16     Solicitado             
+MIS17     Dig. CQ                
+MIS18     EntreMaisDig           
+MIS19     Sem Taxa               
+MIS20     SemInfoTaxa            
+MIS21     SemChamReg             
+MIS22     NumArmaz               
+MIS23     Fim do reg.            
+MIS34     Sem nome               
+MON1      Jan                    
+MON2      Fev                    
+MON3      Mar                    
+MON4      Abr                    
+MON5      Mai                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Ago                    
+MON9      Set                    
+MON10     Out                    
+MON11     Nov                    
+MON12     Dez                    
+NOP1      Tempo exp.             
+NOP2      Congest.               
+NOP3      Tempo exp.             
+NOP4      Tempo exp.             
+NOP5      Tempo exp.             
+NOP6      Congest.               
+NOP7      Nao Perm.              
+NOP8      Bloqueado              
+NOP9      Inexistente            
+NOP10     OperAus                
+NOP11     Desligado              
+NOP12     Executado              
+NOP13     Falha                  
+NOP14     Nao program.           
+NOP15     Todos aus.             
+NOP16     Nao Membro             
+NOP17     Congest                
+NOP18     SemChEspera            
+NOP19     Ausente                
+NOP20     NaoExecutado           
+NOP21     Barrado                
+NOP22     Num max                
+NOP23     RetornoTeste           
+NOP24     OperDesl               
+NOP25     FormatoIncor           
+NOP26     OperAusente            
+NOP28     NaoExecutado           
+NOP29     Emergencia             
+NOP31     Incompativel           
+NOP33     Tempo Exp.             
+NOP34     Congest                
+NOP35     Ocupado                
+NOP38     Bloqueado              
+NOP40     Desligado              
+NOP41     FormatoIncor           
+NOP42     ReqDesconh             
+NOP43     Incompativel           
+NOP44     NaoExecutado           
+NOP46     DigCodAces             
+NOP47     Invalido               
+NOP50     Congest.               
+NOP52     Bloqueado              
+NOP53     Desbloqueado           
+NOP54     BloqFalhou             
+NOP55     FalhaDesbloq           
+NOP56     NaoPerturbe            
+NOP57     Barrado                
+NOP58     Congest.               
+NOP59     Barrado                
+NOP60     Ocupado                
+NOP65     Aceito                 
+NOP66     Nao Aceito             
+NOP69     Ocupado                
+NOP72     Barrado                
+NOP74     NaoExecutado           
+NOP75     Indisponivel           
+NOP76     Indisponivel           
+NOP77     NaoBloqueado           
+NOP78     Ausente                
+NOP79     JaBloqueado            
+NOP89     Congest. CAC           
+NOP93     NaoDisponivel          
+NOP99     Sist.bloq.             
+PRK0      3 em espera            
+PRK1      2 em espera            
+PRK2      1 em espera            
+PRK3      Em espera              
+PRK4      L2 em esp              
+PRK5      L1 em esp              
+REG5      Codigo OK              
+REG7      Cod. Errado            
+REG10     Codigo OK              
+REG14     Mens. Espera           
+REG15     Mens. Espera           
+REG16     Mens. Espera           
+REG17     Mens. Espera           
+REG18     DigNumExt              
+REG19     Cham. Publica          
+

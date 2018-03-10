@@ -1,0 +1,416 @@
+
+Extension Text String
+
+Language: Português do Brasil 
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Selecionar perfil      
+ABS1      Redirecionar para      
+ABS2      Siga-me                
+ABS3      Motivo da ausencia     
+ABS4      Siga-me externo        
+ABS5      Nao perturbe           
+ABS6      Redir. n.atend.        
+ABS7      Redir. ocup.           
+ABS8      Ativo                  
+ABS9      Nao ativo              
+ABS10     Sem perfil             
+ABS11     Opcao                  
+BSY1      Ocupado                
+BSY2      Linha ocupada          
+BSY3      Retorno nao aceito     
+BSY4      Cham.esp. nao aceita   
+BSY5      Intercal. nao aceita   
+BSY6      Rota m. custo ocup.    
+BSY9      Retorno nao aceito     
+BSY11     Intercal. nao aceita   
+BSY14     Linha ocupada          
+BSY19     Nao aceito             
+BSY20     Nao disponivel         
+CAL1      Chamando               
+CAL2      Retorno nao aceito     
+CAL3      Cham. espera aceita    
+CAL4      Cham. espera aceita    
+CAL5      Busca em andamento     
+CAL6      Chamada em fila        
+CAL7      Chamada em fila        
+CAL8      Busca em fila          
+CAL9      Chamando               
+CAL10     Chamando               
+CAL20     Chamada em fila        
+CAL21     Chamada em fila        
+CAL23     Chamada em fila        
+CAL28     Cham. espera aceita    
+CAL34     Chamando               
+CNF1      LiderConf              
+CNF2      MembroConf             
+CNF3      Lider conferencia      
+CNF4      Membro conf.           
+CNF5      Membros                
+DIR1      Sem correspondencia    
+DIR2      Inicio da lista        
+DIR3      Final da lista         
+DIR4      Lista vazia            
+DIV1       >Direto               
+DIV2       >Ocup.                
+DIV3       >N-atend              
+DIV4       >Siga-me              
+DIV5       Capturado             
+DIV6       ChamGrp               
+DIV7       >Publico              
+DIV10      Redirec.              
+DIV11      Redirec.              
+DIV12      Redirec.              
+DIV13      Ch.DNIS               
+EXT1      Publico                
+EXT2      Privado                
+FCN0      ODN, tipo toque:       
+FCN1      ADN, tipo toque:       
+FCN2      MDN, tipo toque:       
+FCN3      Tecla de menu          
+FCN4      Tecla de funcao 1      
+FCN5      Tecla de funcao 2      
+FCN6      TeclNome, 1-20 dig.:   
+FCN8      Rechamada num. ext.    
+FCN9      Tecla de funcao 3      
+FCN10     Tecla de funcao 4      
+FCN11     Modo atendim. autom.   
+FCN12     Tecla 2a linha livre   
+FCN13     Tecla de retorno       
+FCN14     Tecla de redirecion.   
+FCN16     Captura/Espera         
+FCN17     Tecla ch. em espera    
+FCN18     Tecla de conferencia   
+FCN19     Tecla de intercal.     
+FCN20     Tecla de busca         
+FCN21     Tecla cham. n-atend.   
+FCN22     Tecla mens.em espera   
+FCN23     Tecla modo program.    
+FCN24     Rast.cham. maliciosa   
+FCN26     Tecla nao perturbe     
+FCN27     Mens. man. em espera   
+FCN28     Tecla tempo de pausa   
+FCN29     MultNome,tipo toque:   
+FCN30     Num. Lista de dados    
+FCN31     TeclDados,1-20 dig.:   
+FCN32     Tecla modo local       
+FCN33     Tecla de redirecion.   
+FCN34     Tecla transferencia    
+FCN35     Perfil Num. pessoal    
+FCN37     Tecla transferencia    
+FCN41     Núm. Pess.             
+ICS0       Almoco                TIME          
+ICS1       Ocupado               DATE          
+ICS2       Ausente               TIME          
+ICS3       Reuniao               TIME          
+ICS4       Viagem                DATE          
+ICS5       Treinamento           TIME          
+ICS6       Ferias                DATE          
+ICS7       Folga                 DATE          
+ICS8       Em Casa               TIME          
+ICS9       Doença                
+ICS10      * p/ discar           
+IDL2      Redirec.p/             
+IDL3      Siga-me p/             
+IDL4      Nao perturbe           
+IDL5      Redirecion. publico    
+IDL6      Todas linhas ocup.     
+IDL7      Red. direto            
+IDL8      Redirecion. p/ busca   
+IDL9      Nao perturbe           
+IDL10     Mensagem em espera     
+IDL11     Mens. man. em espera   
+IDL13     Redirec. para ISDN     
+IDL14     Todas linhas ocup.     
+IDL15     Perfil                 
+MIS1      Horario nao program.   
+MIS2      Em espera              
+MIS4       Tipo de toque         
+MIS6      Emissor tons ativado   
+MIS7      Sistema ocupado        
+MIS8      Redirecion. publico    
+MIS9      Rastream. nao aceito   
+MIS10     Rastreamento OK        
+MIS11     Anonimo                
+MIS12     Tecle cod. contabil    
+MIS13     Tecle cod. autoriz.    
+MIS14     Custo em               
+MIS15     Tecle cod. PIN DAC     
+MIS16     Solicitacao aceita     
+MIS17     Tecle codigo CQ        
+MIS18     Cod. CQ incompleto     
+MIS19     Livre de tarifacao     
+MIS20     Nenh. info de tarif.   
+MIS21     Nenh. ch. registr.     
+MIS22     Novas ch. n-atend:     
+MIS23     Fim do registro        
+MIS24     Tecle num. pos. livre  
+MIS25     Nao atendido           
+MIS26     Receb. chamada         
+MIS27     Chamando               
+MIS28     Fazer nova chamada     
+MIS29     Digite num. siga-me:   
+MIS30     Hora retorno (hhmm):   
+MIS31     Data retorno (ddmm):   
+MIS32     Data retorno (mmdd):   
+MIS33     Digite num. externo:   
+MIS34     Sem nome               
+MIS35     Chamada deEmergencia   
+MON1      Jan                    
+MON2      Fev                    
+MON3      Mar                    
+MON4      Abr                    
+MON5      Mai                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Ago                    
+MON9      Set                    
+MON10     Out                    
+MON11     Nov                    
+MON12     Dez                    
+NOP1      Tempo expirou          
+NOP2      Congestionamento       
+NOP3      Tempo expirou          
+NOP4      Tempo expirou          
+NOP5      Tempo expirou          
+NOP6      Congestionamento       
+NOP7      Nao permitido          
+NOP8      Linha bloqueada        
+NOP9      Numero inexistente     
+NOP10     Oper.aus./Serv.Not.    
+NOP11     Desligado              
+NOP12     Aceito                 
+NOP13     Falha                  
+NOP14     Nenhum num. program.   
+NOP15     Todos membros ausent   
+NOP16     Nao pertence a grupo   
+NOP17     Congestionamento       
+NOP18     Nenh. ch. em espera    
+NOP19     Ausente                
+NOP20     Busca rejeitada        
+NOP21     Numero nao permitido   
+NOP22     Central alarme ocup.   
+NOP23     Retorno de teste       
+NOP24     Telefonista desligou   
+NOP25     Formato incorreto      
+NOP26     Telef.aus./Serv.Not.   
+NOP28     Recusado               
+NOP29     Emergencia             
+NOP31     Incompativel           
+NOP33     Tempo expirou          
+NOP34     Congestionamento       
+NOP35     Ocupado                
+NOP38     Bloqueado              
+NOP40     Desligado              
+NOP41     Formato incorreto      
+NOP42     Formato incorreto      
+NOP43     Incompativel           
+NOP44     Nao permitido          
+NOP46     Tecle cod.de acesso    
+NOP47     Cod.autoriz. incorr.   
+NOP50     Congestionamento       
+NOP52     Ramal bloqueado        
+NOP53     Ramal desbloqueado     
+NOP54     Bloqueio nao aceito    
+NOP55     Desbloq. nao aceito    
+NOP56     Nao perturbe           
+NOP57     Rejeitado              
+NOP58     Congestionamento       
+NOP59     Rejeitado              
+NOP60     Ocupado                
+NOP65     Rastreando chamada     
+NOP66     Rastream. rejeitado    
+NOP69     Ocupado                
+NOP72     Rejeitado              
+NOP74     Rejeitado              
+NOP75     Indisponivel           
+NOP76     Indisponivel agora     
+NOP77     Ramal nao bloqueado    
+NOP78     Ausente                
+NOP79     Ja bloqueado           
+NOP89     Congestionamento CAC   
+NOP93     Nao disponivel!        
+PRK0      Consulta em espera     
+PRK1      A2 em espera           
+PRK2      A1 em espera           
+PRK3      Em espera              
+PRK4      Linha 2 em espera      
+PRK5      Linha 1 em espera      
+REG5      Codigo contabil OK     
+REG7      Cod. contabil inval.   
+REG10     Cod. autorizacao OK    
+REG14     Mens. man. em espera   
+REG15     Mensagem em espera     
+REG16     Mensagem em espera     
+REG17     Mens. man. em espera   
+REG18     Cod.de acesso + no:    
+REG19     Redirecion. publico    
+SKG0      Conta                  
+SKG1      Autoridade             
+SKG2      Voltar                 
+SKG3      Chamar                 
+SKG4      Cham. Retorno          
+SKG5      BuscPes.               
+SKG6      Captura                
+SKG7      Cham. Esp              
+SKG8      Limpar                 
+SKG9      EsperaComum            
+SKG10     Conferencia            
+SKG11     Conectar               
+SKG12     InfoCusto              
+SKG13     Apagar                 
+SKG14     MaisInfo               
+SKG15     Proximo                
+SKG16     NaoPert.               
+SKG17     Entrar                 
+SKG18     Sair                   
+SKG19     Localizar              
+SKG20     DescForc.              
+SKG21     CapturaGrp             
+SKG22     SemMenu                
+SKG23     Interc.                
+SKG24     Bloquear               
+SKG25     LogOn                  
+SKG26     LogOff                 
+SKG27     mais                   
+SKG28     Proximo                
+SKG29     Abrir                  
+SKG30     Agenda                 
+SKG31     Qualificar             
+SKG32     Fila                   
+SKG33     Rediscar               
+SKG34     Voltar                 
+SKG35     VerData                
+SKG36     VerMenu                
+SKG37     VerCron.               
+SKG38     Espaco                 
+SKG39     Iniciar                
+SKG40     Parar                  
+SKG41     Cronometro             
+SKG42     Tons                   
+SKG43     ChamMalic              
+SKG44     Anterior               
+SKG45     ListaCham              
+SKG46     Incompleto             
+SKG47     Selecionar             
+SKG48     Programa               
+SKG49     Transfere.             
+SKG50     Conf/Transf            
+SKG51     AdMembr.               
+SKG52     Ativar                 
+SKG53     Desativar              
+SKG54     Ausencia               
+SKG55     SemRedir.              
+SKG56     CancDND                
+SKG57     Detalhes               
+SKG58     Telefone               
+SKG59     Salvar                 
+SKG60     Sim                    
+SKG61     No                     
+SKG62     Guardar                
+SKG63     Redir.                 
+SKG64     Presença               
+SKG65     Siga-me                
+SKG66     Siga-me externo        
+SKG67     Siga-me externo        
+SKG68     Redirecionar           
+SKG69     Não perturbe           
+SKG70     Redirecionado          
+SKG71     Redirecionado          
+SKG72     Redirecionamento       
+SKG73     CorreioVoz             
+SKG74     Senha Incorreta        
+SKG75     Hora retorno (HHMM):   
+SKG76     H. Retorno(HHMM)       
+SKG77     Data retorno (DDMM):   
+SKG78     Data ret. (DDMM)       
+SKG79     Data retorno (MMDD):   
+SKG80     Data ret. (MMDD)       
+SKG81     Não encontrado         
+SKG82     Inserir número         
+SKG83     Inserir número         
+SKG84     Formato incorreto      
+SKG85     Serviço requisitado    
+SKG86     Serv requisitado       
+SKG87     Serviço não aceito     
+SKG88     Serv não aceito        
+SKG89     Formato incorreto      
+SKG90     Contatar admin.        
+SKG91     Serviços               
+SKG92     Desconfigurando tel.   
+SKG93     Usuário:               
+SKG94     Senha                  
+SKG95     UsuárioTmp             
+SKG96     Usuário Temporário     
+SKG97     Recurso indisponível   
+SKI0      Abre CContCAut Tempo   
+SKI1      FechaCCont CAutTempo   
+SKI2      Rech  BIP      Tempo   
+SKI3      RechChamEsp AtenIntr   
+SKI4      TonsCContCusto Tempo   
+SKI5      TonsCContConf Tempo    
+SKI6      Limp. Apag     Enter   
+SKI7                   Discar    
+SKI8      RediscCContAtenTempo   
+SKI10                    Ligar   
+SKI11                    Custo   
+SKI12                   CCont    
+SKI14     Bloq Fila CAut Qualf   
+SKI15     Bloq Fila CAut Tempo   
+SKI16     Tons CContCustoQualf   
+SKI17     Tons CContConf Qualf   
+SKI20     Abre  DND CAut Tempo   
+SKI21     Bloq  DND CAut Tempo   
+SKI23     Rech CEsp PuxarTempo   
+SKI24     Tons  Mal CustoTempo   
+SKI25     Tons  Mal Conf Tempo   
+SKI28     Rem   DND AtendTempo   
+SKI30     Prox  Apag Cham Sair   
+SKI31     Proximo:+  Apagar:-    
+SKI32     Sair:C                 
+SKI33     Voltar:1               
+SKI36     Tons  Mal CustoQualf   
+SKI37     Tones Mal Conf Qual    
+SKI40     Apag Espc Proc. Sair   
+SKI41     Acim Abaix Cham Retn   
+SKI42     Abre CContCAut Lista   
+SKI43     Bloq CContCAut Lista   
+SKI44     Rech CContAtendLista   
+SKI45     Bloq Fila CAut Lista   
+SKI46     Abre  DND CAut Lista   
+SKI47     Bloq  DND CAut Lista   
+SKI48     Rech DND AtendLista    
+TIM1      Parar Rein Data Sair   
+TIM2      Inic Limp Data Sair    
+TIM3      Parar LimpTempo Sair   
+TIM4      Inic limp Tempo Sair   
+TOP0      Programa               
+TOP1      Programar teclas       
+TOP10     Telefone               
+TOP11     Contraste do display   
+TOP12     Programar melodia      
+TOP13     Indicacao de firmwa.   
+TOP14     Fone ouvido predef.    
+TOP15     Modo teste local       
+TOP16     Ajustes unid.opcion.   
+TOP17     Def. nivel de escuta   
+TOP20     ListaCham              
+TOP21     Lista de chamadas      
+TOP22     Chamadas nao-atend.    
+TOP23     Fazer chamadas         
+TOP24     Receber chamadas       
+TOP40     Agenda                 
+TOP41     Lista central          
+TOP50     Mensagens              
+TOP51     Mensagem em espera     
+TOP52     Correio de voz:        
+VSU1      Pronto                 
+VSU2      Reproduzindo           
+VSU3      Gravando               
+VSU4      Tempo expirou          
+VSU5      Formato incorreto      
+VSU6      Rejeitado              
+VSU7      Tempo expirou          
+VSU8      Mensagem nao armaz.    
+VSU9      Memoria cheia          
+

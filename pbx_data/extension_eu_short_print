@@ -1,0 +1,170 @@
+
+Extension Text String
+
+Language: Euskara             
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Okupatuta              
+BSY2      Linea okup.            
+BSY3      Ez da on.              
+BSY4      Ez da on.              
+BSY5      Ez da on.              
+BSY6      Linea okup.            
+BSY9      Ez da on.              
+BSY11     Ez da on.              
+BSY14     Linea okup.            
+BSY19     Ez da on.              
+BSY20     Ezin iritsi            
+CAL1      Deika                  
+CAL2      Ez da on.              
+CAL3      Onartu da              
+CAL4      Onartu da              
+CAL5      Perts.-bil.            
+CAL6      Ilaran                 
+CAL7      Ilaran                 
+CAL8      Perts.-bil.            
+CAL9      Deika                  
+CAL10     Deika                  
+CAL20     Ilaran                 
+CAL21     Ilaran                 
+CAL23     Ilaran                 
+CAL28     Onartu da              
+CAL34     Deika                  
+CNF1      Liderra konf           
+CNF2      Kidea konf             
+CNF3      Konektatuta            
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Kapturatuta            
+DIV6      Talde-deia             
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Kanpokoa               
+EXT2      korporatiboa           
+ICS0      Bazkaltzen             TIME          
+ICS1      Okup. (tart)           DATE          
+ICS2      Kanpoan                TIME          
+ICS3      Bileran                TIME          
+ICS4      Bidaian                DATE          
+ICS5      Ikastaroan             TIME          
+ICS6      Oporretan              DATE          
+ICS7      Jai                    DATE          
+ICS8      Egun am arte           TIME          
+ICS9      Gaixo                  
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Zk. zerrenda           
+MIS6      Tonu ig akt            
+MIS7      Sai. geroago           
+MIS8      >                      
+MIS9      Ez da on.              
+MIS10     Onartu da              
+MIS11     Erreg. gabe            
+MIS12     Mark. kontua           
+MIS13     Mark. baim.            
+MIS14     Euro                   
+MIS15     Markatu PINa           
+MIS16     Eskaera                
+MIS17     Mark. kalif.           
+MIS18     Mark dig geh           
+MIS19     Tar. gabe              
+MIS20     KostuEzErab.           
+MIS21     BiltDeirikEz           
+MIS22     Bilt. zk.              
+MIS23     Bilt. zk.              
+MIS25     Basque                 
+MON1      Urt                    
+MON2      Ots                    
+MON3      Mar                    
+MON4      Api                    
+MON5      Mai                    
+MON6      Eka                    
+MON7      Uzt                    
+MON8      Abu                    
+MON9      Ira                    
+MON10     Urr                    
+MON11     Aza                    
+MON12     Abe                    
+NOP1      Gaind. denb.           
+NOP2      Pilaketak              
+NOP3      Gaind. denb.           
+NOP4      Gaind. denb.           
+NOP5      Gaind. denb.           
+NOP6      Pilaketak              
+NOP7      SarbBaimGabe           
+NOP8      Zerbitz gabe           
+NOP9      Helb ez dago           
+NOP10     Oper ez dago           
+NOP11     Eseki du               
+NOP12     Onartu da              
+NOP13     Ez da on.              
+NOP14     Progr. gabe            
+NOP15     Guzt. kanp.            
+NOP16     Ez da kidea            
+NOP17     Pilaketak              
+NOP18     Deir zain ez           
+NOP19     Kanpoan                
+NOP20     Ez da on.              
+NOP21     Mugatua                
+NOP22     Geh. kopurua           
+NOP23     Prob b dei             
+NOP24     Op. eseki du           
+NOP25     Form. des.             
+NOP26     Oper ez dago           
+NOP28     Exek. gabe             
+NOP29     Larrialdia             
+NOP31     Bateraezina            
+NOP33     Gaind. denb.           
+NOP34     Pilaketak              
+NOP35     Okupatuta              
+NOP38     Blokeatuta             
+NOP40     Eseki du               
+NOP41     Form. des.             
+NOP42     Ezezaguna              
+NOP43     Bateraezina            
+NOP44     Ez da on.              
+NOP46     Kontu-kodea            
+NOP47     Baliogabea             
+NOP50     Pilaketak              
+NOP52     Itxita                 
+NOP53     Irekita                
+NOP54     Ez da on.              
+NOP55     Ez da on.              
+NOP56     Ez molestatu           
+NOP57     Mugatua                
+NOP58     Pilaketak              
+NOP59     Mugatua                
+NOP60     Okupatuta              
+NOP65     Onartu da              
+NOP66     Ez da on.              
+NOP69     Okupatuta              
+NOP72     Mugatua                
+NOP74     Exek. gabe             
+NOP75     Ez dago erab           
+NOP76     Ez dago erab           
+NOP77     Irekita                
+NOP78     Kanpoan                
+NOP79     Itxita                 
+NOP93     Ez dago erab           
+NOP99     Sist. blok.            
+PRK0      3 zain                 
+PRK1      2 zain                 
+PRK2      1 zain                 
+PRK3      B. bat zain            
+PRK4      L2 zain                
+PRK5      L1 zain                
+REG5      Baliozko kod           
+REG7      Kod balio ez           
+REG10     Baliozko kod           
+REG14     Mezua zain             
+REG15     Mezua zain             
+REG16     Mezua zain             
+REG17     Mezua zain             
+REG18     Mark kanp zk           
+REG19     Desbid.                
+

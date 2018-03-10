@@ -1,0 +1,414 @@
+
+Extension Text String
+
+Language: Svenska             
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Välj profil            
+ABS1      Vidarekoppling till    
+ABS2      Medflyttning           
+ABS3      Frånvaroorsak          
+ABS4      Extern medflyttn.      
+ABS5      Stör ej                
+ABS6      Vidk vid ej svar t     
+ABS7      Vidk. vid uppt t.      
+ABS8      Aktiv                  
+ABS9      Inaktiv                
+ABS10     Ingen profil           
+ABS11     Sv.ställe              
+BSY1      Upptagen               
+BSY2      Ingen ledig linje      
+BSY3      Återuppr. misslyckad   
+BSY4      Samt.vänt misslyckad   
+BSY5      Påkoppl. misslyckad    
+BSY6      Lågprislinje upptag.   
+BSY9      Återuppr. misslyckad   
+BSY11     Påkoppl. misslyckad    
+BSY14     Linjen upptagen        
+BSY19     Ej utförd procedur     
+BSY20     Ej tillgänglig         
+CAL1      Ringer                 
+CAL2      Återuppr. misslyckad   
+CAL3      Samtal väntar utförd   
+CAL4      Samtal väntar utförd   
+CAL5      Sökning pågår vänta    
+CAL6      Kö mot gruppnummer     
+CAL7      Samtal står i kö       
+CAL8      Kö mot personsökare    
+CAL9      Ringer                 
+CAL10     Ringer                 
+CAL20     Samtalet är i kö       
+CAL21     Samtalet är i kö       
+CAL23     Samtalet är i kö       
+CAL28     Samtal väntar utförd   
+CAL34     Ringer                 
+CNF1      Konf led.              
+CNF2      Konferens              
+CNF3      Konferensledare        
+CNF4      Konferensmedlem        
+CNF5      Medlemmar              
+DIR1      Ingen träff            
+DIR2      Början på listan       
+DIR3      Slutet på listan       
+DIR4      Tom namndatabas        
+DIV1      >Vidarek               
+DIV2      >Upptag.               
+DIV3      >Ej svar               
+DIV4      >Medflytt              
+DIV5      Svarat                 
+DIV6      Gruppnr                
+DIV7      >Medflytt              
+DIV10     Omstyrt                
+DIV11     Köbesked               
+DIV12     Omstyrt                
+DIV13     DNISanr.               
+EXT1      Externt                
+EXT2      Eget nät               
+FCN0      Egen linje signaltyp   
+FCN1      Extra signaltyp        
+FCN2      Annans signaltyp       
+FCN3      Meny                   
+FCN4      Funktionsknapp 1       
+FCN5      Funktionsknapp 2       
+FCN6      Namnval:0-20 tecken    
+FCN8      Upprepa                
+FCN9      Funktionsknapp 3       
+FCN10     Funktionsknapp 4       
+FCN11     Automatsvar            
+FCN12     Ledig på Linje 2       
+FCN13     Återuppringning        
+FCN14     Vidarek/Medflyttning   
+FCN16     Parkering/Plocka upp   
+FCN17     Samtal väntar          
+FCN18     Konferens              
+FCN19     Påkoppling             
+FCN20     Personsökning          
+FCN21     Nummerlogg             
+FCN22     Meddelande väntar      
+FCN23     Programmeringsläge     
+FCN24     Spårning               
+FCN26     Stör ej                
+FCN27     Manuellt meddelande    
+FCN28     Handläggningstid       
+FCN29     Annans signaltyp       
+FCN30     Dataankn.nr            
+FCN31     Datanamnval            
+FCN32     Lokalläge              
+FCN33     Omstyrning             
+FCN34     Förmedling             
+FCN35     Pers. nummerprofil     
+FCN37     Förmedling             
+FCN41     Personnummer           
+ICS0      LUNCH                  TIME          
+ICS1      G.F.DAGEN              DATE          
+ICS2      TJ.ÄRENDE              TIME          
+ICS3      MöTE                   TIME          
+ICS4      TJ.RESA                DATE          
+ICS5      Kundbesök              TIME          
+ICS6      SEMESTER               DATE          
+ICS7      Ej Anträffbar          DATE          
+ICS8      TILLF.UTE              TIME          
+ICS9      SJUK                   
+ICS10     Info=*                 
+IDL2      Vidk till              
+IDL3      Medfl till             
+IDL4      Stör ej                
+IDL5      Medfl externt          
+IDL6      Upptagen av annan      
+IDL7      Hänvisad               
+IDL8      Vidk till personsök.   
+IDL9      Grupp stör-ej aktiv    
+IDL10     Meddelande väntar      
+IDL11     Manuell medel.väntar   
+IDL13     Omstyrt                
+IDL14     Linjen upptagen        
+IDL15     Profil                 
+MIS1      Tid/datum fel          
+MIS2      Parkerad               
+MIS4      Ringkar                
+MIS6      Tonval aktiverad       
+MIS7      Försök senare          
+MIS8      Medfl externt          
+MIS9      Spårning misslyckad    
+MIS10     Spårning utförs        
+MIS11     Skyddat nr             
+MIS12     Ange debiteringskod    
+MIS13     Ange behörighetskod    
+MIS14     Kostnad                
+MIS15     Ange PIN-kod           
+MIS16     Begärd service         
+MIS17     Ange CQ-kod            
+MIS18     Fler siffror           
+MIS19     Debiteras ej           
+MIS20     Deb.info ej tillg.     
+MIS21     Inga listade samtal    
+MIS22     Nya obesv. samtal:     
+MIS23     Slut på nummerlogg     
+MIS24     Ange Freeseat. -nr.    
+MIS25     Obesvarat              
+MIS26     Inkommande             
+MIS27     Utgående               
+MIS28     Nytt samtal            
+MIS29     Ange medflyttn.nr:     
+MIS30     Åter kl (ttmm):        
+MIS31     Åter den (ddmm):       
+MIS32     Åter den (mmdd):       
+MIS33     Ange externt nr:       
+MIS34     Inget namn             
+MIS35     Nödsamtal              
+MON1      Jan                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Apr                    
+MON5      Maj                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Okt                    
+MON11     Nov                    
+MON12     Dec                    
+NOP1      Tidsnedk. siffror      
+NOP2      Spärr internt          
+NOP3      Tidsnedk. utg.koppel   
+NOP4      Tidsnedk.vid upptage   
+NOP5      Tidsnedk. ej pts       
+NOP6      Linjen upptagen        
+NOP7      Otill. kategori        
+NOP8      Ej tillgänglig         
+NOP9      Vakant ankn.nr         
+NOP10     Frånvaro/nattkopplad   
+NOP11     Nedkopplat             
+NOP12     Utförd procedur        
+NOP13     Ej utförd procedur     
+NOP14     Kortnr ej inlagt       
+NOP15     Gruppnr. upptaget      
+NOP16     Ej utförd procedur     
+NOP17     Svarsgrupp upptagen    
+NOP18     Inga väntande samtal   
+NOP19     Psök ej tillgänglig    
+NOP20     Ej utförd procedur     
+NOP21     Ej tillåtet anrop      
+NOP22     Larmcentral upptagen   
+NOP23     Test OK                
+NOP24     Samtalet nedkopplat    
+NOP25     Fel format             
+NOP26     Frånvaro/nattkopplad   
+NOP28     Ej utförd              
+NOP29     Växeln i nödläge       
+NOP31     Passar ej              
+NOP33     Tidsnedkopplad         
+NOP34     Ingen ledig linje      
+NOP35     Upptaget               
+NOP38     Ej tillåtet anrop      
+NOP40     Samtalet nedkopplat    
+NOP41     Fel format             
+NOP42     Felaktigt format       
+NOP43     Datasamtal             
+NOP44     Otillåten nättjänst    
+NOP46     Debk behövs            
+NOP47     Behk ej godkänd        
+NOP50     Grupp upptagen         
+NOP52     Stängd                 
+NOP53     Öppen                  
+NOP54     Stängning misslyckad   
+NOP55     Öppning misslyckad     
+NOP56     Stör ej markerad       
+NOP57     Ej tillåtet anrop      
+NOP58     Ingen ledig linje      
+NOP59     Ej tillåtet anrop      
+NOP60     Upptagen               
+NOP65     Spårning utförs        
+NOP66     Spårning misslyckad    
+NOP69     Upptagen               
+NOP72     Otillåten koppl.väg    
+NOP74     Inkompatibel tjänst    
+NOP75     Otillgänglig tjänst    
+NOP76     Försök senare          
+NOP77     Redan öppnad           
+NOP78     Frånvaromarkerad       
+NOP79     Redan stängd           
+PRK0      Park. L3               
+PRK1      Park. L2               
+PRK2      Park. L1               
+PRK3      Park. L1               
+PRK4      Linje2 parkerad        
+PRK5      Linje1 parkerad        
+REG5      Debk godkänd           
+REG7      Debk ej godkänd        
+REG10     Behk godkänd           
+REG14     Manuellt meddelande    
+REG15     Meddelande väntar      
+REG16     Meddelande/omstyrd     
+REG17     Manuellt meddelande    
+REG18     Ange linjekod och nr   
+REG19     Medfl externt          
+SKG0      Deb.kod                
+SKG1      Beh.kod                
+SKG2      Tillbaka               
+SKG3      Ring                   
+SKG4      RingÅter               
+SKG5      Personsök              
+SKG6      Gruppsvar              
+SKG7      SamtalVänt             
+SKG8      Radera                 
+SKG9      Parkering              
+SKG10     Konferens              
+SKG11     Anslut                 
+SKG12     Prisinfo               
+SKG13     Radera                 
+SKG14     MerInfo                
+SKG15     Ner                    
+SKG16     StörEj                 
+SKG17     Skicka                 
+SKG18     Avsluta                
+SKG19     Sök                    
+SKG20     KopplaNed              
+SKG21     Grp.svar               
+SKG22     DöljMeny               
+SKG23     Påkoppling             
+SKG24     Stäng                  
+SKG25     LoggaIn                
+SKG26     LoggaUt                
+SKG27     Fler val               
+SKG28     Nästa                  
+SKG29     Öppna                  
+SKG30     Tfnbok                 
+SKG31     Ärendetyp              
+SKG32     Kö                     
+SKG33     Upprepa                
+SKG34     Tillbaka               
+SKG35     VisaDatum              
+SKG36     VisaMeny               
+SKG37     VisaTidur              
+SKG38     Stega                  
+SKG39     Start                  
+SKG40     Stopp                  
+SKG41     Tidur                  
+SKG42     Toner                  
+SKG43     Spåra                  
+SKG44     Upp                    
+SKG45     Lista                  
+SKG46     * missade              
+SKG47     Välj                   
+SKG48     Prog.läge              
+SKG49     Överflyttn.            
+SKG50     Konf./Överf.           
+SKG51     NyMedlem               
+SKG52     Aktivera               
+SKG53     Inaktivera             
+SKG54     Frånvaro               
+SKG55     EjVidarekpl            
+SKG56     AvslStörEj             
+SKG57     Info                   
+SKG58     Inställning            
+SKG59     Spara                  
+SKG60     Ja                     
+SKG61     Nej                    
+SKG62     Behåll                 
+SKG63     Frånvaro               
+SKG64     Hänvisning             
+SKG65     Medflyttning           
+SKG66     Extern medflyttning    
+SKG67     Extern medflytt.       
+SKG68     Vidarekoppla           
+SKG69     Stör ej                
+SKG70     Vidarekopplad          
+SKG71     Vidarekopplad          
+SKG72     Hänvisning             
+SKG73     Röstbrevlåda           
+SKG74     Fel lösenord           
+SKG75     Åter klockan (ttmm):   
+SKG76     Åter kl (ttmm):        
+SKG77     Åter den (ddmm):       
+SKG78     Åter den (ddmm):       
+SKG79     Åter den (mmdd):       
+SKG80     Åter den (mmdd):       
+SKG81     Hittade ej             
+SKG82     Ange nummer            
+SKG83     Ange nummer            
+SKG84     Fel format             
+SKG85     Tjänst beställd        
+SKG86     Tjänst beställd        
+SKG87     Tjänst misslyckades    
+SKG88     Misslyckades           
+SKG89     Tidsformat ej satt     
+SKG90     Kontakta syst. admin   
+SKG91     Tjänster               
+SKG92     Avkonfig. telefon      
+SKG93     Användare:             
+SKG94     Lösenord               
+SKG95     TillfAnv.              
+SKG96     Tillfällig användare   
+SKG97     Funktionen otillgänglig!
+SKI0      ÖppnaDebk Behk  Tid    
+SKI1      StängDebk Behk  Tid    
+SKI2      Åter Psök       Tid    
+SKI3      Åter Samv Svar Påkop   
+SKI4      Tonv Debk Kostn Tid    
+SKI5      Tonv Debk Konf  Tid    
+SKI6      RensaKorr      Inmat   
+SKI7      Info                   
+SKI8      Rept Debk Svar  Tid    
+SKI10     Vänt                   
+SKI11     Kostn                  
+SKI12     Debk                   
+SKI14     Stäng Kö  Behk  Kod    
+SKI15     Stäng Kö  Behk  Tid    
+SKI16     Tonv Debk Kostn Kod    
+SKI17     Tonv Debk Konf  Kod    
+SKI20     ÖppnaSt/ej Behk Tid    
+SKI21     StängSt/ej Behk Tid    
+SKI23     Åter Samv Svar  Tid    
+SKI24     Tonv Spår Kostn Tid    
+SKI25     Tonv Spår Konf  Tid    
+SKI28     Rept St/ej Svar Tid    
+SKI30     NästaBort Ring Avsl    
+SKI31     Nästa:+     Radera:-   
+SKI32     Avsluta:C              
+SKI33     Tillbaka:1             
+SKI36     Tonv Spår Kostn Kod    
+SKI37     Tonv Spår Konf  Kod    
+SKI40     Korr Mell  Sök Avsl    
+SKI41     Upp   Ner Ring Avsl    
+SKI42     ÖppnaDebk Behk  Kat    
+SKI43     StängDebk Behk  Kat    
+SKI44     Rept Debk Svar  Kat    
+SKI45     Stäng Kö  Behk  Kat    
+SKI46     ÖppnaSt/ejBehk  Kat    
+SKI47     StängSt/ejBehk  Kat    
+SKI48     Rept St/ejSvar  Kat    
+TIM1      StoppNoll Datu Avsl    
+TIM2      StartNoll Datu Avsl    
+TIM3      StoppNoll Tidt Avsl    
+TIM4      StartNoll Tidt Avsl    
+TOP0      Program                
+TOP1      Programmera knappar    
+TOP10     Inställn.              
+TOP11     Displaykontrast        
+TOP12     Programmera melodi     
+TOP13     Visa programversion    
+TOP14     Förinställa headset    
+TOP15     Lokalt testläge        
+TOP16     Adapterinställningar   
+TOP17     Ställ in volym         
+TOP20     Samtalslista           
+TOP21     Samtalslista           
+TOP22     Obesvarade samtal      
+TOP23     Utgående samtal        
+TOP24     Inkommande samtal      
+TOP40     Telefonbok             
+TOP41     Central katalog        
+TOP50     Meddelande             
+TOP51     Meddelande väntar      
+TOP52     Röstbrevlåda           
+VSU1      VSU klar               
+VSU2      Uppspelning            
+VSU3      Inspelning             
+VSU4      Tidsnedkpl.siffror     
+VSU5      Fel format             
+VSU6      Felaktig procedur      
+VSU7      För långt meddelande   
+VSU8      Meddelande ej lagrat   
+VSU9      VSU-minne fullt        
+

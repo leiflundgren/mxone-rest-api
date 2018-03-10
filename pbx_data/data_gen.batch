@@ -1,0 +1,270 @@
+mdsh -c source pu_add_info.batch | sed '/\r/!s/$/\r/' | tee -a pu_add_info
+mdsh -c language | sed '/\r/!s/$/\r/' | tee -a language
+mdsh -c media_gateway_config -p | sed '/\r/!s/$/\r/' | tee -a media_gateway_config
+mdsh -c board_list | sed '/\r/!s/$/\r/' | tee -a board_list
+mdsh -c media_gateway_interface -p | sed '/\r/!s/$/\r/' | tee -a media_gateway_interface
+mdsh -c pcm_config -print conn -lim all | sed '/\r/!s/$/\r/' | tee -a pcm_config_pcm
+mdsh -c pcm_config | sed '/\r/!s/$/\r/' | tee -a pcm_config
+mdsh -c pcm_synchronization | sed '/\r/!s/$/\r/' | tee -a pcm_synchronization
+mdsh -c alarm_input -p | sed '/\r/!s/$/\r/' | tee -a alarm_input_list
+mdsh -c alarm_output -p | sed '/\r/!s/$/\r/' | tee -a alarm_output_list
+mdsh -c alarm_action -p | sed '/\r/!s/$/\r/' | tee -a alarm_action_list
+mdsh -c "SYDAP;"| sed '/\r/!s/$/\r/' | tee -a SYDAP
+mdsh -c "SYTDP;"| sed '/\r/!s/$/\r/' | tee -a SYTDP
+mdsh -c "ASPAP:PARNUM=ALL;"| sed '/\r/!s/$/\r/' | tee -a ASPAP
+mdsh -c "TCMAP:CON=ALL;"| sed '/\r/!s/$/\r/' | tee -a TCMAP
+mdsh -c number_print | sed '/\r/!s/$/\r/' | tee -a number_print
+mdsh -c number_print -numbertype sc | sed '/\r/!s/$/\r/' | tee -a number_print_sc
+mdsh -c number_print -customer all | sed '/\r/!s/$/\r/' | tee -a number_print_customer
+mdsh -c number_print -numbertype CD -customer all | sed '/\r/!s/$/\r/' | tee -a number_print_CD
+mdsh -c "SYIDP;"| sed '/\r/!s/$/\r/' | tee -a SYIDP
+mdsh -c number_conversion_print | sed '/\r/!s/$/\r/' | tee -a number_conversion_print
+mdsh -c number_vacant_conversion_print | sed '/\r/!s/$/\r/' | tee -a number_vacant_conversion_print
+mdsh -c "OPSAP:LIM=ALL;"| sed '/\r/!s/$/\r/' | tee -a OPSAP
+mdsh -c "OPCAP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a OPCAP
+mdsh -c "OPDDP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a OPDDP
+mdsh -c "OPISP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a OPISP
+mdsh -c "OPIDP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a OPIDP
+mdsh -c "EXCCP:CAT=ALL;"| sed '/\r/!s/$/\r/' | tee -a EXCCP
+mdsh -c extension_profile -p -s | sed '/\r/!s/$/\r/' | tee -a extension_profile
+mdsh -c "ADCDP:ABB=ALL;"| sed '/\r/!s/$/\r/' | tee -a ADCDP
+mdsh -c "MTSSP:LNKSET=ALL;"| sed '/\r/!s/$/\r/' | tee -a MTSSP
+mdsh -c "MTSLP:LINK=ALL;"| sed '/\r/!s/$/\r/' | tee -a MTSLP
+mdsh -c "MTSTP:ROUSET=ALL;"| sed '/\r/!s/$/\r/' | tee -a MTSTP
+mdsh -c "MTSRP:ROUSET=ALL;"| sed '/\r/!s/$/\r/' | tee -a MTSRP
+mdsh -c "ROCAP:ROU=ALL;"| sed '/\r/!s/$/\r/' | tee -a ROCAP
+mdsh -c "RODAP:ROU=ALL;"| sed '/\r/!s/$/\r/' | tee -a RODAP
+mdsh -c "RODIP:DRN=ALL;"| sed '/\r/!s/$/\r/' | tee -a RODIP
+mdsh -c "RIANP:ROU=ALL;"| sed '/\r/!s/$/\r/' | tee -a RIANP
+mdsh -c "RODDP:DEST=ALL,CUST=ALL;"| sed '/\r/!s/$/\r/' | tee -a RODDP1
+mdsh -c "RODDP:DEST=ALL,CUST=ALL,IPOPT=YES;"| sed '/\r/!s/$/\r/' | tee -a RODDP2
+mdsh -c sip_route -print -route all | sed '/\r/!s/$/\r/' | tee -a sip_route
+mdsh -c "ROEDP:ROU=ALL,TRU=ALL;"| sed '/\r/!s/$/\r/' | tee -a ROEDP
+mdsh -c "RORNP:ROU=ALL;"| sed '/\r/!s/$/\r/' | tee -a RORNP
+mdsh -c "RORNP:CUST=ALL;"| sed '/\r/!s/$/\r/' | tee -a RORNP
+mdsh -c "RONDP:ROU=ALL;"| sed '/\r/!s/$/\r/' | tee -a RONDP
+mdsh -c ip_gatekeeper -p -l all | sed '/\r/!s/$/\r/' | tee -a ip_gatekeeper
+mdsh -c ip_domain -p | sed '/\r/!s/$/\r/' | tee -a ip_domain
+mdsh -c extension_registration_distribution -p | sed '/\r/!s/$/\r/' | tee -a extension_registration_distribution
+mdsh -c extension -p -d all | sed '/\r/!s/$/\r/' | tee -a extension
+mdsh -c license_print_definition | sed '/\r/!s/$/\r/' | tee -a flev_definintion
+mdsh -c "KSDDP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a KSDDP
+mdsh -c "KSCAP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a KSCAP
+mdsh -c auth_code -p | sed '/\r/!s/$/\r/' | tee -a auth_code
+mdsh -c ip_extension -p -d all | sed '/\r/!s/$/\r/' | tee -a ip_extension
+mdsh -c sec_policy -print | sed '/\r/!s/$/\r/' | tee -a sec_policy
+mdsh -c media_encryption_print -type route | sed '/\r/!s/$/\r/' | tee -a media_encryption_print1
+mdsh -c media_encryption_print -type extension | sed '/\r/!s/$/\r/' | tee -a media_encryption_print2
+mdsh -c media_encryption_print -type intermgw | sed '/\r/!s/$/\r/' | tee -a media_encryption_print3
+mdsh -c "EXCAP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a EXCAP
+mdsh -c "EXDDP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a EXDDP
+mdsh -c "KSMDP:MDN=ALL;"| sed '/\r/!s/$/\r/' | tee -a KSMDP
+mdsh -c "KSFKP:DIR=ALL,KTYPE=ALL;"| sed '/\r/!s/$/\r/' | tee -a KSFKP
+mdsh -c "ITDAP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a ITDAP
+mdsh -c "GHDAP:GRP=ALL,SORT=1;"| sed '/\r/!s/$/\r/' | tee -a GHDAP
+mdsh -c "ACGCP:GRP=ALL;"| sed '/\r/!s/$/\r/' | tee -a ACGCP
+mdsh -c "ACGMP:GRP=ALL,SORT=1;"| sed '/\r/!s/$/\r/' | tee -a ACGMP
+mdsh -c "ACTNP:DNUM=ALL;"| sed '/\r/!s/$/\r/' | tee -a ACTNP
+mdsh -c "ACBGP:GRP=ALL;"| sed '/\r/!s/$/\r/' | tee -a ACBGP
+mdsh -c "CSTLP;"| sed '/\r/!s/$/\r/' | tee -a CSTLP
+mdsh -c "ACPAP:ACDNUM=ALL;"| sed '/\r/!s/$/\r/' | tee -a ACPAP
+mdsh -c language_strings_override -p | sed '/\r/!s/$/\r/' | tee -a language_strings_override
+mdsh -c "CBDAP:GRP=ALL;"| sed '/\r/!s/$/\r/' | tee -a CBDAP
+mdsh -c diversion_common -p | sed '/\r/!s/$/\r/' | tee -a diversion_common
+mdsh -c "GPDAP:GRP=ALL,CUST=ALL;"| sed '/\r/!s/$/\r/' | tee -a GPDAP
+mdsh -c "GDNDP:GRP=1&&99;"| sed '/\r/!s/$/\r/' | tee -a GDNDP
+mdsh -c sip_domain -p | sed '/\r/!s/$/\r/' | tee -a sip_domain
+mdsh -c "ICFUP;"| sed '/\r/!s/$/\r/' | tee -a ICFUP
+mdsh -c "EMFUP;"| sed '/\r/!s/$/\r/' | tee -a EMFUP
+mdsh -c "ICMWP:SID=ALL;"| sed '/\r/!s/$/\r/' | tee -a ICMWP
+mdsh -c "ISFUP;"| sed '/\r/!s/$/\r/' | tee -a ISFUP
+mdsh -c "ISEPP:TERM=ALL;"| sed '/\r/!s/$/\r/' | tee -a ISEPP
+mdsh -c "ISEPP:GRP=ALL;"| sed '/\r/!s/$/\r/' | tee -a ISEPP
+mdsh -c "VMFUP;"| sed '/\r/!s/$/\r/' | tee -a VMFUP
+mdsh -c "VMPOP;"| sed '/\r/!s/$/\r/' | tee -a VMPOP
+mdsh -c "VMGEP:IFCIND=ALL;"| sed '/\r/!s/$/\r/' | tee -a VMGEP
+mdsh -c "PAEDP:SAR=ALL;"| sed '/\r/!s/$/\r/' | tee -a PAEDP
+mdsh -c "PADAP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a PADAP
+mdsh -c "PADAP:EPN=ALL;"| sed '/\r/!s/$/\r/' | tee -a PADAP
+mdsh -c "PADAP:CPN=ALL;"| sed '/\r/!s/$/\r/' | tee -a PADAP
+mdsh -c "PAALP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a PAALP
+mdsh -c "OPCTP:CORG=ALL;"| sed '/\r/!s/$/\r/' | tee -a OPCTP
+mdsh -c "OPCGP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a OPCGP
+mdsh -c "OPNEP;"| sed '/\r/!s/$/\r/' | tee -a OPNEP
+mdsh -c "OPRSP:SDM=ALL,LANG=0;"| sed '/\r/!s/$/\r/' | tee -a OPRSP0
+mdsh -c "OPRSP:SDM=ALL,LANG=1;"| sed '/\r/!s/$/\r/' | tee -a OPRSP1
+mdsh -c "OPRSP:SDM=ALL,LANG=2;"| sed '/\r/!s/$/\r/' | tee -a OPRSP2
+mdsh -c "OPRSP:SDM=ALL,LANG=3;"| sed '/\r/!s/$/\r/' | tee -a OPRSP3
+mdsh -c "OPRSP:SDM=ALL,LANG=4;"| sed '/\r/!s/$/\r/' | tee -a OPRSP4
+mdsh -c "OPRSP:SDM=ALL,LANG=5;"| sed '/\r/!s/$/\r/' | tee -a OPRSP5
+mdsh -c "OPRSP:SDM=ALL,LANG=6;"| sed '/\r/!s/$/\r/' | tee -a OPRSP6
+mdsh -c "OPRSP:SDM=ALL,LANG=7;"| sed '/\r/!s/$/\r/' | tee -a OPRSP7
+mdsh -c "OPRSP:SDM=ALL,LANG=8;"| sed '/\r/!s/$/\r/' | tee -a OPRSP8
+mdsh -c "OPRSP:SDM=ALL,LANG=9;"| sed '/\r/!s/$/\r/' | tee -a OPRSP9
+mdsh -c "OPRSP:ROU=ALL;"| sed '/\r/!s/$/\r/' | tee -a OPRSP10
+mdsh -c "OPDNP;"| sed '/\r/!s/$/\r/' | tee -a OPDNP
+mdsh -c "OPCEP:CORG=ALL;"| sed '/\r/!s/$/\r/' | tee -a OPCEP
+mdsh -c "CPDNP;"| sed '/\r/!s/$/\r/' | tee -a CPDNP
+mdsh -c "CPDLP;"| sed '/\r/!s/$/\r/' | tee -a CPDLP
+mdsh -c "RAEQP:VSID=ALL;"| sed '/\r/!s/$/\r/' | tee -a RAEQP
+mdsh -c "RADSP:ANN=ALL;"| sed '/\r/!s/$/\r/' | tee -a RADSP
+mdsh -c "RAMDP:ANN=ALL;"| sed '/\r/!s/$/\r/' | tee -a RAMDP
+mdsh -c "RAGMP:AGP=ALL;"| sed '/\r/!s/$/\r/' | tee -a RAGMP_GP
+mdsh -c "RAGMP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a RAGMP_DR
+mdsh -c "RADNP:VSID=ALL;"| sed '/\r/!s/$/\r/' | tee -a RADNP
+mdsh -c "RAGAP:GRP=ALL;"| sed '/\r/!s/$/\r/' | tee -a RAGAP1
+mdsh -c "RAGAP:CORG=ALL;"| sed '/\r/!s/$/\r/' | tee -a RAGAP2
+mdsh -c "RODNP:ROU=ALL,TRU=ALL;"| sed '/\r/!s/$/\r/' | tee -a RODNP
+mdsh -c "ROECP:EQU=ALL;"| sed '/\r/!s/$/\r/' | tee -a ROECP
+mdsh -c "ROCDP:CUST=ALL;"| sed '/\r/!s/$/\r/' | tee -a ROCDP
+mdsh -c "ROSCP:LIM=ALL;"| sed '/\r/!s/$/\r/' | tee -a ROSCP
+mdsh -c "ROVNP:ROU=ALL;"| sed '/\r/!s/$/\r/' | tee -a ROVNP
+mdsh -c "RORIP:LIM=ALL;"| sed '/\r/!s/$/\r/' | tee -a RORIP
+mdsh -c "ROELP;"| sed '/\r/!s/$/\r/' | tee -a ROELP
+mdsh -c "ROAPP:ROU=ALL;"| sed '/\r/!s/$/\r/' | tee -a ROAPP
+mdsh -c "SEMIP:LIM=ALL;"| sed '/\r/!s/$/\r/' | tee -a SEMIP
+mdsh -c "LCDDP:TAB=ENT;"| sed '/\r/!s/$/\r/' | tee -a LCDDP
+mdsh -c "LCDDP:TAB=NLT;"| sed '/\r/!s/$/\r/' | tee -a LCDDP
+mdsh -c "LCDDP:TAB=FDT;"| sed '/\r/!s/$/\r/' | tee -a LCDDP
+mdsh -c "LCDDP:TAB=DNT1;"| sed '/\r/!s/$/\r/' | tee -a LCDDP
+mdsh -c "LCDDP:TAB=DNT2;"| sed '/\r/!s/$/\r/' | tee -a LCDDP
+mdsh -c "LCDDP:TAB=PNR;"| sed '/\r/!s/$/\r/' | tee -a LCDDP2
+mdsh -c "LCDDP:TAB=RCT;"| sed '/\r/!s/$/\r/' | tee -a LCDDP2
+mdsh -c "LCDDP:TAB=PNR,IPOPT=Y;"| sed '/\r/!s/$/\r/' | tee -a LCDDP3
+mdsh -c "LCLDP:LIM=ALL;"| sed '/\r/!s/$/\r/' | tee -a LCLDP
+mdsh -c "LCOPP:OCPT=ALL;"| sed '/\r/!s/$/\r/' | tee -a LCOPP
+mdsh -c "LCOPP:ROU=ALL;"| sed '/\r/!s/$/\r/' | tee -a LCOPP
+mdsh -c "LCTDP;"| sed '/\r/!s/$/\r/' | tee -a LCTDP
+mdsh -c "NSDAP;"| sed '/\r/!s/$/\r/' | tee -a NSDAP
+mdsh -c callinfo_condcode_print | sed '/\r/!s/$/\r/' | tee -a callinfo_condcode_print
+mdsh -c callinfo_limit_print | sed '/\r/!s/$/\r/' | tee -a callinfo_limit_print
+mdsh -c callinfo_mask_print | sed '/\r/!s/$/\r/' | tee -a callinfo_mask_print
+mdsh -c callinfo_status_print | sed '/\r/!s/$/\r/' | tee -a callinfo_status_print
+mdsh -c account_code_print | sed '/\r/!s/$/\r/' | tee -a account_code_print
+mdsh -c "ADIDP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a ADIDP
+mdsh -c "NCNOP;"| sed '/\r/!s/$/\r/' | tee -a NCNOP
+mdsh -c "NCICP;"| sed '/\r/!s/$/\r/' | tee -a NCICP
+mdsh -c "NCCOP:NODE=ALL;"| sed '/\r/!s/$/\r/' | tee -a NCCOP
+mdsh -c "NCGRP:ANCD=ALL;"| sed '/\r/!s/$/\r/' | tee -a NCGRP
+mdsh -c "NCSGP:SAT=ALL;"| sed '/\r/!s/$/\r/' | tee -a NCSGP
+mdsh -c "NCGMP:ANCD=ALL,SORT=1;"| sed '/\r/!s/$/\r/' | tee -a NCGMP
+mdsh -c dect_system_id -p | sed '/\r/!s/$/\r/' | tee -a dect_system_id
+mdsh -c dect_cfp -p | sed '/\r/!s/$/\r/' | tee -a dect_cfp1
+mdsh -c dect_logging -p | sed '/\r/!s/$/\r/' | tee -a dect_logging
+mdsh -c dect_cfp -p -f regen | sed '/\r/!s/$/\r/' | tee -a dect_cfp
+mdsh -c dect_rfp -p | sed '/\r/!s/$/\r/' | tee -a dect_rfp
+mdsh -c dect_extension -p | sed '/\r/!s/$/\r/' | tee -a dect_extension
+mdsh -c dect_extension -p --authentication-details -d all | sed '/\r/!s/$/\r/' | tee -a dect_extension1
+mdsh -c remote_extension -p -d all | sed '/\r/!s/$/\r/' | tee -a remote_extension
+mdsh -c delay_seizure_list -p | sed '/\r/!s/$/\r/' | tee -a delay_seizure_list
+mdsh -c call_list -p -d all | sed '/\r/!s/$/\r/' | tee -a call_list
+mdsh -c sms_server_print -dir all | sed '/\r/!s/$/\r/' | tee -a sms_server_print
+mdsh -c sms_client_print -lim all | sed '/\r/!s/$/\r/' | tee -a sms_client_print
+mdsh -c diversion -p | sed '/\r/!s/$/\r/' | tee -a diversion
+mdsh -c diversion_system -p | sed '/\r/!s/$/\r/' | tee -a diversion_system
+mdsh -c name -p -d all | sed '/\r/!s/$/\r/' | tee -a name1
+mdsh -c name -p -d all --dial-by-name-only | sed '/\r/!s/$/\r/' | tee -a name2
+mdsh -c name -p --company-name-only | sed '/\r/!s/$/\r/' | tee -a name3
+mdsh -c name -p -d all --list all | sed '/\r/!s/$/\r/' | tee -a name4
+mdsh -c name -p --route-number all | sed '/\r/!s/$/\r/' | tee -a name5
+mdsh -c "RACEP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a RACEP1
+mdsh -c "RACEP:VOCT=ALL,CUST=ALL;"| sed '/\r/!s/$/\r/' | tee -a RACEP2
+mdsh -c "RACEP:OPE=ALL;"| sed '/\r/!s/$/\r/' | tee -a RACEP3
+mdsh -c "CHCMP:TARIFF=ALL;"| sed '/\r/!s/$/\r/' | tee -a CHCMP
+mdsh -c call_list_profile -p -d all | sed '/\r/!s/$/\r/' | tee -a call_list_profile
+mdsh -c parallel_ringing -p -d all | sed '/\r/!s/$/\r/' | tee -a parallel_ringing
+mdsh -c "KSCHP:LANG=0;"| sed '/\r/!s/$/\r/' | tee -a KSCHP0
+mdsh -c "KSCHP:LANG=1;"| sed '/\r/!s/$/\r/' | tee -a KSCHP1
+mdsh -c "KSCHP:LANG=2;"| sed '/\r/!s/$/\r/' | tee -a KSCHP2
+mdsh -c "KSCHP:LANG=3;"| sed '/\r/!s/$/\r/' | tee -a KSCHP3
+mdsh -c "KSCHP:LANG=4;"| sed '/\r/!s/$/\r/' | tee -a KSCHP4
+mdsh -c "KSCHP:LANG=5;"| sed '/\r/!s/$/\r/' | tee -a KSCHP5
+mdsh -c "KSCHP:LANG=6;"| sed '/\r/!s/$/\r/' | tee -a KSCHP6
+mdsh -c "KSCHP:LANG=7;"| sed '/\r/!s/$/\r/' | tee -a KSCHP7
+mdsh -c "KSCHP:LANG=8;"| sed '/\r/!s/$/\r/' | tee -a KSCHP8
+mdsh -c "KSCHP:LANG=9;"| sed '/\r/!s/$/\r/' | tee -a KSCHP9
+mdsh -c "KSCHP:DISPOS=20&&7E&A0&&FF,LANG=0;"| sed '/\r/!s/$/\r/' | tee -a KSCHP10
+mdsh -c "KSCHP:DISPOS=20&&7E&A0&&FF,LANG=1;"| sed '/\r/!s/$/\r/' | tee -a KSCHP11
+mdsh -c "KSCHP:DISPOS=20&&7E&A0&&FF,LANG=2;"| sed '/\r/!s/$/\r/' | tee -a KSCHP12
+mdsh -c "KSCHP:DISPOS=20&&7E&A0&&FF,LANG=3;"| sed '/\r/!s/$/\r/' | tee -a KSCHP13
+mdsh -c "KSCHP:DISPOS=20&&7E&A0&&FF,LANG=4;"| sed '/\r/!s/$/\r/' | tee -a KSCHP14
+mdsh -c "KSCHP:DISPOS=20&&7E&A0&&FF,LANG=5;"| sed '/\r/!s/$/\r/' | tee -a KSCHP15
+mdsh -c "KSCHP:DISPOS=20&&7E&A0&&FF,LANG=6;"| sed '/\r/!s/$/\r/' | tee -a KSCHP16
+mdsh -c "KSCHP:DISPOS=20&&7E&A0&&FF,LANG=7;"| sed '/\r/!s/$/\r/' | tee -a KSCHP17
+mdsh -c "KSCHP:DISPOS=20&&7E&A0&&FF,LANG=8;"| sed '/\r/!s/$/\r/' | tee -a KSCHP18
+mdsh -c "KSCHP:DISPOS=20&&7E&A0&&FF,LANG=9;"| sed '/\r/!s/$/\r/' | tee -a KSCHP19
+mdsh -c "CHGAP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a CHGAP
+mdsh -c "CHGAP:ROU=ALL;"| sed '/\r/!s/$/\r/' | tee -a CHGAP
+mdsh -c extension_text -p --ext-display-option all --language-code en --format short | sed '/\r/!s/$/\r/' | tee -a extension_text0
+mdsh -c extension_text -p --ext-display-option all --language-code en  --format long | sed '/\r/!s/$/\r/' | tee -a extension_text20
+mdsh -c extension_text -p --ext-display-option all --language-code fr --format short | sed '/\r/!s/$/\r/' | tee -a extension_text1
+mdsh -c extension_text -p --ext-display-option all --language-code fr  --format long | sed '/\r/!s/$/\r/' | tee -a extension_text21
+mdsh -c extension_text -p --ext-display-option all --language-code de --format short | sed '/\r/!s/$/\r/' | tee -a extension_text2
+mdsh -c extension_text -p --ext-display-option all --language-code de  --format long | sed '/\r/!s/$/\r/' | tee -a extension_text22
+mdsh -c extension_text -p --ext-display-option all --language-code es-MX --format short | sed '/\r/!s/$/\r/' | tee -a extension_text3
+mdsh -c extension_text -p --ext-display-option all --language-code es-MX  --format long | sed '/\r/!s/$/\r/' | tee -a extension_text23
+mdsh -c extension_text -p --ext-display-option all --language-code it --format short | sed '/\r/!s/$/\r/' | tee -a extension_text4
+mdsh -c extension_text -p --ext-display-option all --language-code it  --format long | sed '/\r/!s/$/\r/' | tee -a extension_text24
+mdsh -c extension_text -p --ext-display-option all --language-code sv --format short | sed '/\r/!s/$/\r/' | tee -a extension_text5
+mdsh -c extension_text -p --ext-display-option all --language-code sv  --format long | sed '/\r/!s/$/\r/' | tee -a extension_text25
+mdsh -c extension_text -p --ext-display-option all --language-code fi --format short | sed '/\r/!s/$/\r/' | tee -a extension_text6
+mdsh -c extension_text -p --ext-display-option all --language-code fi  --format long | sed '/\r/!s/$/\r/' | tee -a extension_text26
+mdsh -c extension_text -p --ext-display-option all --language-code da --format short | sed '/\r/!s/$/\r/' | tee -a extension_text7
+mdsh -c extension_text -p --ext-display-option all --language-code da  --format long | sed '/\r/!s/$/\r/' | tee -a extension_text27
+mdsh -c extension_text -p --ext-display-option all --language-code no --format short | sed '/\r/!s/$/\r/' | tee -a extension_text8
+mdsh -c extension_text -p --ext-display-option all --language-code no  --format long  | sed '/\r/!s/$/\r/' | tee -a extension_text28
+mdsh -c extension_text -p --ext-display-option all --language-code nl --format short | sed '/\r/!s/$/\r/' | tee -a extension_text9
+mdsh -c extension_text -p --ext-display-option all --language-code nl --format long | sed '/\r/!s/$/\r/' | tee -a extension_text29
+mdsh -c extension_text -p --ext-display-option all --language-code pt-BR --format short | sed '/\r/!s/$/\r/' | tee -a extension_text40
+mdsh -c extension_text -p --ext-display-option all --language-code pt-BR --format long | sed '/\r/!s/$/\r/' | tee -a extension_text60
+mdsh -c extension_text -p --ext-display-option all --language-code et --format short | sed '/\r/!s/$/\r/' | tee -a extension_text41
+mdsh -c extension_text -p --ext-display-option all --language-code et --format long | sed '/\r/!s/$/\r/' | tee -a extension_text61
+mdsh -c extension_text -p --ext-display-option all --language-code fy --format short | sed '/\r/!s/$/\r/' | tee -a extension_text42
+mdsh -c extension_text -p --ext-display-option all --language-code fy --format long | sed '/\r/!s/$/\r/' | tee -a extension_text62
+mdsh -c extension_text -p --ext-display-option all --language-code pl --format short | sed '/\r/!s/$/\r/' | tee -a extension_text43
+mdsh -c extension_text -p --ext-display-option all --language-code pl --format long | sed '/\r/!s/$/\r/' | tee -a extension_text63
+mdsh -c extension_text -p --ext-display-option all --language-code pt --format short | sed '/\r/!s/$/\r/' | tee -a extension_text44
+mdsh -c extension_text -p --ext-display-option all --language-code pt --format long | sed '/\r/!s/$/\r/' | tee -a extension_text64
+mdsh -c extension_text -p --ext-display-option all --language-code ro --format short | sed '/\r/!s/$/\r/' | tee -a extension_text45
+mdsh -c extension_text -p --ext-display-option all --language-code ro --format long | sed '/\r/!s/$/\r/' | tee -a extension_text65
+mdsh -c extension_text -p --ext-display-option all --language-code ru --format short | sed '/\r/!s/$/\r/' | tee -a extension_text46
+mdsh -c extension_text -p --ext-display-option all --language-code ru --format long | sed '/\r/!s/$/\r/' | tee -a extension_text66
+mdsh -c extension_text -p --ext-display-option all --language-code es --format short | sed '/\r/!s/$/\r/' | tee -a extension_text47
+mdsh -c extension_text -p --ext-display-option all --language-code es --format long | sed '/\r/!s/$/\r/' | tee -a extension_text67
+mdsh -c extension_text -p --ext-display-option all --language-code cs --format short | sed '/\r/!s/$/\r/' | tee -a extension_cs_short_print
+mdsh -c extension_text -p --ext-display-option all --language-code cs --format long | sed '/\r/!s/$/\r/' | tee -a extension_cs_long_print
+mdsh -c extension_text -p --ext-display-option all --language-code eu --format short | sed '/\r/!s/$/\r/' | tee -a extension_eu_short_print
+mdsh -c extension_text -p --ext-display-option all --language-code eu --format long | sed '/\r/!s/$/\r/' | tee -a extension_eu_long_print
+mdsh -c "EXADP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a EXADP
+mdsh -c "KSADP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a KSADP
+mdsh -c extension_key -p -d all | sed '/\r/!s/$/\r/' | tee -a extension_key1
+mdsh -c "TRDPP;"| sed '/\r/!s/$/\r/' | tee -a TRDPP
+mdsh -c "TRRSP;"| sed '/\r/!s/$/\r/' | tee -a TRRSP
+mdsh -c "SPEXP:DIR=ALL;"| sed '/\r/!s/$/\r/' | tee -a SPEXP
+mdsh -c trsp_synchronization | sed '/\r/!s/$/\r/' | tee -a trsp_synchronization
+mdsh -c trsp_connection | sed '/\r/!s/$/\r/' | tee -a trsp_connection
+mdsh -c license_report | sed '/\r/!s/$/\r/' | tee -a license_report
+mdsh -c exchange_info | sed '/\r/!s/$/\r/' | tee -a exchange_info
+mdsh -c csta -p -l all | sed '/\r/!s/$/\r/' | tee -a csta
+mdsh -c recorded_announcement_prompt -p | sed '/\r/!s/$/\r/' | tee -a recorded_announcement_prompt
+mdsh -c ring_signal -p -d all | sed '/\r/!s/$/\r/' | tee -a ring_signal
+mdsh -c ring_cadence -p | sed '/\r/!s/$/\r/' | tee -a ring_cadence
+mdsh -c igw_route -p | sed '/\r/!s/$/\r/' | tee -a igw_route1
+mdsh -c igw_route -p -b all | sed '/\r/!s/$/\r/' | tee -a igw_route2
+mdsh -c data_info | sed '/\r/!s/$/\r/' | tee -a data_info
+mdsh -c trace -print 0 | sed '/\r/!s/$/\r/' | tee -a trace
+mdsh -c license_status | sed '/\r/!s/$/\r/' | tee -a license
+mdsh -c callinfo_output_info | sed '/\r/!s/$/\r/' | tee -a callinfo_output
+mdsh -c "TRDIP;"| sed '/\r/!s/$/\r/' | tee -a TRDIP
+mdsh -c ts_about | sed '/\r/!s/$/\r/' | tee -a ts_about
+mdsh -c board_sw -sesboards -mgw all | sed '/\r/!s/$/\r/' | tee -a board_sw
+mdsh -c board_sw -status -mgw all | sed '/\r/!s/$/\r/' | tee -a board_sw
+mdsh -c mxone_data -p | sed '/\r/!s/$/\r/' | tee -a mxone_data
+mdsh -c alarm_cfg -p -f script | sed '/\r/!s/$/\r/' | tee -a alarm_cfg
+mdsh -c unix mxone_certificate -p | sed '/\r/!s/$/\r/' | tee -a mxone_certificate
+mdsh -c media_gateway_info | sed '/\r/!s/$/\r/' | tee -a media_gateway_info
+mdsh -c status -system | sed '/\r/!s/$/\r/' | tee -a SystemStatus
+mdsh -c external_database -p | sed '/\r/!s/$/\r/' | tee -a external_database
+mdsh -c external_directory -p | sed '/\r/!s/$/\r/' | tee -a external_directory
+mdsh -c ip_extension_info -p -d all | sed '/\r/!s/$/\r/' | tee -a ip_extension_info
+mdsh -c transmission_matrix_data -p | sed '/\r/!s/$/\r/' | tee -a transmission_matrix_data

@@ -1,0 +1,11 @@
+
+  Synchronization data for media gateway 1A
+
+    Synchronization received from board 1A-2-10
+
+    Bpos      Controler  Status   Class     Prio         
+    ----      ---------  ------   -----     ----         
+    1A-2-00   SLP60      Blocked  A         one          
+  * 1A-2-10   SLP60      OK       B         two          
+
+END

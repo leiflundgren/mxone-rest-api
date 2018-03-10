@@ -1,0 +1,173 @@
+
+Extension Text String
+
+Language: English             
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Busy                   
+BSY2      Line busy              
+BSY3      Failed                 
+BSY4      Failed                 
+BSY5      Failed                 
+BSY6      Line busy              
+BSY9      Failed                 
+BSY11     Failed                 
+BSY14     Line busy              
+BSY19     Not accepted           
+BSY20     NotReachable           
+CAL1      Calling                
+CAL2      Failed                 
+CAL3      Accepted               
+CAL4      Accepted               
+CAL5      Paging...              
+CAL6      Call queued            
+CAL7      Call queued            
+CAL8      Paging...              
+CAL9      Calling                
+CAL10     Calling                
+CAL20     Call queued            
+CAL21     Call queued            
+CAL23     Call queued            
+CAL28     Accepted               
+CAL34     Calling                
+CNF1      Conf leader            
+CNF2      Conf member            
+CNF3      >                      
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Picked up              
+DIV6      Group call             
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      External               
+EXT2      Corporate              
+ICS0      Lunch                  TIME          
+ICS1      Busy                   DATE          
+ICS2      Absent                 TIME          
+ICS3      Meeting                TIME          
+ICS4      Trip                   DATE          
+ICS5      Course                 TIME          
+ICS6      Vacation               DATE          
+ICS7      Day off                DATE          
+ICS8      GoneHome               TIME          
+ICS9      Illness                
+ICS10     * to dial              
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Profile                
+MIS6      ToneSenderOn           
+MIS7      Try later              
+MIS8      >                      
+MIS9      Failed                 
+MIS10     Accepted               
+MIS11     Unlisted               
+MIS12     EnterAccount           
+MIS13     EnterAuthor.           
+MIS14     Cost in:               
+MIS15     Enter PIN              
+MIS16     Requested              
+MIS17     Enter CQ               
+MIS18     EnterMoreDig           
+MIS19     No charge              
+MIS20     NoChargeInfo           
+MIS21     NoStored No.           
+MIS22     Stored No.             
+MIS23     End of log             
+MIS25     >                      
+MIS34     No name                
+MON1      Jan                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Apr                    
+MON5      May                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Oct                    
+MON11     Nov                    
+MON12     Dec                    
+NOP1      Time out               
+NOP2      Congestion             
+NOP3      Time out               
+NOP4      Time out               
+NOP5      Time out               
+NOP6      Congestion             
+NOP7      Not allowed            
+NOP8      Locked out             
+NOP9      Vacant                 
+NOP10     Oper. absent           
+NOP11     Hung up                
+NOP12     Executed               
+NOP13     Failed                 
+NOP14     Not progr.             
+NOP15     All absent             
+NOP16     Not a member           
+NOP17     Congestion             
+NOP18     No wait.call           
+NOP19     Absent                 
+NOP20     Not executed           
+NOP21     Barred                 
+NOP22     Max number             
+NOP23     Faultm.Ringb           
+NOP24     Oper.cleared           
+NOP25     Wrong format           
+NOP26     Oper. absent           
+NOP28     Not executed           
+NOP29     Emergency st           
+NOP31     Incompatible           
+NOP33     Time out               
+NOP34     Congestion             
+NOP35     Busy                   
+NOP38     Blocked                
+NOP40     Hung up                
+NOP41     Wrong format           
+NOP42     Req. unknown           
+NOP43     Incompatible           
+NOP44     Not executed           
+NOP46     Acc.CodeReq.           
+NOP47     Invalid                
+NOP50     Congestion             
+NOP52     Locked                 
+NOP53     Unlocked               
+NOP54     Lock failed            
+NOP55     UnlockFailed           
+NOP56     DoNotDisturb           
+NOP57     Barred                 
+NOP58     Congestion             
+NOP59     Barred                 
+NOP60     Busy                   
+NOP65     Accepted               
+NOP66     Not accepted           
+NOP69     Busy                   
+NOP72     Barred                 
+NOP74     Not executed           
+NOP75     NotAvailable           
+NOP76     NotAvailable           
+NOP77     Alr.Unlocked           
+NOP78     Absent                 
+NOP79     Alr.Locked             
+NOP89     CAC-CONG!              
+NOP93     NotAvailable           
+NOP99     Syst.blocked           
+PRK0      3 on hold              
+PRK1      2 on hold              
+PRK2      1 on hold              
+PRK3      Other parked           
+PRK4      L2 on hold             
+PRK5      L1 on hold             
+REG5      Code OK                
+REG7      WrongAccCode           
+REG10     Code OK                
+REG14     Message wait           
+REG15     Message wait           
+REG16     Message wait           
+REG17     Message wait           
+REG18     EnterExt No.           
+REG19     Ext. call              
+

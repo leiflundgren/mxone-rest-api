@@ -1,0 +1,412 @@
+
+Extension Text String
+
+Language: Suomi               
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Valitse profiili       
+ABS1      Suora soitons nroon    
+ABS2      Kutsunsiir             
+ABS3      Poissaolon syy         
+ABS4      Kutsuns ulkonroon      
+ABS5      Älä häiritse           
+ABS6      EiVast>srt             
+ABS7      Siirto, kun varattu    
+ABS8      Päällä                 
+ABS9      Pois                   
+ABS10     Ei profiilia           
+ABS11     Valinta                
+BSY1      Varattu                
+BSY2      Linja varattu          
+BSY3      Jonotus ei onnistu     
+BSY4      Koputus ei onnistu     
+BSY5      Rinnank. ei onnistu    
+BSY6      LCR-linja varattu      
+BSY9      Jonotus ei onnistu     
+BSY11     Rinnank. ei onnistu    
+BSY14     Linja varattu          
+BSY20     Ei kytkettävissä       
+CAL1      Soittaa                
+CAL2      Jonotus ei onnistu     
+CAL3      Koputus aktivoitu      
+CAL4      Koputus aktivoitu      
+CAL5      Haku aktivoitu         
+CAL6      Puhelu jonossa         
+CAL7      Puhelu jonossa         
+CAL8      Puhelu hakujonossa     
+CAL9      Soittaa                
+CAL10     Soittaa                
+CAL20     Puhelu jonossa         
+CAL21     Puhelu jonossa         
+CAL23     Puhelu jonossa         
+CAL28     Koputus aktivoitu      
+CAL34     Soittaa                
+CNF1      Neuv joht              
+CNF2      Neuv osal              
+CNF3      Neuv joht              
+CNF4      Neuv osal              
+CNF5      Jäsenet                
+DIR1      Ei löydy               
+DIR2      Luettelon alku         
+DIR3      Luettelon loppu        
+DIR4      Luettelo tyhjä         
+DIV1       >Siirto               
+DIV2       >Srt var.             
+DIV3       >Ei vast              
+DIV4       >Kutsuns              
+DIV5       Poiminta              
+DIV6       Ryhmäs                
+DIV7       >Siirt ul             
+DIV10      Jatkosrt              
+DIV11      Jatkosrt              
+DIV12      Jatkosrt              
+DIV13      Dnis                  
+EXT1      Ulkopuh.               
+EXT2      Verkkop.               
+FCN0      Oma linja äänet 0-6    
+FCN1      Ylim. nro äänet 0-6    
+FCN2      Edustus äänet 0-6      
+FCN3      Valikko                
+FCN4      Toiminnenäpp. 1        
+FCN5      Toiminnenäpp. 2        
+FCN6      Nimival maks 20 nro    
+FCN8      Ulkonumeron toisto     
+FCN9      Toiminnenäpp. 3        
+FCN10     Toiminnenäpp. 4        
+FCN11     Automaattivastaus      
+FCN12     Linja 2 vapaa          
+FCN13     Jonotus                
+FCN14     Siirto                 
+FCN16     Soiton poiminta/Pito   
+FCN17     Koputus                
+FCN18     Neuvottelu             
+FCN19     Rinnankytkent          
+FCN20     Henkilöhaku            
+FCN21     Vastaamattomat         
+FCN22     Viesti odottaa         
+FCN23     Ohjelmointi            
+FCN24     Ilkivalta puh jälj.    
+FCN26     älä häiritse           
+FCN27     Man. viesti odottaa    
+FCN28     Rauhoitusaika          
+FCN29     Edust nimi, häl.ääni   
+FCN30     Data linja             
+FCN31     Dataval maks 20 nro    
+FCN32     Paikallinen tila       
+FCN33     Edelleensiirto         
+FCN34     Siirto                 
+FCN35     Oman nron profiili     
+FCN37     Siirto                 
+FCN41     Hlökohtainen numero    
+ICS0       Lounas                TIME          
+ICS1       Lähtenyt              DATE          
+ICS2       Poissa                TIME          
+ICS3       Kokous                TIME          
+ICS4       Matka                 DATE          
+ICS5       Sairas                TIME          
+ICS6       Vapaalla              DATE          
+ICS7       Kurssi                DATE          
+ICS8       Varattu               TIME          
+ICS9       Muu syy               
+ICS10      * ulos                
+IDL2      Siirretty              
+IDL3      Kutsunsrt              
+IDL4      Älä häiritse           
+IDL5      Ulkoinen siirto        
+IDL6      Kaikki linjat var.     
+IDL7      Siirretty              
+IDL8      Siirretty H-hakuun     
+IDL9      Ryhmä älä häiritse     
+IDL10     Viesti odottaa         
+IDL11     Man. viesti odottaa    
+IDL13     Siirretty              
+IDL14     Kaikki linjat var.     
+IDL15     Profiili               
+MIS1      Aika/pvm asettamatta   
+MIS2      Pidossa                
+MIS4      S-tyyppi               
+MIS6      Äänilähetys käytössä   
+MIS7      Järjestelmä varattu    
+MIS8      Ulkoinen siirto        
+MIS9      Jäljitys ei onnistu    
+MIS10     Jäljitys sallittu      
+MIS11     Tuntematon             
+MIS12     Anna tilinumero        
+MIS13     Anna käyttöoikeus      
+MIS14     EURO                   
+MIS15     Anna henkilötunniste   
+MIS16     Pyyntö hyväksytty      
+MIS17     Luokittelukoodi        
+MIS18     Anna lisää numeroita   
+MIS19     Maksuton puhelu        
+MIS20     Puh maksua ei saada    
+MIS21     Ei kirjattuja puh.     
+MIS22     Uudet ei-vastatut:     
+MIS23     Numerotiedosto loppu   
+MIS24     Anna vap. nro          
+MIS25     Vastaamat.             
+MIS26     Saapuva                
+MIS27     Ulkopuhelu             
+MIS28     Soita uusi puhelu      
+MIS29     Anna kutsunsiirtono:   
+MIS30     Paluuaika (hhmm):      
+MIS31     Paluupäivä (ddmm):     
+MIS32     Paluupäivä (mmdd):     
+MIS33     Anna ulk. numero:      
+MIS35     Hätäpuhelu             
+MON1      Tam                    
+MON2      Hel                    
+MON3      Maa                    
+MON4      Huh                    
+MON5      Tou                    
+MON6      Kes                    
+MON7      Hei                    
+MON8      Elo                    
+MON9      Syy                    
+MON10     Lok                    
+MON11     Mar                    
+MON12     Jou                    
+NOP1      Valitse nopeammin      
+NOP2      Esto                   
+NOP3      Aikavalvonta ulkopuh   
+NOP4      Aikavalvonta varattu   
+NOP5      Aikavalvonta verkko    
+NOP6      Väylä varattu          
+NOP7      Estetty                
+NOP8      Linja teljetty         
+NOP9      Määrittelemätön nro    
+NOP10     Välittäjä poissa       
+NOP11     Purettu                
+NOP12     Toiminto aktivoitu     
+NOP13     Toiminto ei aktiv.     
+NOP14     Lyhytnro ei ohjelm.    
+NOP15     Sarjassa ei vast.      
+NOP16     Ei ryhmän jäsen        
+NOP17     Jonoesto               
+NOP18     Ei odottavaa puhelua   
+NOP19     Poissa                 
+NOP20     Haku ei onnistu        
+NOP21     Numero teljetty        
+NOP22     Maks määr. soittajia   
+NOP23     Huoltosoitto           
+NOP24     Välittäjä purkanut     
+NOP25     Väärä muoto            
+NOP26     Välittäjä poissa       
+NOP28     Ei aktivoitu           
+NOP29     Hätätilassa            
+NOP31     Ei kytkettävissä       
+NOP33     Aikavalvonta           
+NOP34     Väylä varattu          
+NOP35     Varattu                
+NOP38     Alaliittymä teljetty   
+NOP40     Yhteys purettu         
+NOP41     Väärä muoto            
+NOP42     Väärä muoto            
+NOP43     Data puhelu            
+NOP44     Palvelu ei käytössä    
+NOP46     Anna käyttöoik.koodi   
+NOP47     Virh. käyttöoikeus     
+NOP50     Esto jonossa           
+NOP52     Lukittu                
+NOP53     Avattu                 
+NOP54     Lukitus ei onnistu     
+NOP55     Avaus ei onnistu       
+NOP56     Älä häiritse           
+NOP57     Ei oikeutta siirt      
+NOP58     Väyläesto              
+NOP59     Luokkaesto             
+NOP60     Alaliittymä varattu    
+NOP65     Jäljitys sallittu      
+NOP66     Jäljitys ei onnistu    
+NOP69     Alaliittymä varattu    
+NOP72     Tilaajaluokkaesto      
+NOP74     Palv ei voida toteut   
+NOP75     Palvelua ei ole        
+NOP76     Palvelu tilap estet    
+NOP77     Jo avattu              
+NOP78     Jäsen poissa           
+NOP79     Jo lukittu             
+PRK0      L3 pidossa             
+PRK1      L2 pidossa             
+PRK2      L1 pidossa             
+PRK3      Pidossa                
+PRK4      Linja 2 pidossa        
+PRK5      Linja 1 pidossa        
+REG5      Tilinro hyväksytty     
+REG7      Tilinro virheellinen   
+REG10     Käyttöoikeus hyväk     
+REG14     Man. viesti odottaa    
+REG15     Viesti odottaa         
+REG16     Viesti odottaa         
+REG17     M.viesti odottaa       
+REG18     Anna ulkonro:          
+REG19     Ulkoinen siirto        
+SKG0      Tili                   
+SKG1      Käyttöoik.             
+SKG2      Takaisin               
+SKG3      Soita                  
+SKG4      Jonotus                
+SKG5      Henkilöhak             
+SKG6      Poiminta               
+SKG7      Koputus                
+SKG8      Tyhjennä               
+SKG9      YleinenPito            
+SKG10     Neuvottelu             
+SKG11     Kytke                  
+SKG12     Kust.tiedot            
+SKG13     Poista                 
+SKG14     Lisätietoa             
+SKG15     Alas                   
+SKG16     ÄläHäiritse            
+SKG17     Valitse                
+SKG18     Poistu                 
+SKG19     Etsi                   
+SKG20     Vapauta                
+SKG21     RyhmPoim               
+SKG22     PiilotaVal.            
+SKG23     Rinnankytk.            
+SKG24     Lukitse                
+SKG25     Kirjaudu               
+SKG26     Kirj.ulos              
+SKG27     Lisää                  
+SKG28     Seur                   
+SKG29     Avaa                   
+SKG30     Puh.Muistio            
+SKG31     Hyväksy                
+SKG32     Jono                   
+SKG33     Uud.valinta            
+SKG34     Palaa                  
+SKG35     NäytäPäivä             
+SKG36     NäytäValikk            
+SKG37     NäytäAjast             
+SKG38     Väli                   
+SKG39     Aloita                 
+SKG40     Seis                   
+SKG41     Ajastin                
+SKG42     Äänet                  
+SKG43     Jälj.Ilkivp            
+SKG44     Ylös                   
+SKG45     PuheluLista            
+SKG46     EiVast.                
+SKG47     Valitse                
+SKG48     Ohjelmointi            
+SKG49     SiirräPuh.             
+SKG50     Neuv/Siirto            
+SKG51     LisääJäsen             
+SKG52     OtaKäyt.               
+SKG53     PoistaKäyt.            
+SKG54     Poissaolo              
+SKG55     EiSoit.siir            
+SKG56     PoistaDND              
+SKG57     Tiedot                 
+SKG58     Puh.aset.              
+SKG59     Tallenna               
+SKG60     Kyllä                  
+SKG61     Ei                     
+SKG62     Tallenna               
+SKG63     Poissaolo              
+SKG64     Läsnäolo               
+SKG65     Kutsunsiirto           
+SKG66     Kutsuns. ulkonroon     
+SKG67     Kutsuns. ulk.nro       
+SKG68     Poissaolokoodaus       
+SKG69     Älä häiritse           
+SKG70     Poissaolokoodattu      
+SKG71     Koodattu               
+SKG72     Tavoitettavuus         
+SKG73     Puheposti              
+SKG74     Väärä salasana         
+SKG75     Paluuaika (ttmm):      
+SKG76     Paluuaika(ttmm):       
+SKG77     Paluupäivä (ppkk):     
+SKG78     Paluupäivä(ppkk)       
+SKG79     Paluupäivä (kkpp):     
+SKG80     Paluupäivä(kkpp)       
+SKG81     Ei löytynyt            
+SKG82     Syötä numero           
+SKG83     Syötä numero           
+SKG84     Väärä muoto            
+SKG85     Palvelu tilattu        
+SKG86     Palvelu tilattu        
+SKG87     Palvelu epäonnistui    
+SKG88     Palv epäonnistui       
+SKG89     Ei aika/päivä muotoa   
+SKG90     Ota yhteys järj.vast   
+SKG91     Palvelut               
+SKG92     Määritysten poisto     
+SKG93     Käyttäjä:              
+SKG94     Salasana               
+SKG95     Tp.User                
+SKG96     Tilapäinen Käyttäjä    
+SKG97     Toiminto ei saatavilla!
+SKI0      Avaa Lask Käyt Aika    
+SKI1      Sulj Lask Käyt Aika    
+SKI2      Jono Haku      Aika    
+SKI3      Jono Kopu Poim Pääl    
+SKI4      Ääni Lask Kust Aika    
+SKI5      Ääni Lask Neuv Aika    
+SKI6      Tyhj Poist     Lähet   
+SKI7                     Ulos    
+SKI8      Uval Lask Poim Aika    
+SKI10                    Vapau   
+SKI11                    Kust    
+SKI12                    Lask    
+SKI14     Sulj Jono Käyt Puht    
+SKI15     Sulj Jono Käyt Aika    
+SKI16     Ääni Lask Kust Laatu   
+SKI17     Ääni Lask Neuv Laatu   
+SKI20     Avaa Äläh Käyt Aika    
+SKI21     Sulj Äläh Käyt Aika    
+SKI23     Jono Kopu Poim Aika    
+SKI24     Ääni Jälj Kust Aika    
+SKI25     Ääni Jälj Neuv Aika    
+SKI28     Uval Äläh Poim Aika    
+SKI30     Seur Pois  Val Lopp    
+SKI31     Seur:+      Poista:-   
+SKI32     Poistu:C               
+SKI33     Takaisin:1             
+SKI36     Ääni Jälj Kust Puht    
+SKI37     Ääni Jälj Neuv Puht    
+SKI40     Pois Väli Etsi Lopp    
+SKI41     Ylös Alas  Val  Tak    
+SKI42     Avaa Lask Käyt Luet    
+SKI43     Sulj Lask Käyt Luet    
+SKI44     Uval Lask Poim Luet    
+SKI45     Sulj Jono Käyt Luet    
+SKI46     Avaa Äläh Käyt Luet    
+SKI47     Sulj Äläh Käyt Luet    
+SKI48     Uval Äläh Poim Luet    
+TIM1      Pys  Noll Pois Lopp    
+TIM2      Käyn Noll Pois Lopp    
+TIM3      Pys  Noll Näyt Lopp    
+TIM4      Käyn Noll Näyt Lopp    
+TOP0      Ohjelm.                
+TOP1      Näppäinten ohjelm.     
+TOP10     PuhAset.               
+TOP11     Näytön kontrasti       
+TOP12     Melodian ohjelmointi   
+TOP13     Ohjelmistoversio       
+TOP14     Kuulokkeen esival.     
+TOP15     Paikall. testitila     
+TOP16     Lisäyksikön aset.      
+TOP17     Äänenvoimakkuus        
+TOP20     PuhList                
+TOP21     Puhelulista            
+TOP22     Ei-vastatut puhelut    
+TOP23     Lähtevät puhelut       
+TOP24     Saapuvat puhelut       
+TOP40     PuhMuist               
+TOP41     Keskusluettelo         
+TOP50     Viest.                 
+TOP51     Viesti odottaa         
+TOP52     Puheposti:             
+VSU1      VSU valmis             
+VSU2      Toisto alkanut         
+VSU3      Äänitys alkanut        
+VSU4      Valitse nopeammin      
+VSU5      Väärä muoto            
+VSU6      Toiminne estetty       
+VSU7      Viesti liian pitkä     
+VSU8      Viesti ei äänitetty    
+VSU9      Muisti täynnä          
+

@@ -1,0 +1,172 @@
+
+Extension Text String
+
+Language: Português           
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Ocupada                
+BSY2      Lin. ocupada           
+BSY3      Falhou                 
+BSY4      Falhou                 
+BSY5      Falhou                 
+BSY6      Lin. ocupada           
+BSY9      Falhou                 
+BSY11     Falhou                 
+BSY14     Lin. ocupada           
+BSY19     Nao aceite             
+BSY20     Indisponivel           
+CAL1      A chamar               
+CAL2      Falhou                 
+CAL3      Aceite                 
+CAL4      Aceite                 
+CAL5      Paging...              
+CAL6      Em espera              
+CAL7      Em espera              
+CAL8      Paging...              
+CAL9      A chamar               
+CAL10     A chamar               
+CAL20     Em espera              
+CAL21     Em espera              
+CAL23     Em espera              
+CAL28     Aceite                 
+CAL34     A chamar               
+CNF1      Lider conf             
+CNF2      Membro conf.           
+CNF3      >                      
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Capturada              
+DIV6      Cham. Grupo            
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Externa                
+EXT2      Corporativa            
+ICS0      Almoço                 TIME          
+ICS1      Ocupada                DATE          
+ICS2      Ausente                TIME          
+ICS3      Reuniao                TIME          
+ICS4      Viagem                 DATE          
+ICS5      Formação               TIME          
+ICS6      Ferias                 DATE          
+ICS7      Folga                  DATE          
+ICS8      Ausente                TIME          
+ICS9      Doente                 
+ICS10     * pra marcar           
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Perfil                 
+MIS6      DTMF ON                
+MIS7      Tente depois           
+MIS8      >                      
+MIS9      Falhou                 
+MIS10     Aceite                 
+MIS12     InsiraCodCon           
+MIS13     InsiraCodAut           
+MIS14     Custo:                 
+MIS15     Insira PIN             
+MIS16     Solicitado             
+MIS17     Insira CQ              
+MIS18     InsiraDigito           
+MIS19     Sem Custo              
+MIS20     SemInfoCusto           
+MIS21     NumNaoSalvo            
+MIS22     NumSalvado             
+MIS23     Fim da lista           
+MIS25     >                      
+MIS34     Sem nome               
+MON1      Jan                    
+MON2      Fev                    
+MON3      Mar                    
+MON4      Abr                    
+MON5      Mai                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Ago                    
+MON9      Set                    
+MON10     Out                    
+MON11     Nov                    
+MON12     Dez                    
+NOP1      TempoExpira            
+NOP2      Congestao              
+NOP3      TempoExpira            
+NOP4      TempoExpira            
+NOP5      TempoExpira            
+NOP6      Congestao              
+NOP7      NaoPermitido           
+NOP8      Desligado              
+NOP9      Vago                   
+NOP10     Oper Ausente           
+NOP11     Desligado              
+NOP12     Executado              
+NOP13     Falhou                 
+NOP14     NaoProgram             
+NOP15     Mem Ausentes           
+NOP16     Nao Membro             
+NOP17     Congestao              
+NOP18     Sem Espera             
+NOP19     Ausente                
+NOP20     NaoExecut              
+NOP21     Barrado                
+NOP22     NumMax                 
+NOP23     FalhaRecham            
+NOP24     Oper livre             
+NOP25     FormaErrada            
+NOP26     Oper Ausente           
+NOP28     NaoExecut              
+NOP29     Emergencia             
+NOP31     Incompativel           
+NOP33     TempoExpira            
+NOP34     Congestao              
+NOP35     Ocupada                
+NOP38     Bloqueada              
+NOP40     Desligado              
+NOP41     FormaErrada            
+NOP42     Desconhecido           
+NOP43     Incompativel           
+NOP44     NaoExecut              
+NOP46     CodContaReq            
+NOP47     Invalido               
+NOP50     Congestao              
+NOP52     Ext Bloq               
+NOP53     Ext Desbloq            
+NOP54     Falha Bloq             
+NOP55     FalhaDesbloq           
+NOP56     NaoIncomodar           
+NOP57     Barrado                
+NOP58     Congestao              
+NOP59     Barrado                
+NOP60     Ocupada                
+NOP65     Aceite                 
+NOP66     Nao Aceite             
+NOP69     Ocupada                
+NOP72     Barrado                
+NOP74     NaoExecut              
+NOP75     Indisponivel           
+NOP76     Indisponivel           
+NOP77     Desbloq Alr            
+NOP78     Ausente                
+NOP79     Bloq Alarme            
+NOP89     CAC-CONG!              
+NOP93     Indisponivel           
+NOP99     Sist.bloq.             
+PRK0      3 em Espera            
+PRK1      2 em Espera            
+PRK2      1 em Espera            
+PRK3      Em espera              
+PRK4      L2 espera              
+PRK5      L1 espera              
+REG5      Codigo OK              
+REG7      CodConErrado           
+REG10     Codigo OK              
+REG14     MensEmEspera           
+REG15     MensEmEspera           
+REG16     MensEmEspera           
+REG17     MensEmEspera           
+REG18     InsiraNumExt           
+REG19     ChamadadeExt           
+

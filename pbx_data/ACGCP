@@ -1,0 +1,7 @@
+ACD GROUP CALL DATA             
+GRP          LIM    SERV    TRAF   SEL    QUE          CUST  SAT  TPCS  ACTC 
+8963         1      100100  15     01000  00000500101        NO   NO    180    
+9999         1      100100  15     01000  00000500101        NO   NO    180    
+
+END
+ 

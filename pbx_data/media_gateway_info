@@ -1,0 +1,35 @@
+
+Gateway 1A SW information
+        --------------
+        MGW version: 2.5.4
+        Linux version: 2.6.14.7-selinux1-WR1.4aq_cgl #2 PREEMPT Wed Nov 23 17:51:32 CET 2016
+        Root file system version: 0.6.147
+        Boot version: boot R3D
+
+        FW information
+        --------------
+        FPGA version: 7.1.1
+        Mindspeed ARM code version: v11_26_03_23
+        Mindspeed device version: 0
+        Mindspeed SPU code version: C64V_7_10_14
+
+        HW information
+        --------------
+        Media gateway type: MGU/21 3U
+        Board product number: ROF 137 6304/21
+        Board revision: R1A
+        Board serial number: T01E926385
+
+        Resource  Name   Explanation
+        --------------------------------------
+        MGW       MGW    Media Gateway, Root MO. No attributes
+        RTP       RTP    RTP Resources
+        TDM       TDM    TDM Resources
+        ISDN      ISDN   ISDN L1 and L2 settings
+        BP        BP     Backplane
+        AUXKR     AUXKR  Keycode Receiver Resources
+        AUXVS     AUXVS  Rva alarm Mo
+        AUXTS     AUXTS  Tone Sender Resources
+        AUXMP     AUXMP  Multi Party Resources
+        QOS       QOS    QoS settings
+

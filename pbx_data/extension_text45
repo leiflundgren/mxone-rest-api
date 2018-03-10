@@ -1,0 +1,173 @@
+
+Extension Text String
+
+Language: Română              
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Ocupat                 
+BSY2      Linieocupată           
+BSY3      Nereuşit               
+BSY4      Nereuşit               
+BSY5      Nereuşit               
+BSY6      LinieOcupată           
+BSY9      Nereuşit               
+BSY11     Nereuşit               
+BSY14     LinieOcupată           
+BSY19     Neacceptat             
+BSY20     Inaccesibil            
+CAL1      Apel...                
+CAL2      Nereuşit               
+CAL3      Acceptat               
+CAL4      Acceptat               
+CAL5      Paging...              
+CAL6      Apel queued            
+CAL7      Apel queued            
+CAL8      Paging...              
+CAL9      Apel                   
+CAL10     Apel...                
+CAL20     Apel queued            
+CAL21     Apel queued            
+CAL23     Apel queued            
+CAL28     Acceptat               
+CAL34     Apel                   
+CNF1      Lider conf             
+CNF2      Membru conf            
+CNF3      >                      
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Preluare               
+DIV6      Apel Grup              
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Extern                 
+EXT2      ReţeaTelMI             
+ICS0      Prânz                  TIME          
+ICS1      Ocupat                 DATE          
+ICS2      Plecat                 TIME          
+ICS3      Şedinţă                TIME          
+ICS4      Deplasare              DATE          
+ICS5      Cursuri                TIME          
+ICS6      Liber                  DATE          
+ICS7      Zi liberă              DATE          
+ICS8      Invoit                 TIME          
+ICS9      Bolnav                 
+ICS10     Formează *             
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Profil                 
+MIS6      Mod DTMF               
+MIS7      Reveniţi               
+MIS8      >                      
+MIS9      Nereuşit               
+MIS10     Acceptat               
+MIS11     Secret                 
+MIS12     IntrContul             
+MIS13     IntrAutoriz            
+MIS14     Costă în:              
+MIS15     Intr. PIN              
+MIS16     Acceptată              
+MIS17     Intr. CQ               
+MIS18     IntrodDigiţi           
+MIS19     Netaxat                
+MIS20     InfoCostAbs            
+MIS21     NuSuntApel.            
+MIS22     Stored No.             
+MIS23     Sfârşitlistă           
+MIS25     >                      
+MIS34     FărăNume               
+MON1      Ian                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Apr                    
+MON5      Mai                    
+MON6      Iun                    
+MON7      Iul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Oct                    
+MON11     Nov                    
+MON12     Dec                    
+NOP1      Time out               
+NOP2      Congestie              
+NOP3      TimpExpirat            
+NOP4      TimpExpirat            
+NOP5      TimpExpirat            
+NOP6      Congestie              
+NOP7      Interzis               
+NOP8      Linie blocată!         
+NOP9      Număr Vacant!          
+NOP10     Oper.Absent            
+NOP11     Deconectat             
+NOP12     Executat               
+NOP13     Eşuat                  
+NOP14     Neprogramat            
+NOP15     ToţiAbsenţi            
+NOP16     NuEsteMembru           
+NOP17     Congestie              
+NOP18     FărăApelAştp           
+NOP19     Absent                 
+NOP20     Neexecutat             
+NOP21     Barat                  
+NOP22     NumărMaxim             
+NOP23     Faultm.Ringb           
+NOP24     OperDecon              
+NOP25     FormatGreşit           
+NOP26     Oper. absent           
+NOP28     Neacceptat             
+NOP29     StareCritică           
+NOP31     Incompatibil           
+NOP33     TimpExpirat            
+NOP34     Congestie              
+NOP35     Ocupat                 
+NOP38     Blocat                 
+NOP40     Deconectat             
+NOP41     FormatGreşit           
+NOP42     CerereNec.             
+NOP43     Incompatibil           
+NOP44     Neexecutat             
+NOP46     IntrCodAcces           
+NOP47     Invalid                
+NOP50     Congestie              
+NOP52     blocată                
+NOP53     Deblocată              
+NOP54     BlocNereuşit           
+NOP55     DeblEşuata             
+NOP56     NuDeranja              
+NOP57     Barat                  
+NOP58     Congestie              
+NOP59     Barat                  
+NOP60     Ocupat                 
+NOP65     Acceptat               
+NOP66     Neacceptat             
+NOP69     Ocupat                 
+NOP72     Barat                  
+NOP74     Neacceptat             
+NOP75     Indisponibil           
+NOP76     Indisponibil           
+NOP77     DejaDeblocat           
+NOP78     Absent                 
+NOP79     DejaBlocat!            
+NOP89     CONG.CAC!              
+NOP93     Indisponibil           
+NOP99     Sist.blocat            
+PRK0      3ÎnAştept              
+PRK1      2ÎnAştept              
+PRK2      1ÎnAştept              
+PRK3      AltulParcat            
+PRK4      L2 în aşteptare        
+PRK5      L1 în aşteptare        
+REG5      Code OK                
+REG7      WrongAccCode           
+REG10     Code OK                
+REG14     AşteaptăMsj            
+REG15     AşteaptăMsj            
+REG16     AsteaptaMsj            
+REG17     Message wait           
+REG18     IntrNrExtern           
+REG19     ApelExtern             
+

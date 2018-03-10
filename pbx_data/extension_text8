@@ -1,0 +1,169 @@
+
+Extension Text String
+
+Language: Norsk               
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Opptatt                
+BSY2      Opptatt by             
+BSY3      Mislykket              
+BSY4      Mislykket              
+BSY5      Mislykket              
+BSY6      Opptatt by             
+BSY9      Mislykket              
+BSY11     Mislykket              
+BSY14     Opptatt by             
+BSY19     Ikke utført            
+BSY20     Utenfor dekn           
+CAL1      Ringer                 
+CAL2      Mislykket              
+CAL3      Utført                 
+CAL4      Utført                 
+CAL5      Personsøking           
+CAL6      Anrop i kø             
+CAL7      Anrop i kø             
+CAL8      Personsøking           
+CAL9      Ringer                 
+CAL10     Ringer                 
+CAL20     Anrop i kø             
+CAL21     Anrop i kø             
+CAL23     Anrop i kø             
+CAL28     Akseptert              
+CAL34     Ringer                 
+CNF1      Konf.sjef              
+CNF2      Konf.medlem            
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Innhentet              
+DIV6      Gruppeanr.             
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Bylinje                
+EXT2      Tverrlinje             
+ICS0      Lunsj til              TIME          
+ICS1      Opptatt til            DATE          
+ICS2      Henvist                TIME          
+ICS3      Møte til               TIME          
+ICS4      Ute til                DATE          
+ICS5      Kurs til               TIME          
+ICS6      Ferie til              DATE          
+ICS7      Reise til              DATE          
+ICS8      Hjemme til             TIME          
+ICS9      Syk til                
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Profil                 
+MIS6      Tonesend på            
+MIS7      Prøv senere            
+MIS8      >                      
+MIS9      Mislykket              
+MIS10     Akseptert              
+MIS11     Ikke oppført           
+MIS12     Tast Acckode           
+MIS13     Tast Autkode           
+MIS14     Pris :                 
+MIS15     tast kode              
+MIS16     Serv. ønsket           
+MIS17     Tast CQ kode           
+MIS18     TastFlerSiff           
+MIS19     Gratis                 
+MIS20     TaksIkkeTilg           
+MIS21     Ingen NrLagr           
+MIS22     Lagrede Nr:            
+MIS23     Nr.logg tom            
+MIS25     Norsk                  
+MON1      Jan                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Apr                    
+MON5      Mai                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Okt                    
+MON11     Nov                    
+MON12     Des                    
+NOP1      For sen imp.           
+NOP2      Sperr                  
+NOP3      Tidutløsning           
+NOP4      Tidutløsning           
+NOP5      Tidutløsning           
+NOP6      Sperr                  
+NOP7      Ikke tillatt           
+NOP8      Linjeblokk.            
+NOP9      Ubrukt nr.             
+NOP10     Eksp.Frav.             
+NOP11     SamtaleSlutt           
+NOP12     Utført                 
+NOP13     Mislykket              
+NOP14     Nr.IkkeProgr           
+NOP15     AlleUtmeldt            
+NOP16     Ikke medlem            
+NOP17     Sperr                  
+NOP18     Ingen venter           
+NOP19     Fraverende             
+NOP20     Ikke utført            
+NOP21     Sperret Nr.            
+NOP22     Max antall             
+NOP23     Faultm.Ringb           
+NOP24     Eksp.Nedkopl           
+NOP25     Feil format            
+NOP26     Eksp.Frav.             
+NOP28     Ikke utført            
+NOP29     Katasr kobl            
+NOP31     Ikke komp.             
+NOP33     Tidutløsning           
+NOP34     Sperr                  
+NOP35     Opptatt                
+NOP38     Blokkert               
+NOP40     Nedkoplet              
+NOP41     Feil format            
+NOP42     Ukj.Tjeneste           
+NOP43     Ukompatibel            
+NOP44     Ikke utført            
+NOP46     Tast Kode              
+NOP47     Feil kode              
+NOP50     Sperr                  
+NOP52     Stengt                 
+NOP53     Åpen                   
+NOP54     Steng misl             
+NOP55     Åpning misl            
+NOP56     IkkeForstyrr           
+NOP57     Kat sperr              
+NOP58     Sperret byl            
+NOP59     Kat sperr              
+NOP60     Opptatt                
+NOP65     Akseptert              
+NOP66     Ikke aksept            
+NOP69     Opptatt                
+NOP72     Sperret                
+NOP74     Ikke utført            
+NOP75     Tjen.stengt            
+NOP76     Tjen.stengt            
+NOP77     Er åpen                
+NOP78     Utmeldt                
+NOP79     Er stengt              
+NOP93     IkkeTilgj.             
+NOP99     SystBlokkert           
+PRK0      3 parkert              
+PRK1      2 parkert              
+PRK2      1 parkert              
+PRK3      Parkert                
+PRK4      L2 parkert             
+PRK5      L1 parkert             
+REG5      Rett Acckode           
+REG7      Feil Acckode           
+REG10     Rett Autkode           
+REG14     Meld.venter            
+REG15     Meld.venter            
+REG16     Meld.venter            
+REG17     Meld.venter            
+REG18     Tast ekst.nr           
+REG19     Ekst.Medfl.            
+

@@ -1,0 +1,413 @@
+
+Extension Text String
+
+Language: Español latino      
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Selecc perfil          
+ABS1      Desvío directo a       
+ABS2      Sígueme                
+ABS3      Razón ausencia         
+ABS4      Sígueme externo        
+ABS5      No molestar            
+ABS6      Desv si no contesta    
+ABS7      Desv en ocupado        
+ABS8      Activa                 
+ABS9      Inactiva               
+ABS10     Sin perfil             
+ABS11     Escoger                
+BSY1      Ocup                   
+BSY2      Línea ocup             
+BSY3      Falló retrollamada     
+BSY4      Falló llam en esp      
+BSY5      Falló intrusión        
+BSY6      Línea más econ ocu     
+BSY9      Falló retrollamada     
+BSY11     Falló intrusión        
+BSY14     Línea ocup             
+BSY19     No Aceptado            
+BSY20     No contactable         
+CAL1      Llamanencu             
+CAL2      Falló retrollamada     
+CAL3      Llamada en esp acept   
+CAL4      Llamada en esp acept   
+CAL5      Buscapers en progr     
+CAL6      Llam en fila           
+CAL7      Llam en fila           
+CAL8      Buscapers fila         
+CAL9      Llaman                 
+CAL10     Llaman                 
+CAL20     Llam en fila           
+CAL21     Llam en fila           
+CAL23     Llam en fila           
+CAL28     Llamada en esp acept   
+CAL34     Llamanencu             
+CNF1      Líder conf             
+CNF2      Miemb conf             
+CNF3      Líder de la conf       
+CNF4      Miembro de la conf     
+CNF5      Miembr                 
+DIR1      No se enc coincid      
+DIR2      Parte sup de dir       
+DIR3      Fin de directorio      
+DIR4      Directorio vacío       
+DIV1       >Dcto                 
+DIV2       >Ocup                 
+DIV3       >No cont              
+DIV4       >Sígueme              
+DIV5       Capturad              
+DIV6       Llam grup             
+DIV7       >Externa              
+DIV10      Redirecc              
+DIV11      Redirecc              
+DIV12      Redirecc              
+DIV13      Llam DNIS             
+EXT1      Externa                
+EXT2      Corporati              
+FCN0      Lín acc, tipo timbr:   
+FCN1      Lín ad, tipo timbr:    
+FCN2      Lín mul, tipo timbr:   
+FCN3      Tecla de act menú      
+FCN4      Tecl de func 1         
+FCN5      Tecl de func 2         
+FCN6      Tecla nom, 1-20 díg:   
+FCN8      Remarcar núm externo   
+FCN9      Tecl de func 3         
+FCN10     Tecl de func 4         
+FCN11     Modo de respuest aut   
+FCN12     Tecla acepta 2a llam   
+FCN13     Tecla retrollam        
+FCN14     Tecla des t/llam       
+FCN16     Captur/ret llam        
+FCN17     Tecl llam en esp       
+FCN18     Tecla conferenc        
+FCN19     Tecla intrus           
+FCN20     Tecla busc             
+FCN21     Tecla llam no contes   
+FCN22     Tecla mensaj en esp    
+FCN23     Tecla modo progr       
+FCN24     Rastreo llam malic     
+FCN26     Tecla no molestar      
+FCN27     Mens en esp manual     
+FCN28     Tecla tiem de notas    
+FCN29     Nomb mul, tipo timb:   
+FCN30     No de direct de dat    
+FCN31     Tecla dat, 1-20 díg:   
+FCN32     Tecla modo loc         
+FCN33     Tecla redirecc         
+FCN34     Tecla transf           
+FCN35     Perfil del No person   
+FCN37     Tecla transf           
+FCN41     N.º personal           
+ICS0       Almuer                TIME          
+ICS1       En casa               DATE          
+ICS2       Asunt fue             TIME          
+ICS3       Reunión               TIME          
+ICS4       Viaje                 DATE          
+ICS5       Enfermed              TIME          
+ICS6       Tiem libr             DATE          
+ICS7       Clases                DATE          
+ICS8       Ocup                  TIME          
+ICS9       Especial              
+ICS10      * par mar             
+IDL2      Desviado a             
+IDL3      Sígueme a              
+IDL4      No molestar            
+IDL5      Desviada a lín exter   
+IDL6      Todas lín ocup         
+IDL7      Desv direc             
+IDL8      Desviada a buscap      
+IDL9      No molestar            
+IDL10     Mensaje en espera      
+IDL11     Mens en esp manual     
+IDL13     Redirigida a ISDN      
+IDL14     Todas lín ocup         
+IDL15     Perfil                 
+MIS1      Hr del sist no fij     
+MIS2      En ret                 
+MIS4        PropTim:             
+MIS6      Emis de tono enc       
+MIS7      Sist ocup              
+MIS8      Desviada a lín exter   
+MIS9      Falló rast de llam     
+MIS10     Rastreo llam OK        
+MIS11     Anónimo                
+MIS12     Ingr cód de cuent      
+MIS13     Ingr cód de autor      
+MIS14     Costo en               
+MIS15     Ing cód PIN de ACD     
+MIS16     Solicitud aceptada     
+MIS17     Ingr cód CLI           
+MIS18     Cód CLl incompleto     
+MIS19     Sin costo              
+MIS20     Sin infor de costo     
+MIS21     No hay llam conect     
+MIS22     Llam perdida nuev:     
+MIS23     Fin lista de reg       
+MIS24     Mar núm free Núm       
+MIS25     Perdida                
+MIS26     Entrante               
+MIS27     Saliente               
+MIS28     Real llam nueva        
+MIS29     Ingr núm de sígueme:   
+MIS30     Hora regr (hhmm):      
+MIS31     Fecha regr (ddmm):     
+MIS32     Fecha regr (mmdd):     
+MIS33     Ingres número ext:     
+MIS35     Llamada deEmergencia   
+MON1      Ene                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Abr                    
+MON5      May                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Ago                    
+MON9      Sep                    
+MON10     Oct                    
+MON11     Nov                    
+MON12     Dic                    
+NOP1      Tiempo venc            
+NOP2      Congestión             
+NOP3      Tiempo venc            
+NOP4      Tiempo venc            
+NOP5      Tiempo venc            
+NOP6      Congestión             
+NOP7      No permitido           
+NOP8      Línea bloqueada        
+NOP9      Núm vacante            
+NOP10     Operar modo aus/noct   
+NOP11     Cuelgue                
+NOP12     Aceptado               
+NOP13     Falló                  
+NOP14     No se han progr núme   
+NOP15     Todos miembr aus       
+NOP16     No es miem del gru     
+NOP17     Congestión             
+NOP18     Sin llam en esp        
+NOP19     Ausente                
+NOP20     Solic buscap rechaz    
+NOP21     Núm bloqueado          
+NOP22     Centro alarm ocup      
+NOP23     Retimbr Faultman       
+NOP24     Operadora colgó        
+NOP25     Forma equiv            
+NOP26     Operar modo aus/noct   
+NOP28     No aceptado            
+NOP29     En estado de emerg     
+NOP31     No compatible          
+NOP33     Tiempo venc            
+NOP34     Congestión             
+NOP35     Ocup                   
+NOP38     Bloqueado              
+NOP40     Cuelgue                
+NOP41     Forma equiv            
+NOP42     Forma equiv            
+NOP43     No compatible          
+NOP44     No permitido           
+NOP46     Ingr cód de acc        
+NOP47     Código de aut equiv    
+NOP50     Congestión             
+NOP52     Extensión bloq         
+NOP53     Extensión desbloq      
+NOP54     No se bloqueó          
+NOP55     No se desbloqueó       
+NOP56     No molestar            
+NOP57     No aceptado            
+NOP58     Congestión             
+NOP59     No aceptado            
+NOP60     Ocup                   
+NOP65     Rastreando llam        
+NOP66     Rastreo no aceptado    
+NOP69     Ocup                   
+NOP72     No aceptado            
+NOP74     No aceptado            
+NOP75     No disponible          
+NOP76     No disponibl ahora     
+NOP77     Extensi no bloqueada   
+NOP78     Ausente                
+NOP79     Ya bloqueada           
+PRK0       Aparc. L3             
+PRK1       Aparc. L2             
+PRK2       Aparc. L1             
+PRK3       Aparc. L1             
+PRK4       Línea 2 en espera     
+PRK5       Línea 1 en espera     
+REG5      Cód de cuenta OK       
+REG7      Cód de cuenta no vál   
+REG10     Código de aut OK       
+REG14     Mensaj en esp manual   
+REG15     Mensaje en espera      
+REG16     Mensaje en espera      
+REG17     Mensaj en esp manual   
+REG18     Cód de acceso+ núm     
+REG19     Desvío externo         
+SKG0      Cuenta                 
+SKG1      Autoridad              
+SKG2      Retro                  
+SKG3      Marcar                 
+SKG4      Retrollam              
+SKG5      Llambusc               
+SKG6      Capturallam            
+SKG7      Llamesp                
+SKG8      Borrar                 
+SKG9      Retcomún               
+SKG10     Conferenci             
+SKG11     Conectar               
+SKG12     Infcosto               
+SKG13     Borrar                 
+SKG14     MásInfo                
+SKG15     Sigu                   
+SKG16     Nomolestar             
+SKG17     Ingr                   
+SKG18     Salir                  
+SKG19     Busc                   
+SKG20     Descforz               
+SKG21     Captgrupo              
+SKG22     Oculmenú               
+SKG23     Intrusión              
+SKG24     Cerr                   
+SKG25     Conec                  
+SKG26     Descon                 
+SKG27     más                    
+SKG28     Sigu                   
+SKG29     Abrir                  
+SKG30     Agenda                 
+SKG31     Calif                  
+SKG32     Fila                   
+SKG33     Remarcar:              
+SKG34     Volver                 
+SKG35     Mosfecha               
+SKG36     Mosmenú                
+SKG37     Mostemp                
+SKG38     Espac                  
+SKG39     Inic                   
+SKG40     Parar                  
+SKG41     Temp                   
+SKG42     Mf                     
+SKG43     Rastllama              
+SKG44     Prev                   
+SKG45     Listllam               
+SKG46     Perdida                
+SKG47     Selecc                 
+SKG48     Program                
+SKG49     Transf                 
+SKG50     Conf/Transf            
+SKG51     Agrmiembr              
+SKG52     Activar                
+SKG53     Desactivar             
+SKG54     Ausencia               
+SKG55     Sindesvío              
+SKG56     CancelDND              
+SKG57     Detalles               
+SKG58     Aptelef                
+SKG59     Guardar                
+SKG60     Si                     
+SKG61     No                     
+SKG62     Retener                
+SKG63     Desvío                 
+SKG64     Presencia              
+SKG65     Sígueme                
+SKG66     Sígueme externo        
+SKG67     Sígueme externo        
+SKG68     Desviar                
+SKG69     No molestar            
+SKG70     Desviado               
+SKG71     Desviado               
+SKG72     Desvío                 
+SKG73     BuzónDeVoz             
+SKG74     Clave Equivocada       
+SKG75     Llego a (hhmm):        
+SKG76     Llego a (hhmm):        
+SKG77     Llego el día (ddmm):   
+SKG78     Llego día (ddmm)       
+SKG79     Llego el día (mmdd):   
+SKG80     Llego día (mmdd)       
+SKG81     Vacante                
+SKG82     Introduzca número      
+SKG83     Introduzca num.        
+SKG84     Formato equivocado     
+SKG85     Serv. Ordenado         
+SKG86     Serv. Ordenado         
+SKG87     Serv.No Ordenado       
+SKG88     Serv.No Ordenado       
+SKG89     Sin hora/fecha         
+SKG90     Contactar administr.   
+SKG91     Servicios              
+SKG92     Tel. No configurado    
+SKG93     Usuario:               
+SKG94     Contraseña             
+SKG95     UsuarioTmp             
+SKG96     Usuario Temporal       
+SKG97     Función no disponible. 
+SKI0      Abrir Ccu Caut   Hr    
+SKI1      Bloq  Ccu Caut   Hr    
+SKI2      Retro Busc       Hr    
+SKI3      Retro Esp Capt  Int    
+SKI4      Tonos Ccu Cost   Hr    
+SKI5      Tonos Ccu Conf   Hr    
+SKI6      Borr Elim      Ingr    
+SKI7                     Marc    
+SKI8      Rmarc Ccu Capt   Hr    
+SKI10                    Conct   
+SKI11                    Costo   
+SKI12                     Ccu    
+SKI14     Bloq Fila Caut Calif   
+SKI15     Bloq Fila Caut   Hr    
+SKI16     TonosCaut Cost Calif   
+SKI17     Tonos Ccu Conf Calif   
+SKI20     Abrir NoM Caut   Hr    
+SKI21     Bloq  NoM Caut   Hr    
+SKI23     Retro Esp Capt   Hr    
+SKI24     Tonos Mal Cost   Hr    
+SKI25     Tonos Mal Cost   Hr    
+SKI28     Rmarc NoM Capt   Hr    
+SKI30     Sigu Elim Marc  Sal    
+SKI31     Sigu:+      Borrar:-   
+SKI32     Salir:C                
+SKI33     Retro:1                
+SKI36     Tonos Mal Cost Calif   
+SKI37     Tonos Mal Conf Calif   
+SKI40     Elim Espac Busc Sal    
+SKI41     Arr  Abaj llam Regr    
+SKI42     Abrir Ccu Caut  Dir    
+SKI43     Bloq  Ccu Caut  Dir    
+SKI44     Rmarc Ccu Capt  Dir    
+SKI45     Bloq Fila Caut  Dir    
+SKI46     Abrir NoM Caut  Dir    
+SKI47     Bloq  NoM Caut  Dir    
+SKI48     Rmarc NoM Capt  Dir    
+TIM1      PararBorr Fecha Sal    
+TIM2      Inic Borr Fecha Sal    
+TIM3      Parar Borr  Hr  Sal    
+TIM4      Inic Borr   Hr  Sal    
+TOP0      Program                
+TOP1      Program de teclas      
+TOP10     Ap telef               
+TOP11     Contraste de la pant   
+TOP12     Program melodía        
+TOP13     Indicac de firmware    
+TOP14     Preconfig con auric    
+TOP15     Modo de prueba local   
+TOP16     Config unidad Opc      
+TOP17     Config nivel de volu   
+TOP20     Listllam               
+TOP21     Lista de llam          
+TOP22     Llam no contestadas    
+TOP23     Llam salientes         
+TOP24     Llam entrantes         
+TOP40     Agenda                 
+TOP41     Directorio central     
+TOP50     Mensajes               
+TOP51     Mensaje en espera      
+TOP52     Buzón de voz:          
+VSU1      Listo                  
+VSU2      Jugando                
+VSU3      Grabando               
+VSU4      Tiem dig term          
+VSU5      Forma equiv            
+VSU6      Rechazado              
+VSU7      Tiem de mensaj term    
+VSU8      Mensaje no guardado    
+VSU9      Mem llena              
+

@@ -1,0 +1,170 @@
+
+Extension Text String
+
+Language: Italiano            
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Occupato               
+BSY2      Linea occup            
+BSY3      Fallita                
+BSY4      Fallita                
+BSY5      Fallita                
+BSY6      Linea occup            
+BSY9      Fallita                
+BSY11     Fallita                
+BSY14     Linea occup            
+BSY19     Non accettat           
+BSY20     Non raggiung           
+CAL1      ChiamInCorso           
+CAL2      Fallita                
+CAL3      Accettata              
+CAL4      Accettata              
+CAL5      Paging...              
+CAL6      In Coda                
+CAL7      In Coda                
+CAL8      Paging...              
+CAL9      ChiamInCorso           
+CAL10     ChiamInCorso           
+CAL20     In Coda                
+CAL21     In Coda                
+CAL23     In Coda                
+CAL28     Accettata              
+CAL34     ChiamInCorso           
+CNF1      Capo confer            
+CNF2      Membro conf            
+CNF3      Connesso               
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Picked up              
+DIV6      Chiam.di grp           
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      RetePubblica           
+EXT2      Rete privata           
+ICS0      Pranzo,fino            TIME          
+ICS1      Occup. fino            DATE          
+ICS2      Assente                TIME          
+ICS3      Meeting,fino           TIME          
+ICS4      Viaggio,fino           DATE          
+ICS5      Corso, fino            TIME          
+ICS6      Vacanza,fino           DATE          
+ICS7      GiornoLibero           DATE          
+ICS8      A casa                 TIME          
+ICS9      In malattia            
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Profilo                
+MIS6      DTMF                   
+MIS7      Riprova                
+MIS8      >                      
+MIS9      Fallita                
+MIS10     Accettata              
+MIS11     Non in lista           
+MIS12     Codice accr            
+MIS13     Codice autor           
+MIS14     Ins. costo             
+MIS15     Digitare PIN           
+MIS16     Richiesta              
+MIS17     Codice CQ              
+MIS18     CifreNonSuff           
+MIS19     No addebito            
+MIS20     NoInfoAddeb            
+MIS21     No nr memor.           
+MIS22     Nr memor.              
+MIS23     End of log             
+MIS25     Italian                
+MON1      Gen                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Apr                    
+MON5      Mag                    
+MON6      Giu                    
+MON7      Lug                    
+MON8      Ago                    
+MON9      Set                    
+MON10     Ott                    
+MON11     Nov                    
+MON12     Dic                    
+NOP1      Time out               
+NOP2      Congestione            
+NOP3      Time out               
+NOP4      Time out               
+NOP5      Time out               
+NOP6      Congestione            
+NOP7      Non consent            
+NOP8      Bloccato               
+NOP9      Nr vacante             
+NOP10     Oper.assente           
+NOP11     Agganciare             
+NOP12     Eseguito               
+NOP13     Fallita                
+NOP14     Non programm           
+NOP15     Non dispon.            
+NOP16     No membro              
+NOP17     Congestione            
+NOP18     NoChiam.Atte           
+NOP19     Assente                
+NOP20     Non eseguito           
+NOP21     Barrato                
+NOP22     Numero max             
+NOP23     Faultm.Ringb           
+NOP24     Disconn.Oper           
+NOP25     FormatoErrat           
+NOP26     Oper.assente           
+NOP28     Non eseguito           
+NOP29     Stato emerg            
+NOP31     Incompatib             
+NOP33     Timeout                
+NOP34     Congestione            
+NOP35     Occupato               
+NOP38     Bloccato               
+NOP40     Agganciare             
+NOP41     FormatoErrat           
+NOP42     Rich.sconosc           
+NOP43     Incompatib             
+NOP44     Non eseguito           
+NOP46     Ric.CodeAccr           
+NOP47     Non valido             
+NOP50     Congestione            
+NOP52     Bloccato               
+NOP53     Sbloccato              
+NOP54     ProcBlocFall           
+NOP55     ProSblocFall           
+NOP56     NonDisturb             
+NOP57     Barrato                
+NOP58     Congestione            
+NOP59     Barrato                
+NOP60     Occupato               
+NOP65     Accettata              
+NOP66     Non accettat           
+NOP69     Occupato               
+NOP72     Barrato                
+NOP74     Non eseguito           
+NOP75     NonDisponib.           
+NOP76     NonDisponib.           
+NOP77     TelSbloccato           
+NOP78     Assente                
+NOP79     TelBloccato            
+NOP93     NonDisponib.           
+NOP99     Sist.blocc.            
+PRK0      3 in attesa            
+PRK1      2 in attesa            
+PRK2      1 in attesa            
+PRK3      In attesa              
+PRK4      Linea 2 in attesa      
+PRK5      Linea 1 in attesa      
+REG5      Codice OK              
+REG7      Cod.accr.err           
+REG10     Codice OK              
+REG14     MsgInAttesa            
+REG15     MsgInAttesa            
+REG16     MsgInAttesa            
+REG17     MsgInAttesa            
+REG18     DigitaNumero           
+REG19     Deviato                
+

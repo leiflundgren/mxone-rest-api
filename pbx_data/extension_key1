@@ -1,0 +1,527 @@
+
+Extension Function Key Print
+Dir        Key Line Fcn   Monitored  Line       Call Key On    Key Off   Display Text             Key Sequence                             On-demand URI                                                                                                                                                                                                                                    
+                          Dir        Dir        Alt  Call List Call List                                                                                                                                                                                                                                                                                                                    
+9154       2   1    TNS   -          -          -    -         -         Mätstationen             9155                                     
+9164       2   1    TNS   -          -          -    -         -         Skiftledare Såg          9166                                     
+9189       18  -    MNS   9182       -          0    -         -         Matsal Skarv             9182                                     
+9189       22  -    MNS   9111       -          0    -         -         Anita Andersson          9111                                     
+9159       2   1    TNS   -          -          -    -         -         9499                     9499                                     
+9157       2   1    TNS   -          -          -    -         -         Johan S                  9122                                     
+9157       3   1    TNS   -          -          -    -         -         Sven                     9114                                     
+9162       2   1    TNS   -          -          -    -         -         Andreas T                9168                                     
+9157       4   1    TNS   -          -          -    -         -         Thunes                   9168                                     
+9157       6   1    TNS   -          -          -    -         -         P Mörk                   9150                                     
+9157       7   1    TNS   -          -          -    -         -         Mörk                     9173                                     
+9157       8   1    TNS   -          -          -    -         -         Granberg H               9172                                     
+9157       9   1    TNS   -          -          -    -         -         Arne                     9171                                     
+9157       10  1    TNS   -          -          -    -         -         Skinnet                  9174                                     
+9157       11  1    TNS   -          -          -    -         -         Smörjan                  9153                                     
+9157       12  1    TNS   -          -          -    -         -         El                       9160                                     
+9157       13  1    TNS   -          -          -    -         -         Elektriker               9161                                     
+9157       1   1    TNS   -          -          -    -         -         Skiftledare Just         9156                                     
+9157       5   1    TNS   -          -          -    -         -         Björn A                  9121                                     
+9189       10  -    MNS   9193       -          0    -         -         Björn-Krister Eriksson   9193                                     
+9189       11  -    MNS   9194       -          0    -         -         Örjan Eriksson           9194                                     
+9189       12  -    MNS   9195       -          0    -         -         Mattias Baier            9195                                     
+9189       13  -    MNS   9196       -          0    -         -         Anders Gustavsson        9196                                     
+9189       16  -    MNS   9121       -          0    -         -         Björn Andersson          9121                                     
+9189       17  -    MNS   9181       -          0    -         -         Bygg                     9181                                     
+9619       5   -    MNS   9601       -          0    -         -         Urban Hallberg           9601                                     
+9619       6   -    MNS   9602       -          0    -         -         Peter Salmonsson         9602                                     
+9619       7   -    MNS   9603       -          0    -         -         Helene Hallberg          9603                                     
+9619       8   -    MNS   9604       -          0    -         -         Jessica Hedlund          9604                                     
+9619       10  -    MNS   9606       -          0    -         -         Jonny Persson            9606                                     
+9569       6   -    MNS   9552       -          0    -         -         Tomas Eriksson           9552                                     
+9569       7   -    MNS   9553       -          0    -         -         Olle Sandberg            9553                                     
+9569       8   -    MNS   9554       -          0    -         -         Maria Larsson            9554                                     
+9569       9   -    MNS   9555       -          0    -         -         Oliver Forsman           9555                                     
+9569       10  -    MNS   9556       -          0    -         -         Kassan Hallefors         9556                                     
+9549       6   -    MNS   9522       -          0    -         -         Monika Andersson         9522                                     
+9549       7   -    MNS   9523       -          0    -         -         Glenn Schmitterlov       9523                                     
+9549       9   -    MNS   9525       -          0    -         -         Linda Bylander           9525                                     
+9549       10  -    MNS   9526       -          0    -         -         Carina Holmerin          9526                                     
+9549       11  -    MNS   9527       -          0    -         -         Svante Karelius          9527                                     
+9549       12  -    MNS   9528       -          0    -         -         Erik Sjogren             9528                                     
+9549       13  -    MNS   9529       -          0    -         -         Fredrik Back             9529                                     
+9549       15  -    MNS   9531       -          0    -         -         Hannu Koponen            9531                                     
+9549       16  -    MNS   9532       -          0    -         -         Extra Personal           9532                                     
+9549       5   -    MNS   9521       -          0    -         -         Magnus Thang             9521                                     
+9114       1   1    TNS   -          -          -    -         -         Johan S                  9122                                     
+9114       2   1    TNS   -          -          -    -         -         Tumst                    9155                                     
+9114       3   1    TNS   -          -          -    -         -         Björn                    9121                                     
+9152       1   -    MNS   9150       -          3    -         -         Partik M                 9150                                     
+9549       14  -    MNS   9530       -          0    -         -         Anders Larsson           9530                                     
+9114       4   1    TNS   -          -          -    -         -         Olsson, Scrotum          9199                                     
+9114       5   1    TNS   -          -          -    -         -         Johan T Mob              9156                                     
+9114       7   1    TNS   -          -          -    -         -         Växel                    9117                                     
+9501       17  1    TNS   -          -          -    -         -         Hem                      028031446                                
+9501       5   1    TNS   -          -          -    -         -         Magnus                   9521                                     
+9501       6   1    TNS   -          -          -    -         -         Svante                   9527                                     
+9501       7   1    TNS   -          -          -    -         -         Jonas                    9628                                     
+9501       8   1    TNS   -          -          -    -         -         Baier                    9571                                     
+9113       5   1    TNS   -          -          -    -         -         Martin                   024764777                                
+9113       6   1    TNS   -          -          -    -         -         Kalle                    038252534                                
+9137       14  1    TNS   -          -          -    -         -         Hem                      028122793                                
+9192       1   -    MNS   9189       -          0    -         -                                  9189                                     
+9192       2   -    MNS   9196       -          0    -         -                                  9196                                     
+9192       5   1    TNS   -          -          -    -         -                                  0104719188                               
+9192       6   1    TNS   -          -          -    -         -                                  0104719191                               
+9599       8   -    MNS   9621       -          0    -         -         Jonas B                  9621                                     
+9599       9   -    MNS   9601       -          0    -         -         Urban H                  9601                                     
+9599       10  -    MNS   9521       -          0    -         -         Magnus T                 9521                                     
+9599       11  -    MNS   9571       -          0    -         -         Mats B                   9571                                     
+9192       7   1    TNS   -          -          -    -         -                                  0104719195                               
+9619       18  1    TNS   -          -          -    -         -         Peter Backlund           9599                                     
+9619       19  1    TNS   -          -          -    -         -         Magnus Thång             9521                                     
+9619       20  1    TNS   -          -          -    -         -         Jonas Bertilsson         9621                                     
+9619       21  1    TNS   -          -          -    -         -         Mats Baier               9571                                     
+9619       23  1    TNS   -          -          -    -         -         Per-Erik Andersson       9110                                     
+9619       12  1    TNS   -          -          -    -         -         Birgitta Karlsson        9506                                     
+9619       13  1    TNS   -          -          -    -         -         Kerstin Bernhardsson     9507                                     
+9619       25  1    TNS   -          -          -    -         -         Anita Andersson          9111                                     
+9619       29  1    TNS   -          -          -    -         -         Hem                      025320306                                
+9192       8   1    TNS   -          -          -    -         -                                  0732041312                               
+9182       1   1    TNS   -          -          -    -         -         Anders G                 9196                                     
+9182       2   1    TNS   -          -          -    -         -         Björn A                  9121                                     
+9182       3   1    TNS   -          -          -    -         -         Sara E                   9189                                     
+9181       1   1    TNS   -          -          -    -         -         Örjan E                  9194                                     
+9122       1   -    MNS   9114       -          0    -         -         Sven B                   9114                                     
+9122       2   -    MNS   9113       -          0    -         -         Åsa                      9113                                     
+9122       3   -    MNS   9123       -          0    -         -         Katharina                9123                                     
+9122       4   -    MNS   9120       -          0    -         -         Christer                 9120                                     
+9122       28  1    TNS   -          -          -    -         -         Mätstation               9155                                     
+9122       16  1    TNS   -          -          -    -         -         Såghytten                9164                                     
+9122       27  1    TNS   -          -          -    -         -         Skiftledare Såg          9166                                     
+9122       15  1    TNS   -          -          -    -         -         Thunes                   9168                                     
+9122       26  1    TNS   -          -          -    -         -         Justerverket             9157                                     
+9122       14  1    TNS   -          -          -    -         -         Skiftledare JV           9156                                     
+9122       25  1    TNS   -          -          -    -         -         Hyvleriet                9159                                     
+9122       13  1    TNS   -          -          -    -         -         Skiftledare Hyvel        9158                                     
+9122       24  1    TNS   -          -          -    -         -         Buwall                   9169                                     
+9122       12  1    TNS   -          -          -    -         -         Björn                    9121                                     
+9122       23  1    TNS   -          -          -    -         -         Anders A                 9167                                     
+9122       22  1    TNS   -          -          -    -         -         Mörk                     9150                                     
+9122       10  1    TNS   -          -          -    -         -         Felavdelningen           9160                                     
+9122       21  1    TNS   -          -          -    -         -         Elektrikerna             9161                                     
+9122       9   1    TNS   -          -          -    -         -         Reparatörerna            9151                                     
+9122       20  1    TNS   -          -          -    -         -         Smörjarn                 9153                                     
+9122       19  1    TNS   -          -          -    -         -         Katarina B               9130                                     
+9122       7   1    TNS   -          -          -    -         -         Anders G                 9196                                     
+9122       18  1    TNS   -          -          -    -         -         Lillan                   9137                                     
+9122       17  -    MNS   9111       -          0    -         -         Anita                    9111                                     
+9122       5   -    MNS   9110       -          0    -         -         Per Erik                 9110                                     
+9122       29  1    TNS   -          -          -    -         -         Ola                      9190                                     
+9122       32  1    TNS   -          -          -    -         -         Sara                     9189                                     
+9113       17  -    MNS   9169       -          0    -         -         Buwall                   9169                                     
+9162       1   1    TNS   -          -          -    -         -         Johan S                  9122                                     
+9162       3   1    TNS   -          -          -    -         -         Per Erik                 9110                                     
+9162       4   1    TNS   -          -          -    -         -         J Verk                   9157                                     
+9162       5   1    TNS   -          -          -    -         -         J V Skift                9156                                     
+9162       6   1    TNS   -          -          -    -         -         Såg Skift                9166                                     
+9192       9   1    TNS   -          -          -    -         -                                  9111                                     
+9113       7   1    TNS   -          -          -    -         -         Ola                      024764783                                
+9113       8   1    TNS   -          -          -    -         -         Thomas Rasmussen         004569693001                             
+9113       9   1    TNS   -          -          -    -         -         HML                      0270429070                               
+9163       1   1    TNS   -          -          -    -         -         Johan                    9122                                     
+9163       2   1    TNS   -          -          -    -         -         Åsa                      9113                                     
+9163       3   1    TNS   -          -          -    -         -         Björn                    9121                                     
+9160       1   1    TNS   -          -          -    -         -         Ahlsell Tjäder           0243257346                               
+9160       2   1    TNS   -          -          -    -         -         Elektriker Äppelbo       9161                                     
+9113       10  1    TNS   -          -          -    -         -         Rikard S                 0706934610                               
+9113       11  1    TNS   -          -          -    -         -         Peke                     0704915040                               
+9194       1   1    TNS   -          -          -    -         -         Jonny                    9187                                     
+9194       2   1    TNS   -          -          -    -         -         Bk                       9193                                     
+9194       3   1    TNS   -          -          -    -         -         Anders G                 9196                                     
+9113       12  1    TNS   -          -          -    -         -         026279304                026279304                                
+9192       10  1    TNS   -          -          -    -         -                                  9193                                     
+9192       11  1    TNS   -          -          -    -         -                                  9123                                     
+9113       13  1    TNS   -          -          -    -         -         Kenny                    0705540458                               
+9157       14  1    TNS   -          -          -    -         -         0280593027               0280593027                               
+9157       15  1    TNS   -          -          -    -         -         Ftab Justerverk          0280593027                               
+9122       11  -    MNS   9199       -          0    -         -         Mattias                  9199                                     
+9192       12  1    TNS   -          -          -    -         -                                  9179                                     
+9599       19  -    MNS   9501       -          0    -         -         Urban Gillerås           9501                                     
+9599       17  -    MNS   9110       -          0    -         -         Per-Erik Andersson       9110                                     
+9599       16  -    MNS   9506       -          0    -         -         Birgitta Karlsson        9506                                     
+9599       13  -    MNS   9530       -          0    -         -         Anders Larsson           9530                                     
+9599       15  -    MNS   9507       -          0    -         -         Kerstin Bernhardsson     9507                                     
+9599       21  -    MNS   9552       -          0    -         -         Tomas Eriksson           9552                                     
+9599       22  -    MNS   9554       -          0    -         -         Maria Larsson            9554                                     
+9599       23  -    MNS   9602       -          0    -         -         Peter Salmonsson         9602                                     
+9599       24  -    MNS   9624       -          0    -         -         Leif Ronnersjö           9624                                     
+9599       25  -    MNS   9628       -          0    -         -         Jonas Torsper            9628                                     
+9599       27  -    MNS   9189       -          0    -         -         Sara Eriksson            9189                                     
+9599       28  1    TNS   -          -          -    -         -         Felanmälan OE            020211121                                
+9649       30  1    TNS   -          -          -    -         -         Monika Andersson         9522                                     
+9649       34  1    TNS   -          -          -    -         -         Fredrik Back             9529                                     
+9649       31  1    TNS   -          -          -    -         -         Svante Karelius          9527                                     
+9649       35  1    TNS   -          -          -    -         -         Jörgen Eriksson          9524                                     
+9649       32  1    TNS   -          -          -    -         -         Glenn Schmitterlöv       9523                                     
+9649       33  1    TNS   -          -          -    -         -         Erik Sjögren             9528                                     
+9649       38  1    TNS   -          -          -    -         -         Magnus Thoren            9572                                     
+9649       41  1    TNS   -          -          -    -         -         Mats Nilsson             9576                                     
+9649       37  1    TNS   -          -          -    -         -         Micke Baier              9574                                     
+9649       42  1    TNS   -          -          -    -         -         Carina Baier             9573                                     
+9649       45  1    TNS   -          -          -    -         -         Tomas Ericsson           9552                                     
+9649       53  1    TNS   -          -          -    -         -         Peter Salmonsson         9602                                     
+9192       13  1    TNS   -          -          -    -         -                                  0705627084                               
+9160       3   1    TNS   -          -          -    -         -         Torbjörn Upptek          0705236737                               
+9120       5   -    MNS   9110       -          0    -         -         Per-Erik Andersson       9110                                     
+9120       6   -    MNS   9113       -          0    -         -         Åsa Öhrn                 9113                                     
+9120       8   -    MNS   9122       -          0    -         -         Johan Steffansson        9122                                     
+9120       10  -    MNS   9123       -          0    -         -         Katharina Andersson      9123                                     
+9120       11  -    MNS   9199       -          0    -         -         Mattias Olsson           9199                                     
+9120       13  -    MNS   9111       -          0    -         -         Anita Andersson          9111                                     
+9120       14  -    MNS   9114       -          0    -         -         Sven Brandt              9114                                     
+9120       17  -    MNS   9157       -          0    -         -         Justerverket             9157                                     
+9120       18  -    MNS   9164       -          0    -         -         Såghytt nya              9164                                     
+9120       19  -    MNS   9159       -          0    -         -         Hyvleriet kontor         9159                                     
+9120       21  -    MNS   9189       -          0    -         -         Sara Eriksson            9189                                     
+9120       24  -    MNS   9137       -          0    -         -         Lillan                   9137                                     
+9120       26  -    MNS   9121       -          0    -         -         Björn Andersson          9121                                     
+9120       27  -    MNS   9169       -          0    -         -         Jan Buwall               9169                                     
+9120       28  -    MNS   9168       -          0    -         -         Andreas Thunes           9168                                     
+9189       6   1    TNS   -          -          -    -         -         Nils-Erik Nilsson        9173                                     
+9189       5   1    TNS   -          -          -    -         -         Anna-Greta Ström         9116                                     
+9189       21  1    TNS   -          -          -    -         -         Elisabeth Argårds        9179                                     
+9164       1   1    TNS   -          -          -    -         -         9161                     9161                                     
+9164       3   1    TNS   -          -          -    -         -         9174                     9174                                     
+9189       27  1    TNS   -          -          -    -         -         Mattias Olsson           9199                                     
+9589       1   -    MNS   9571       -          0    -         -         Mats Baier               9571                                     
+9589       2   -    MNS   9573       -          0    -         -         Carina Baier             9573                                     
+9589       3   -    MNS   9576       -          0    -         -         Mats Nilsson             9576                                     
+9589       5   -    MNS   9501       -          0    -         -         Urban Gilleerås          9501                                     
+9589       6   -    MNS   9506       -          0    -         -         Birgitta Karlsson        9506                                     
+9589       7   -    MNS   9507       -          0    -         -         Kerstin Bernhardsson     9507                                     
+9589       8   -    MNS   9599       -          0    -         -         Peter Backlund           9599                                     
+9589       9   1    TNS   -          -          -    -         -         0704424182               0704424182                               
+9587       1   -    MNS   9574       -          0    -         -         Mikael Baier             9574                                     
+9587       2   -    MNS   9573       -          0    -         -         Carina Baier             9573                                     
+9587       3   -    MNS   9576       -          0    -         -         Mats Nilsson             9576                                     
+9587       4   -    MNS   9572       -          0    -         -         Magnus Thoren            9572                                     
+9587       5   -    MNS   9501       -          0    -         -         Urban Gillerås           9501                                     
+9587       6   -    MNS   9506       -          0    -         -         Birgitta Karlsson        9506                                     
+9587       7   -    MNS   9507       -          0    -         -         Kerstin Bernhardsson     9507                                     
+9587       8   -    MNS   9599       -          0    -         -         Peter Backlund           9599                                     
+9587       9   -    MNS   9601       -          0    -         -         Urban Hällberg           9601                                     
+9587       10  -    MNS   9521       -          0    -         -         Magnus Thång             9521                                     
+9587       11  -    MNS   9621       -          0    -         -         Jonas Bertilsson         9621                                     
+9588       1   -    MNS   9571       -          0    -         -         Mats Baier               9571                                     
+9588       2   -    MNS   9574       -          0    -         -         Mikael Baier             9574                                     
+9588       3   -    MNS   9576       -          0    -         -         Mats Nilsson             9576                                     
+9588       4   -    MNS   9572       -          0    -         -         Magnus Thoren            9572                                     
+9588       5   -    MNS   9501       -          0    -         -         Urban Gillerås           9501                                     
+9588       6   -    MNS   9506       -          0    -         -         Birgitta Karlsson        9506                                     
+9588       7   -    MNS   9507       -          0    -         -         Kerstin Bernhardsson     9507                                     
+9588       8   -    MNS   9599       -          0    -         -         Peter Backlund           9599                                     
+9120       20  -    MNS   9196       -          0    -         -         Anders Gustafsson        9196                                     
+9137       6   -    MNS   9135       -          0    -         -         Thomas                   9135                                     
+9137       7   -    MNS   9134       -          0    -         -         Björn                    9134                                     
+9137       8   -    MNS   9131       -          0    -         -         Roger                    9131                                     
+9137       5   -    MNS   9130       -          0    -         -         Katarina B               9130                                     
+9120       15  -    MNS   9130       -          0    -         -         Katarina Bergquist       9130                                     
+9120       25  -    MNS   9135       -          0    -         -         Thomas Heens             9135                                     
+9122       8   1    TNS   -          -          -    -         -         Thomas                   9135                                     
+9649       18  -    MNS   9571       -          0    -         -         Mats Baier               9571                                     
+9649       19  -    MNS   9601       -          0    -         -         Urban Hällberg           9601                                     
+9649       21  -    MNS   9501       -          0    -         -         Urban Gillerås           9501                                     
+9649       17  -    MNS   9521       -          0    -         -         Magnus Thång             9521                                     
+9649       11  -    MNS   9530       -          0    -         -         Anders Larsson           9530                                     
+9160       5   1    TNS   -          -          -    -         -         Lasses El Sune           0705679331                               
+9160       6   1    TNS   -          -          -    -         -         Hasken [målare]          0706790609                               
+9160       7   1    TNS   -          -          -    -         -         Ing.f:a Erik Dahlin      022322200                                
+9160       8   1    TNS   -          -          -    -         -         Vitronic Daniel          049037590                                
+9189       15  -    MNS   9198       -          0    -         -         Oscar Hultgren           9198                                     
+9111       28  1    TNS   -          -          -    -         -         Kontek                   037289000                                
+9111       16  1    TNS   -          -          -    -         -         Mattias Öhrn             0702265633                               
+9111       27  1    TNS   -          -          -    -         -         Bofab                    0855034015                               
+9111       26  1    TNS   -          -          -    -         -         Fk Arb                   0771179000                               
+9111       25  1    TNS   -          -          -    -         -         Städ Hemserv             0705233250                               
+9123       16  1    TNS   -          -          -    -         -         Jennie Blixt             0707602839                               
+9123       11  1    TNS   -          -          -    -         -         Clas Impregna            0705588441                               
+9111       5   -    MNS   9110       -          0    -         -         Per-Erik                 9110                                     
+9111       12  -    MNS   9137       -          0    -         -         Lillan                   9137                                     
+9111       14  -    MNS   9507       -          0    -         -         Kerstin                  9507                                     
+9111       15  -    MNS   9506       -          0    -         -         Birgitta                 9506                                     
+9111       8   -    MNS   9179       -          0    -         -         Elisabeth A              9179                                     
+9111       10  -    MNS   9173       -          0    -         -         Order Vansbro            9173                                     
+9123       12  1    TNS   -          -          -    -         -         Martens                  0730331804                               
+9165       1   1    TNS   -          -          -    -         -         Sven                     9114                                     
+9165       2   1    TNS   -          -          -    -         -         Björn                    9121                                     
+9165       3   1    TNS   -          -          -    -         -         Patrick                  9150                                     
+9165       4   1    TNS   -          -          -    -         -         El                       9160                                     
+9165       9   1    TNS   -          -          -    -         -         Johan                    9122                                     
+9165       10  1    TNS   -          -          -    -         -         Mattias                  9199                                     
+9165       5   1    TNS   -          -          -    -         -         Torbjörn                 9183                                     
+9165       6   1    TNS   -          -          -    -         -         Sara                     9189                                     
+9165       7   1    TNS   -          -          -    -         -         Anita                    9111                                     
+9165       8   1    TNS   -          -          -    -         -         Såghytt                  9164                                     
+9165       11  1    TNS   -          -          -    -         -         Johan T                  9156                                     
+9123       5   -    MNS   9196       -          0    -         -         Anders G                 9196                                     
+9123       9   -    MNS   9116       -          0    -         -         Marie                    9116                                     
+9123       6   -    MNS   9169       -          0    -         -         Buwall                   9169                                     
+9123       10  -    MNS   9113       -          0    -         -         Åsa                      9113                                     
+9123       7   -    MNS   9122       -          0    -         -         Johan S                  9122                                     
+9123       8   -    MNS   9110       -          0    -         -         Per Erik                 9110                                     
+9123       13  -    MNS   9193       -          0    -         -         B K                      9193                                     
+9123       17  -    MNS   9167       -          0    -         -         Anders A                 9167                                     
+9123       18  -    MNS   9121       -          0    -         -         Björn                    9121                                     
+9123       21  -    MNS   9159       -          0    -         -         Hyveln                   9159                                     
+9649       1   -    MNS   9621       -          0    -         -         Jonas B                  9621                                     
+9649       2   -    MNS   9630       -          0    -         -         Lars-Erik E              9630                                     
+9649       3   -    MNS   9628       -          0    -         -         Jonas T                  9628                                     
+9649       4   -    MNS   9624       -          0    -         -         Leif R                   9624                                     
+9649       5   -    MNS   9629       -          0    -         -         Jonny G                  9629                                     
+9649       6   -    MNS   9625       -          0    -         -         Mehdi G                  9625                                     
+9649       7   -    MNS   9626       -          0    -         -         David F                  9626                                     
+9649       22  -    MNS   9599       -          0    -         -         Peter B                  9599                                     
+9649       23  -    MNS   9506       -          0    -         -         Birgitta K               9506                                     
+9649       24  -    MNS   9507       -          0    -         -         Kerstin B                9507                                     
+9649       9   1    TNS   -          -          -    -         -         Birgitta                 9506                                     
+9649       10  1    TNS   -          -          -    -         -         Kerstin                  9507                                     
+9649       12  1    TNS   -          -          -    -         -         Urban                    9501                                     
+9548       1   -    MNS   9521       -          0    -         -         Magnus Thång             9521                                     
+9548       2   -    MNS   9523       -          0    -         -         Glenn Schmitterlöv       9523                                     
+9548       3   -    MNS   9530       -          0    -         -         Anders Larsson           9530                                     
+9548       4   -    MNS   9522       -          0    -         -         Monika Andersson         9522                                     
+9548       5   -    MNS   9526       -          0    -         -         Carina Holmerin          9526                                     
+9548       9   -    MNS   9531       -          0    -         -         Jörgen Eriksson          9531                                     
+9548       6   -    MNS   9527       -          0    -         -         Svante Karelius          9527                                     
+9548       10  -    MNS   9501       -          0    -         -         Urban Gillerås           9501                                     
+9548       7   -    MNS   9528       -          0    -         -         Erik Sjögren             9528                                     
+9548       8   -    MNS   9529       -          0    -         -         Fredrik Back             9529                                     
+9548       11  -    MNS   9628       -          0    -         -         Jonas Torsper, Malung    9628                                     
+9548       12  -    MNS   9506       -          0    -         -         Birgitta Karlsson        9506                                     
+9152       3   -    MNS   9172       -          3    -         -         H Granberg               9172                                     
+9152       5   -    MNS   9153       -          3    -         -         Johan B                  9153                                     
+9152       6   -    MNS   9149       -          3    -         -         Christoffer              9149                                     
+9152       7   -    MNS   9148       -          3    -         -         M Thulin                 9148                                     
+9152       4   -    MNS   9174       -          3    -         -         Marcus                   9174                                     
+9152       2   -    MNS   9171       -          3    -         -         Anders E                 9171                                     
+9506       5   -    MNS   9501       -          0    -         -         Urban Gillerås           9501                                     
+9506       12  -    MNS   9628       -          0    -         -         Jonas Torsper            9628                                     
+9189       8   1    TNS   -          -          -    -         -         Camilla Persson          9188                                     
+9189       19  1    TNS   -          -          -    -         -         Jörgen Gärtner           9191                                     
+9123       14  1    TNS   -          -          -    -         -         Maria Redhe              9220                                     
+9189       28  1    TNS   -          -          -    -         -         Johnny Karlsson          9187                                     
+9213       1   -    MNS   9219       -          0    -         -         Maria R                  9219                                     
+9213       2   -    MNS   9210       -          0    -         -         Kjell L                  9210                                     
+9113       20  -    MNS   9166       -          0    -         -         Sågen                    9166                                     
+9113       21  -    MNS   9122       -          0    -         -         Johan                    9122                                     
+9113       27  -    MNS   9196       -          0    -         -         Anders                   9196                                     
+9113       28  -    MNS   9137       -          0    -         -         Lillan                   9137                                     
+9160       9   1    TNS   -          -          -    -         -         Kabben [hyvelansvarig]   0104719167                               
+9213       3   1    TNS   -          -          -    -         -         Malin                    0702766505                               
+9213       4   1    TNS   -          -          -    -         -         Olle Stenfält            0738208993                               
+9189       26  1    TNS   -          -          -    -         -         Kjell Larsson            9210                                     
+9122       6   -    MNS   9188       -          0    -         -         TFTT                     9188                                     
+9184       1   1    TNS   -          -          -    -         -         Johan Steffansson        9122                                     
+9184       2   1    TNS   -          -          -    -         -         Per Erik                 9110                                     
+9184       3   1    TNS   -          -          -    -         -         Jverk                    9157                                     
+9184       4   1    TNS   -          -          -    -         -         Seific                   00436641235906                           
+9184       5   1    TNS   -          -          -    -         -         Andreas Grossl           004342322521185                          
+9184       6   1    TNS   -          -          -    -         -         Laila Mobil              0702565452                               
+9184       7   1    TNS   -          -          -    -         -         Gerald Grubbl            00436648247664                           
+9160       10  1    TNS   -          -          -    -         -         Kontrollrum Panna        0104719184                               
+9160       4   1    TNS   -          -          -    -         -         Thunes                   0104719168                               
+9113       14  1    TNS   -          -          -    -         -         Dalarö Agency            027064090                                
+9184       8   1    TNS   -          -          -    -         -         Karl Urbas               00436643377004                           
+9212       1   1    TNS   -          -          -    -         -         Dalafloda                8960                                     
+9160       11  1    TNS   -          -          -    -         -         Patrik Mörk              0104719150                               
+9160       12  1    TNS   -          -          -    -         -         Kontoret Anna-Greta      0104719116                               
+9160       13  1    TNS   -          -          -    -         -         Waco> Micke Kristensson  035176755                                
+9184       9   1    TNS   -          -          -    -         -         Andreas Puchard Urbas    00436642333332                           
+9184       10  1    TNS   -          -          -    -         -         Servicetelefon Nöd Urbas 00436644649586                           
+9194       4   1    TNS   -          -          -    -         -         Baier                    9195                                     
+9184       11  1    TNS   -          -          -    -         -         Jimmie Envelope          021408652                                
+9160       14  1    TNS   -          -          -    -         -         Justerverk Skiftledare   0104719156                               
+9160       15  1    TNS   -          -          -    -         -         Solar Blge Kenneth       0243217150                               
+9184       12  1    TNS   -          -          -    -         -         Elektriker Fast Tele     9160                                     
+9184       13  1    TNS   -          -          -    -         -         Stefan Petek             00436641235920                           
+9619       9   -    MNS   9605       -          0    -         -         Robert Soderqvist        9605                                     
+9619       22  1    TNS   -          -          -    -         -         Tomas Eriksson           9552                                     
+9619       24  1    TNS   -          -          -    -         -         Camilla Persson          9188                                     
+9184       14  1    TNS   -          -          -    -         -         Tomas Hoffer Grubbl      00436642811938                           
+9113       15  1    TNS   -          -          -    -         -         Malin/Ahlmarks           054149749                                
+9599       18  -    MNS   9188       -          0    -         -         Camilla                  9188                                     
+9211       5   1    TNS   -          -          -    -         -         Utlast                   9213                                     
+9211       1   1    TNS   -          -          -    -         -         Utlast                   9213                                     
+9211       2   1    TNS   -          -          -    -         -         Larsson                  9210                                     
+9211       3   1    TNS   -          -          -    -         -         Richard                  9115                                     
+9211       4   1    TNS   -          -          -    -         -         Ola                      9190                                     
+9508       1   -    MNS   9599       -          0    -         -         Peter Backlund           9599                                     
+9508       3   -    MNS   9628       -          0    -         -         Jonas Torsper            9628                                     
+9508       4   -    MNS   9624       -          0    -         -         Leif Ronnersjö           9624                                     
+9508       5   -    MNS   9626       -          0    -         -         David Fehrm              9626                                     
+9508       6   -    MNS   9521       -          0    -         -         Magnus Thång Sälen       9521                                     
+9508       2   -    MNS   9621       -          0    -         -         Jonas Bertilsson Malung  9621                                     
+9508       9   -    MNS   9602       -          0    -         -         Peter Salmonsson Idre    9602                                     
+9508       7   -    MNS   9530       -          0    -         -         Anders Larsson Sälen     9530                                     
+9508       8   -    MNS   9601       -          0    -         -         Urban Hällberg Idre      9601                                     
+9508       10  -    MNS   9574       -          0    -         -         Micke Baier Vansbro      9574                                     
+9508       11  -    MNS   9571       -          0    -         -         Mats Baier Vansbro       9571                                     
+9508       12  -    MNS   9554       -          0    -         -         Maria Larsson Hällefors  9554                                     
+9508       13  -    MNS   9552       -          0    -         -         Tomas Eriksson Hällefors 9552                                     
+9162       8   1    TNS   -          -          -    -         -         Jocke Valutec            0705770514                               
+9160       16  1    TNS   -          -          -    -         -         Justerverk,              9157                                     
+9162       7   1    TNS   -          -          -    -         -         Richard Korva            0702372934                               
+9155       2   1    TNS   -          -          -    -         -         Kallis                   0705381091                               
+9155       3   1    TNS   -          -          -    -         -         Stefan                   0706461358                               
+9155       4   1    TNS   -          -          -    -         -         Eva Åkerman              02345683                                 
+9162       9   1    TNS   -          -          -    -         -         Tomas Landstrom          0920407057                               
+9184       15  1    TNS   -          -          -    -         -         Boiler Manager Andreas   9168                                     
+9184       16  1    TNS   -          -          -    -         -         Tomas Grubbl             00433176812718                           
+9184       17  1    TNS   -          -          -    -         -         Johan Grubbl             00433176812723                           
+9162       10  1    TNS   -          -          -    -         -         Peter Berg Boda Såg      0706954845                               
+9162       11  1    TNS   -          -          -    -         -         Thomas Wamming           091087987                                
+9199       7   -    MNS   9122       -          0    -         -         Johan S                  9122                                     
+9199       8   -    MNS   9173       -          0    -         -         Order Vansbro            9173                                     
+9162       12  1    TNS   -          -          -    -         -         Laila Mob                0702565452                               
+9599       20  -    MNS   9574       -          0    -         -         Micke Baier              9574                                     
+9160       17  1    TNS   -          -          -    -         -         Björn A                  9121                                     
+9160       18  1    TNS   -          -          -    -         -         Mats-Erik [svensken]     0706870682                               
+9162       13  1    TNS   -          -          -    -         -         Kenneth Hedman           091087996                                
+9155       1   1    TNS   -          -          -    -         -         Andreas Eriksson         02345662                                 
+9162       14  -    TNS   -          -          -    -         -         Peter Berg Balungstrand  0706954845                               
+9160       19  -    TNS   -          -          -    -         -         Byggshopen               9570                                     
+9160       20  -    TNS   -          -          -    -         -         Åhls Bildelar            028110460                                
+9184       18  -    TNS   -          -          -    -         -         Mikael Schöllin Enveloop 021408659                                
+9162       15  -    TNS   -          -          -    -         -         Krister Lindberg Valutec 091087998                                
+9160       21  -    TNS   -          -          -    -         -         Pannjour                 9175                                     
+9212       2   -    TNS   -          -          -    -         -         Ia Mobil                 9219                                     
+9212       3   -    TNS   -          -          -    -         -         Utlast Mokk              9213                                     
+9165       12  -    TNS   -          -          -    -         -         Jonas F                  9299                                     
+9173       5   -    MNS   9196       -          0    -         -         Anders Gustavsson        9196                                     
+9173       6   -    MNS   9188       -          0    -         -         Truls Troedson           9188                                     
+9173       7   -    MNS   9116       -          0    -         -         Marie Munters            9116                                     
+9173       8   -    MNS   9195       -          0    -         -         Mattias Baier            9195                                     
+9173       9   -    MNS   9111       -          0    -         -         Anita Andersson          9111                                     
+9173       10  -    MNS   9117       -          0    -         -         Pontus Wiklund           9117                                     
+9173       11  -    MNS   9113       -          0    -         -         Åsa Örn                  9113                                     
+9173       12  -    MNS   9219       -          0    -         -         Maria Redhe              9219                                     
+9173       13  -    MNS   9210       -          0    -         -         Kjell Larsson            9210                                     
+9116       1   -    MNS   9173       -          0    -         -         Sara E                   9173                                     
+9116       2   -    MNS   9123       -          0    -         -         Katharina                9123                                     
+9110       8   -    MNS   9130       -          0    -         -         Katarina Berqvist        9130                                     
+9110       9   -    MNS   9194       -          0    -         -         Örjan Eriksson           9194                                     
+9120       7   -    MNS   9116       -          0    -         -         Marie Munters            9116                                     
+9111       7   -    MNS   9189       -          0    -         -         Sara E                   9189                                     
+9137       9   -    MNS   9198       -          0    -         -         Nille                    9198                                     
+9137       15  -    MNS   9199       -          0    -         -         Mattias                  9199                                     
+9196       1   -    MNS   9120       -          0    -         -         Christer O               9120                                     
+9196       2   -    MNS   9123       -          0    -         -         Katharina A              9123                                     
+9113       18  -    MNS   9116       -          0    -         -         Marie Munters            9116                                     
+9113       19  -    MNS   9120       -          0    -         -         Christer                 9120                                     
+9113       26  -    MNS   9173       -          0    -         -         Sara                     9173                                     
+9184       19  -    TNS   -          -          -    -         -         Markus Gruber Grubbl     00436648247667                           
+9506       16  -    MNS   9125       -          0    -         -         Anita Andersson          9125                                     
+9507       2   -    MNS   9506       -          0    -         -         Birgitta                 9506                                     
+9506       1   -    MNS   9507       -          0    -         -         Kerstin                  9507                                     
+9507       5   -    MNS   9521       -          0    -         -         Magnus                   9521                                     
+9507       6   -    MNS   9621       -          0    -         -         Jonas B                  9621                                     
+9507       7   -    MNS   9571       -          0    -         -         Mats B                   9571                                     
+9507       8   -    MNS   9601       -          0    -         -         Urban H                  9601                                     
+9507       9   -    MNS   9552       -          0    -         -         Tomas E                  9552                                     
+9507       18  -    MNS   9628       -          0    -         -         Jonas T                  9628                                     
+9507       19  -    MNS   9574       -          0    -         -         Micke B                  9574                                     
+9507       20  -    MNS   9604       -          0    -         -         Patrik P                 9604                                     
+9507       21  -    MNS   9554       -          0    -         -         Maria L                  9554                                     
+9507       1   -    MNS   9599       -          0    -         -         Peter                    9599                                     
+9507       10  -    MNS   9526       -          0    -         -         Carina H                 9526                                     
+9137       1   -    MNS   9113       -          0    -         -         Åsa                      9113                                     
+9137       2   -    MNS   9116       -          0    -         -         Marie                    9116                                     
+9137       3   -    MNS   9136       -          0    -         -         Jonas                    9136                                     
+9137       4   -    MNS   9133       -          0    -         -         Emil                     9133                                     
+9137       13  -    MNS   9188       -          0    -         -         Truls                    9188                                     
+9137       10  -    MNS   9157       -          0    -         -         Justerverk               9157                                     
+9137       11  -    MNS   9111       -          0    -         -         Anita                    9111                                     
+9137       12  -    MNS   9114       -          0    -         -         Sven                     9114                                     
+9199       4   -    MNS   9299       -          0    -         -         Jonas F                  9299                                     
+9199       2   -    MNS   9111       -          0    -         -         Maria H                  9111                                     
+9199       5   -    MNS   9599       -          0    -         -         Peter B                  9599                                     
+9199       1   -    MNS   9211       -          0    -         -         Maria R                  9211                                     
+9199       6   -    MNS   9130       -          0    -         -         Katarina B               9130                                     
+9199       9   -    MNS   9150       -          0    -         -         Patrik M                 9150                                     
+9173       1   -    MNS   9187       -          0    -         -         Johnny                   9187                                     
+9173       2   -    MNS   9123       -          0    -         -         Katharina A              9123                                     
+9173       3   -    MNS   9193       -          0    -         -         B K Eriksson             9193                                     
+9173       4   -    MNS   9179       -          0    -         -         Elisabet A               9179                                     
+9173       14  -    MNS   9110       -          0    -         -         Per Erik A               9110                                     
+9173       15  -    MNS   9115       -          0    -         -         Richard                  9115                                     
+9173       16  -    MNS   9121       -          0    -         -         Björn A                  9121                                     
+9110       1   -    MNS   9122       -          0    -         -         Johan Steffansson        9122                                     
+9110       2   -    MNS   9150       -          0    -         -         Patrik Mörk              9150                                     
+9110       3   -    MNS   9121       -          0    -         -         Björn Andersson          9121                                     
+9110       4   -    MNS   9168       -          0    -         -         Andreas Thunes           9168                                     
+9110       6   -    MNS   9198       -          0    -         -         Anders Gustafsson        9198                                     
+9110       10  -    MNS   9199       -          0    -         -         Mattias Olsson           9199                                     
+9110       11  -    MNS   9299       -          0    -         -         Jonas Fernström          9299                                     
+9110       12  -    MNS   9599       -          0    -         -         Urban Gillerås           9599                                     
+9110       13  -    MNS   9210       -          0    -         -         Kjell Larsson            9210                                     
+9110       5   -    MNS   9120       -          0    -         -         Christer Olsson          9120                                     
+9110       7   -    MNS   9219       -          0    -         -         Maria Redhe              9219                                     
+9123       4   -    MNS   9173       -          0    -         -         Sara (order)             9173                                     
+9123       1   1    TNS   -          -          -    -         -         Mattias                  0702265633                               
+9123       2   -    MNS   9188       -          0    -         -         Niklas K                 9188                                     
+9123       3   -    MNS   9120       -          0    -         -         Christer                 9120                                     
+9123       15  -    MNS   9125       -          0    -         -         Anita                    9125                                     
+9123       20  -    MNS   9111       -          0    -         -         Maria H                  9111                                     
+9123       19  -    MNS   9210       -          0    -         -         Kjell L                  9210                                     
+9212       4   -    TNS   -          -          -    -         -         Åke Lissel               0702280016                               
+9589       4   -    MNS   9572       -          0    -         -         Joakim Boland            9572                                     
+9599       1   -    MNS   9199       -          0    -         -         Mattias                  9199                                     
+9599       2   -    MNS   9299       -          0    -         -         Jonas F                  9299                                     
+9506       2   -    MNS   9601       -          0    -         -         Urban H                  9601                                     
+9506       3   -    MNS   9621       -          0    -         -         Jonas Bertilsson         9621                                     
+9506       4   -    MNS   9552       -          0    -         -         Tomas E                  9552                                     
+9506       6   -    MNS   9521       -          0    -         -         Magnus T                 9521                                     
+9506       7   -    MNS   9571       -          0    -         -         Mats B                   9571                                     
+9506       8   -    MNS   9661       -          0    -         -         Per F                    9661                                     
+9506       9   -    MNS   9599       -          0    -         -         Peter                    9599                                     
+9506       10  -    MNS   9526       -          0    -         -         Carina H                 9526                                     
+9506       11  -    MNS   9574       -          0    -         -         Micke B                  9574                                     
+9506       13  -    MNS   9530       -          0    -         -         Larsson                  9530                                     
+9506       14  -    MNS   9522       -          0    -         -         Monika A                 9522                                     
+9506       15  -    MNS   9111       -          0    -         -         Maria H                  9111                                     
+9506       17  -    MNS   9299       -          0    -         -         Jonas F                  9299                                     
+9506       18  -    MNS   9189       -          0    -         -         Sara E                   9189                                     
+9199       73  1    TNS   -          -          -    -         -         Linda                    0703200602                               
+9199       59  1    TNS   -          -          -    -         -         Anton                    0730304256                               
+9199       46  1    TNS   -          -          -    -         -         Jan Hoen Mitel           0856867125                               
+9199       47  1    TNS   -          -          -    -         -         Jan Hoen Privat          0702802115                               
+9199       48  -    MNS   9120       -          0    -         -         Christer O               9120                                     
+9199       49  -    MNS   9137       -          0    -         -         Ann-Margreth             9137                                     
+9199       50  -    MNS   9117       -          0    -         -         Pontus W                 9117                                     
+9199       51  -    MNS   9116       -          0    -         -         Marie M                  9116                                     
+9199       52  -    MNS   9114       -          0    -         -         Sven B                   9114                                     
+9199       53  -    MNS   9121       -          0    -         -         Björn A                  9121                                     
+9199       54  -    MNS   9160       -          0    -         -         Elavd Kontor             9160                                     
+9199       55  -    MNS   9161       -          0    -         -         Elavd Mobil              9161                                     
+9199       56  -    MNS   9180       -          0    -         -         Anders Bråmå             9180                                     
+9199       3   -    MNS   9188       -          0    -         -         Niklas K                 9188                                     
+9199       57  1    TNS   -          -          -    -         -         Torbjörn J               9183                                     
+9299       46  -    MNS   9199       -          0    -         -         Mattias                  9199                                     
+9299       47  -    MNS   9599       -          0    -         -         Peter                    9599                                     
+9299       48  -    MNS   9122       -          0    -         -         Johan S                  9122                                     
+9116       3   -    MNS   9169       -          0    -         -         Buwall                   9169                                     
+9116       4   -    MNS   9113       -          0    -         -         Åsa                      9113                                     
+9116       5   -    MNS   9199       -          0    -         -         Mattias                  9199                                     
+9116       6   -    MNS   9299       -          0    -         -         Jonas                    9299                                     
+9184       20  -    TNS   -          -          -    -         -         Stefan Holm Bisab        0703756503                               
+9299       60  1    TNS   -          -          -    -         -         Christer (Nolyx)         0705088149                               
+9299       71  1    TNS   -          -          -    -         -         Dagis                    028175332                                
+9299       72  1    TNS   -          -          -    -         -         Fritids                  028175342                                
+9299       73  1    TNS   -          -          -    -         -         Skolan                   028175376                                
+9299       57  1    TNS   -          -          -    -         -         Allan                    0706870496                               
+9299       58  1    TNS   -          -          -    -         -         Emma                     0706187808                               
+9299       59  1    TNS   -          -          -    -         -         Matilda                  0738039789                               
+9507       4   -    MNS   9661       -          0    -         -         Per F.                   9661                                     
+9507       3   -    MNS   9117       -          0    -         -         Pontus W                 9117                                     
+9507       11  -    MNS   9606       -          0    -         -         Jonny P                  9606                                     
+9507       12  -    MNS   9522       -          0    -         -         Monika                   9522                                     
+9507       13  -    MNS   9530       -          0    -         -         Larsson                  9530                                     
+9507       14  -    MNS   9555       -          0    -         -         Tobias N                 9555                                     
+9507       15  -    MNS   9111       -          0    -         -         Maria H                  9111                                     
+9507       16  -    MNS   9602       -          0    -         -         Robert P                 9602                                     
+9507       17  -    MNS   9558       -          0    -         -         Jonna W                  9558                                     

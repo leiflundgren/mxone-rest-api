@@ -48,11 +48,11 @@ const (
 	internalDirectoryContinue             = 12
 )
 
-func (this *NumberConversionEntry) Get() []NumberConversionEntry {
-	return this.readFromFile()
+func (numberConversion *NumberConversionEntry) Get() []NumberConversionEntry {
+	return numberConversion.readFromFile()
 }
 
-func (this *NumberConversionEntry) parse(byteArray []byte) []NumberConversionEntry {
+func (numberConversion *NumberConversionEntry) parse(byteArray []byte) []NumberConversionEntry {
 	var tempVar string
 	var linesToSkip = 2
 	var skippedLines = 0
@@ -126,16 +126,16 @@ func (this *NumberConversionEntry) parse(byteArray []byte) []NumberConversionEnt
 	return result
 }
 
-func (this *NumberConversionEntry) readFromFile() []NumberConversionEntry {
+func (numberConversion *NumberConversionEntry) readFromFile() []NumberConversionEntry {
 	byteArray, err := ioutil.ReadFile("number_conversion_print")
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	return this.parse(byteArray)
+	return numberConversion.parse(byteArray)
 }
 
-func (this *NumberConversionEntry) execAndParse() {
+func (numberConversion *NumberConversionEntry) execAndParse() {
 	cmd := exec.Command("number_conversion_print")
 
 	var bytesResult bytes.Buffer

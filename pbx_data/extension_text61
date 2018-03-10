@@ -1,0 +1,416 @@
+
+Extension Text String
+
+Language: Eesti               
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Vali profiil           
+ABS1      Eelprogram.Suunamine   
+ABS2      Suundumine -->         
+ABS3      Eemaloleku põhjus      
+ABS4      Välissuundumine -->    
+ABS5      Ära sega               
+ABS6      Suund. mittevast. ->   
+ABS7      Suund. hõivatud ->     
+ABS8      Aktiivne               
+ABS9      Passiivne              
+ABS10     Tühista profiil        
+ABS11     Valik                  
+BSY1      Hõivatud               
+BSY2      Välissuund hõivatud    
+BSY3      Ebaõnnestus            
+BSY4      Ebaõnnestus            
+BSY5      Ebaõnnestus            
+BSY6      LCR suund hõivatud     
+BSY9      Ebaõnnestus            
+BSY11     Ebaõnnestus            
+BSY14     Liin kinni             
+BSY19     Ebaõnnestus            
+BSY20     Pole levis             
+CAL1      Helistan..             
+CAL2      Ebaõnnestus            
+CAL3      Koputus aktiivne       
+CAL4      Koputus aktiivne       
+CAL5      Otsitakse...           
+CAL6      Kõne järjekorras       
+CAL7      Kõne järjekorras       
+CAL8      Otsingu järjekorras    
+CAL9      Helistan..             
+CAL10     Helistan..             
+CAL20     Kõne järjekorras       
+CAL21     Kõne järjekorras       
+CAL23     Kõne järjekorras       
+CAL28     Koputus aktiivne       
+CAL34     Helistan..             
+CNF1      Konv. juht             
+CNF2      Konv.osal              
+CNF3      Konv.algataja          
+CNF4      Konv.osaleja           
+CNF5      Osalejad               
+DIR1      Ei leia kirjet         
+DIR2      Nimekirja algus        
+DIR3      Nimekirja lõpp         
+DIR4      Kirjeid ei ole         
+DIV1      Suunatud >             
+DIV2      Suunatud >             
+DIV3      Suunatud >             
+DIV4      Suunatud >             
+DIV5       Nopitud               
+DIV6       Grupikõne             
+DIV7      Väline -->             
+DIV10       -->                  
+DIV11       -->                  
+DIV12       -->                  
+DIV13      DNIS kõne             
+EXT1      Väliskõne              
+EXT2      Võrgukõne              
+FCN0      Telefoni helin 0-6     
+FCN1      Lisanr.  helin 0-6     
+FCN2      Esinduse helin 0-6     
+FCN3      Menüüklahv             
+FCN4      Funktsiooniklahv 1     
+FCN5      Funktsiooniklahv 2     
+FCN6      Lühivalik max 20 nr    
+FCN8      Välisnumbri kordus     
+FCN9      Funktsiooniklahv 3     
+FCN10     Funktsiooniklahv 4     
+FCN11     Automaatne vastamine   
+FCN12     Liin 2 vaba            
+FCN13     Tagasihelist.palve     
+FCN14     Eelsuunamise klahv     
+FCN16     Noppimine/hoiule       
+FCN17     Koputuse klahv         
+FCN18     Konverentsi klahv      
+FCN19     Pealtkuulamise klahv   
+FCN20     Grupi kutsung          
+FCN21     Kõnelogi klahv         
+FCN22     Kõneteate klahv        
+FCN23     Programmeerimine       
+FCN24     Helistaja nr jälitus   
+FCN26     Ära sega klahv         
+FCN27     Kõneteate klahv        
+FCN28     Puhkeaeg               
+FCN29     Esinduse helin 0-6     
+FCN30     Data-numbri klahv      
+FCN31     Data-number            
+FCN32     Local mode key         
+FCN33     Suunamise klahv        
+FCN34     Suunamise klahv        
+FCN35     Profiili valik         
+FCN37     Suunamise klahv        
+FCN41     Profiili valik         
+ICS0       Lõuna                 TIME          
+ICS1       Hõivatud              DATE          
+ICS2       Saabun                TIME          
+ICS3       Koosolek              TIME          
+ICS4       Lähetus               DATE          
+ICS5       Koolitus              TIME          
+ICS6       Puhkusel              DATE          
+ICS7       Vaba                  DATE          
+ICS8       Tagasi                TIME          
+ICS9       Muu põhjus            
+ICS10      vali *                
+IDL2      Suunatud->             
+IDL3      Suunatud->             
+IDL4      Ära sega aktiivne      
+IDL5      Väline suunamine       
+IDL6      Hõivatud               
+IDL7      Suunatud->             
+IDL8      Suunatud->             
+IDL9      Ära sega aktiivne      
+IDL10     Teade ootab!           
+IDL11     Teade ootab!           
+IDL13     Suunatud ISDN-le       
+IDL14     Hõivatud               
+IDL15     Profiil nr             
+MIS1      Aeg/kuup. seadmata!    
+MIS2      Ootel                  
+MIS4              Helina tüüp:   
+MIS6      DTMF-saatmine sees     
+MIS7      Süsteem hõivatud       
+MIS8      Väline suunamine       
+MIS9      Kõne jälituse keeld    
+MIS10     Kõne jälitus OK        
+MIS11     Salastatud             
+MIS12     Sisesta kasutuskood    
+MIS13     Sisesta PIN kood       
+MIS14     EUR                    
+MIS15     Sisesta ACD-PIN kood   
+MIS16     Teenuse täidetud       
+MIS17     Määra kõnekood         
+MIS18     Kõnekood vale!         
+MIS19     Maksuvaba              
+MIS20     Maksuinfo puudub       
+MIS21     Kõnelogi tühi          
+MIS22     Vastamata kõnesid:     
+MIS23     Logi lõpp              
+MIS24     Sisesta telefoni nr    
+MIS25     Vastamata              
+MIS26     Vastatud               
+MIS27     Valitud                
+MIS28     Helista tagasi         
+MIS29     Sisesta number:        
+MIS30     Saabum aeg. (hhmm):    
+MIS31     Saabum kuup.(ddmm):    
+MIS32     Saabum kuup.(mmdd):    
+MIS33     Sisesta välisnr :      
+MIS34     Nime pole              
+MON1      Jan                    
+MON2      Veb                    
+MON3      Mär                    
+MON4      Apr                    
+MON5      Mai                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Okt                    
+MON11     Nov                    
+MON12     Det                    
+NOP1      Aeg läbi               
+NOP2      Takistus               
+NOP3      Aeg läbi               
+NOP4      Aeg läbi               
+NOP5      Aeg läbi               
+NOP6      Takistus               
+NOP7      Keelatud               
+NOP8      Blokeeritud            
+NOP9      Nr ei ole kasutusel    
+NOP10     Operaator on eemal     
+NOP11     Kõne lõpp              
+NOP12     Toiming õnnestus       
+NOP13     Toiming ebaõnnestus    
+NOP14     Lühinr puudub          
+NOP15     Grupis pole vastajat   
+NOP16     Ei kuulu gruppi        
+NOP17     Järjekorra keeld       
+NOP18     Ootavad kõned puudu    
+NOP19     Otsitavat pole kohal   
+NOP20     Ebaõnnestus            
+NOP21     Keelatud               
+NOP22     Max nr. osavõtjaid     
+NOP23     Hoolduse testkõne      
+NOP24     Operaatori katkestus   
+NOP25     Vale formaat           
+NOP26     Operaator on eemal     
+NOP28     Teenust ei täidetud    
+NOP29     Teenus keelatud        
+NOP31     Ebaõnnestus            
+NOP33     Aeg läbi               
+NOP34     Suund hõivatud         
+NOP35     Hõivatud               
+NOP38     Blokeeritud            
+NOP40     Kõne lõpp              
+NOP41     Vale formaat           
+NOP42     Vale formaat           
+NOP43     Sobimatu abonent       
+NOP44     Keelatud               
+NOP46     Sisesta kasutuskood    
+NOP47     Vale PIN kood          
+NOP50     Hõivatud               
+NOP52     Lukustatud             
+NOP53     Avatud                 
+NOP54     Lukustus ei õnnestu    
+NOP55     Avamine ei õnnestu     
+NOP56     Ära sega               
+NOP57     Keelatud               
+NOP58     Liinid hõivatud        
+NOP59     Keelatud               
+NOP60     Hõivatud               
+NOP65     Jälitus lubatud        
+NOP66     Jälitus keelatud       
+NOP69     Hõivatud               
+NOP72     Keelatud               
+NOP74     Keelatud               
+NOP75     Teenust pole           
+NOP76     Teenust pole           
+NOP77     Juba avatud            
+NOP78     Puuduv osaleja         
+NOP79     Juba lukus             
+NOP89     Keelatud!              
+NOP93     Keelatud!              
+NOP99     Jaam blokis            
+PRK0      Liin 3 ootel           
+PRK1      Liin 2 ootel           
+PRK2      Liin 1 ootel           
+PRK3      Ootel                  
+PRK4      Liin 2 ootel           
+PRK5      Liin 1 ootel           
+REG5      Kasutuskood õige       
+REG7      Kasutuskood vale       
+REG10     PIN kood õige          
+REG14     Helistamispalve        
+REG15     Teade ootab            
+REG16     Teade ootab            
+REG17     Helistamispalve        
+REG18     Vali välisnumber       
+REG19     Suunatud välja         
+SKG0      Kasutus                
+SKG1      PIN                    
+SKG2      Tagasi                 
+SKG3      Helista                
+SKG4      Tagasihel              
+SKG5      CallPager              
+SKG6      Noppimine              
+SKG7      Koputus                
+SKG8      Kustuta                
+SKG9      Ootel Grupis           
+SKG10     Konverents             
+SKG11                            
+SKG12     Hinnainfo              
+SKG13     Kustuta                
+SKG14     Lisainfo               
+SKG15     Alla                   
+SKG16     ÄraSega                
+SKG17     Sisesta                
+SKG18     Välju                  
+SKG19     Otsi                   
+SKG20     Katkesta               
+SKG21     GrupiNopp.             
+SKG22     MenüüÄra               
+SKG23     Pealtkuulam.           
+SKG24     Lukusta                
+SKG25     LogiSisse              
+SKG26     LogiVälja              
+SKG27     veel...                
+SKG28     Järgmine               
+SKG29     Ava                    
+SKG30     Tel.Raamat             
+SKG31     Kvalifik.              
+SKG32     Järjekord              
+SKG33     Kordus                 
+SKG34     Tagasi                 
+SKG35     kuupäev                
+SKG36     Menüü                  
+SKG37     Taimer                 
+SKG38     Tühik                  
+SKG39     Start                  
+SKG40     Stopp                  
+SKG41     Taimer                 
+SKG42     Toonid                 
+SKG43     Jälitus                
+SKG44     Üles                   
+SKG45     Kõnelogi               
+SKG46     Kõnet                  
+SKG47     Vali                   
+SKG48     Program.               
+SKG49     Suuna kõne             
+SKG50     Konv/suun.             
+SKG51     LisaOsaleja            
+SKG52     Aktiveeri              
+SKG53     Deaktiveeri            
+SKG54     Eemalolek              
+SKG55     LõpetaSuun.            
+SKG56     äSegaMaha              
+SKG57     TäpsemInfo             
+SKG58     Tel seadist.           
+SKG59     Salvesta               
+SKG60     Jah                    
+SKG61     Ei                     
+SKG62     Jäta alles             
+SKG63     Suunamine              
+SKG64     Teade                  
+SKG65     Eel-suunamine          
+SKG66     Väline suun.           
+SKG67     Väline suun.           
+SKG68     Suuna                  
+SKG69     Ära sega               
+SKG70     Suunatud               
+SKG71     Suunatud               
+SKG72     Suunamine              
+SKG73     Postkast               
+SKG74     Vale parool            
+SKG75     Kellaaeg  (HHMM):      
+SKG76     Kellaaeg  (HHMM):      
+SKG77     Kuupäev (DDMM):        
+SKG78     Kuupäev (DDMM):        
+SKG79     Kuupäev (MMDD):        
+SKG80     Kuupäev (MMDD):        
+SKG81     Ei leitud              
+SKG82     Number :               
+SKG83     Number :               
+SKG84     Vale formaat           
+SKG85     Teenus tellitud        
+SKG86     Teenus tellitud        
+SKG87     Ebaõnnestus            
+SKG88     Ebaõnnestus            
+SKG89     Kuup-päev puudu        
+SKG90     Palu abi!              
+SKG91     Services               
+SKG92     Seadistamata           
+SKG93     Kasutaja:              
+SKG94     Parool:                
+SKG95     TempUser               
+SKG96     Ajutine Kasutaja       
+SKG97     Funktsioon pole saadaval!
+SKI0      Ava  Kasut  PIN  Aeg   
+SKI1      Sule Kasut  PIN  Aeg   
+SKI2      Järj             Aeg   
+SKI3      Järj Kop  Nopi Paral   
+SKI4      Toon Kasut Hind  Aeg   
+SKI5      Toon Kasut Konv  Aeg   
+SKI6      Kust. <--        OK    
+SKI7                     Vali    
+SKI8      Korda Kasut Nopi Aeg   
+SKI10                     Kop.   
+SKI11                     Hind   
+SKI12                    Kasut   
+SKI14     Sule Järj PIN  Kood    
+SKI15     Sule Järj  PIN  Aeg    
+SKI16     Toon Kasut Hind Kood   
+SKI17     Toon Kasut Konv Kood   
+SKI20     Ava  äSega PIN  Aeg    
+SKI21     Sule äSega PIN  Aeg    
+SKI23     Järj  Kop  Nopi Aeg    
+SKI24     Toon       Hind Aeg    
+SKI25     Toon       Konv Aeg    
+SKI28     KordaäSega Nopi Aeg    
+SKI30     Järgm Kust Vali Lõpp   
+SKI31     Järgm: +   Kustut: -   
+SKI32     Välja:C                
+SKI33     Tagasi: 1              
+SKI36     Toon Jälit Hind Kood   
+SKI37     Toon Jälit Konv Kood   
+SKI40     Kust Tühik Otsi Lõpp   
+SKI41     üles Alla  Vali Eelm   
+SKI42     Ava  Kasut PIN  Nimi   
+SKI43     Sule Kasut PIN  Nimi   
+SKI44     Kord Kasut Nopi Nimi   
+SKI45     Sule Järj  PIN  Nimi   
+SKI46     Ava  äSega PIN  Nimi   
+SKI47     Sule äSega PIN  Nimi   
+SKI48     KordaäSega Nopi Nimi   
+TIM1      Stop Nulli Kuup Lõpp   
+TIM2      Start Null Kuup Lõpp   
+TIM3      Stop Nulli Aeg Lõpp    
+TIM4      Start Null Aeg Lõpp    
+TOP0      Seadistamine           
+TOP1      Klahvide seadistus     
+TOP10     Telefoni seadistus     
+TOP11     Displei kontrastsus    
+TOP12     Helina seadistus       
+TOP13     FW staatus             
+TOP14     Kõrvaklapid            
+TOP15     Telefoni  test         
+TOP16     Lisaseadme conf.       
+TOP17     Helivaljuse reguleer   
+TOP20     Kõnelogi seadistus     
+TOP21     Kõnede logi            
+TOP22     Vastamata kõned        
+TOP23     Väljuvad kõned         
+TOP24     Sisenevad kõned        
+TOP40     Telefoniraamat         
+TOP41     Keskne telef.-raamat   
+TOP50     Teated                 
+TOP51     Teade ootab            
+TOP52     Kõnepost               
+VSU1      VSU Valmis             
+VSU2      Taasesitus             
+VSU3      Salvestus              
+VSU4      Ajakontroll            
+VSU5      Vale fromaat           
+VSU6      Keelatud!              
+VSU7      Teate aeg läbi         
+VSU8      Teade salvestamata     
+VSU9      VSU mälu täis          
+

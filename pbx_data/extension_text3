@@ -1,0 +1,129 @@
+
+Extension Text String
+
+Language: Español latino      
+Display   Display                Time          
+Option    String                 Format        
+BSY1      Ocup                   
+BSY2      Línea ocup             
+BSY3      No Aceptado            
+BSY4      No Aceptado            
+BSY5      No Aceptado            
+BSY6      LíneaOcupada           
+BSY9      No Aceptado            
+BSY11     No Aceptado            
+BSY14     Línea ocup             
+BSY19     No Aceptado            
+BSY20     NoAlcanzable           
+CAL1      Llamanencu             
+CAL2      No Aceptado            
+CAL3      Aceptado               
+CAL4      Aceptado               
+CAL5      BuscaPers.             
+CAL6      Llam en fila           
+CAL7      Llam en fila           
+CAL8      BuscaPers.             
+CAL9      Llaman                 
+CAL20     Llam en fila           
+CAL21     Llam en fila           
+CAL23     Llam en fila           
+CAL28     Aceptado               
+CAL34     Llamanencu             
+CNF1      Líder conf             
+CNF2      Miemb conf             
+CNF3      Conectado              
+DIV1      >                      
+DIV2      >                      
+DIV3      >                      
+DIV4      >                      
+DIV5      Capturad               
+DIV6      Llam grup              
+DIV7      >                      
+DIV10     >                      
+DIV11     >                      
+EXT1      Externa                
+EXT2      Corporati              
+ICS0      Almuer                 TIME          
+ICS1      En casa                DATE          
+ICS2      Asunt fue              TIME          
+ICS3      Reunión                TIME          
+ICS4      Viaje                  DATE          
+ICS5      Enfermed               TIME          
+ICS6      Tiem libr              DATE          
+ICS7      Clases                 DATE          
+ICS8      Ocup                   TIME          
+ICS9      Especial               
+IDL2      >                      
+IDL3      >                      
+IDL4      >                      
+IDL5      >                      
+IDL15     Perfil                 
+MIS6      EmisorTonAct           
+MIS7      Sist ocup              
+MIS8      >                      
+MIS9      No Aceptado            
+MIS10     Aceptado               
+MIS11     SR:                    
+MIS14     Costo en               
+MIS19     Sin costo              
+MON1      Ene                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Abr                    
+MON5      May                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Ago                    
+MON9      Sep                    
+MON10     Oct                    
+MON11     Nov                    
+MON12     Dic                    
+NOP1      Tiempo venc            
+NOP2      Congestión             
+NOP3      Tiempo venc            
+NOP4      Tiempo venc            
+NOP5      Tiempo venc            
+NOP6      Congestión             
+NOP7      No permitido           
+NOP9      Núm vacante            
+NOP11     Cuelgue                
+NOP12     Aceptado               
+NOP13     Falló                  
+NOP17     Congestión             
+NOP19     Ausente                
+NOP25     Forma equiv            
+NOP28     No aceptado            
+NOP31     No compatible          
+NOP33     Tiempo venc            
+NOP34     Congestión             
+NOP35     Ocupado                
+NOP38     Bloqueado              
+NOP40     Cuelgue                
+NOP41     Forma equiv            
+NOP42     Forma equiv            
+NOP43     NoCompatible           
+NOP44     No permitido           
+NOP50     Congestión             
+NOP56     No molestar            
+NOP59     No aceptado            
+NOP60     Ocup                   
+NOP66     No Aceptado            
+NOP69     Ocup                   
+NOP72     No aceptado            
+NOP74     No aceptado            
+NOP75     NoDisponible           
+NOP76     NoDisponible           
+NOP78     Ausente                
+NOP79     Ya bloqueada           
+PRK0      3 en espera            
+PRK1      2 en espera            
+PRK2      1 en espera            
+PRK3      OtroAparcado           
+PRK4      L2 en espera           
+PRK5      L1 en espera           
+REG14     MsgEnEspera            
+REG15     MsgEnEspera            
+REG16     MsgEnEspera            
+REG17     MsgEnEspera            
+REG19     Desviado               
+

@@ -1,0 +1,47 @@
+
+
+System Status
+=============
+
+2018-02-20 14:28:28
+
+
+Master Lim           :    1
+
+Lims In System       :    1 
+
+System Blocked Lims  :  -
+
+Manual Blocked Lims  :  -
+
+Fault Recovery Mode  :  System
+
+Current Start Order  :  No Order
+
+Start Order Time     :  -
+
+Pending Data Restore :  No
+
+
+Measure Queue                    Id                    
+----------------------------------------------
+No measure in queue
+
+
+
+Measure Execution History        Status               Start Time                    End Time                      Id 
+-----------------------------------------------------------------------------------------------------------------------------
+Unit Restart                     Successful           2018-02-15 19:40:34.389647    2018-02-15 19:40:35.990906    008  
+Unit Restart                     Successful           2018-02-15 19:39:58.236197    2018-02-15 19:39:59.919961    007  
+Data Dump                        Successful           2018-02-09 16:55:01.551041    2018-02-09 16:55:02.539694    006  
+Data Dump                        Successful           2018-02-05 19:18:47.010949    2018-02-05 19:18:48.031138    005  
+Data Dump                        Successful           2018-02-05 18:58:24.343566    2018-02-05 18:58:26.039973    004  
+Coordination Start               Successful           2018-02-05 18:58:22.432103    2018-02-05 18:58:24.050673    003  
+Load Of Added Unit               Successful           2018-02-05 18:58:18.858022    2018-02-05 18:58:20.538509    002  
+Data Reload                      Successful           2018-02-05 18:58:10.136840    2018-02-05 18:58:12.302544    001  
+Node Restart After Loading       Successful           2018-02-05 18:58:06.997456    2018-02-05 18:58:10.136307    000  
+
+
+
+END
+

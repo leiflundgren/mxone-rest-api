@@ -1,0 +1,415 @@
+
+Extension Text String
+
+Language: Română              
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Selectează Profil      
+ABS1      Deviere Directă la     
+ABS2      Urmează-Mă             
+ABS3      Motiv Absenţă          
+ABS4      Urmează-Mă Extern      
+ABS5      Nu Deranja             
+ABS6      Dev. pt nerăspuns la   
+ABS7      Dev. pt ocupat la      
+ABS8      Activ                  
+ABS9      Inactiv                
+ABS10     Fără profil            
+ABS11     Alegere                
+BSY1      Ocupat                 
+BSY2      Linie ocupată          
+BSY3      Reapelare nereuşită    
+BSY4      Apel aştept.nereuşit   
+BSY5      Intruziune nereuşită   
+BSY6      LinieIeftină ocupată   
+BSY9      Reapelare nereuşită    
+BSY11     Intruziune nereuşită   
+BSY14     Linie ocupată          
+BSY20     Nu e accesibil...      
+CAL1      Apel...                
+CAL2      Reapelare nereuşită!   
+CAL3      ApelAştept acceptat    
+CAL4      ApelAştept acceptat    
+CAL5      Paging în progres..    
+CAL6      Apel în aşteptare...   
+CAL7      Apel în aşteptare...   
+CAL8      Paging queued...       
+CAL9      Apel...                
+CAL10     Apel...                
+CAL20     Apel în aşteptare...   
+CAL21     Apel în aşteptare...   
+CAL23     Apel în aşteptare...   
+CAL28     ApelAştept acceptat    
+CAL34     Apel...                
+CNF1      LiderConf              
+CNF2      MembruConf             
+CNF3      Lider conferinţă       
+CNF4      Membru conferinţă      
+CNF5      Membrii                
+DIR1      Nici un rezultat       
+DIR2      Început de director    
+DIR3      Sfârşit de director    
+DIR4      Director gol!          
+DIV1       >Direct               
+DIV2       >Ocupat               
+DIV3       >NuRăspnd             
+DIV4       >UrmeazăMă            
+DIV5      Preluare               
+DIV6      ApelGrup               
+DIV7       >Extern               
+DIV10      Redirect              
+DIV11      Redirect              
+DIV12      Redirect              
+DIV13     Apel DNIS              
+EXT1      Extern                 
+EXT2      ReţeaTelMI             
+FCN0      Personal, Tip Son.:    
+FCN1      ADN    , Tip Son.:     
+FCN2      MDN     ,Tip Son.:     
+FCN3      Meniu                  
+FCN4      Tasta F1 sub display   
+FCN5      Tasta F2 sub display   
+FCN6      Taste,de la 1-20:      
+FCN8      Formează Ultm Nr Ext   
+FCN9      Tasta F3 sub display   
+FCN10     Tasta F4 sub display   
+FCN11     Răspuns automat        
+FCN12     Liber pe a 2-a linie   
+FCN13     Reapelare              
+FCN14     Deviere Totală         
+FCN16     Preluare apel          
+FCN17     Apel în aşteptare      
+FCN18     Conferinţă             
+FCN19     Intruziune             
+FCN20     Chemare                
+FCN21     Apeluri Nepreluate     
+FCN22     Mesaj în aşteptare     
+FCN23     Programare             
+FCN24     UrmărireApelInjurios   
+FCN26     Nu Deranja             
+FCN27     MesajAşteptareManual   
+FCN28     Timpul de lucru        
+FCN29     MNS, tip son.:         
+FCN30     Nr ptr date            
+FCN31     Date,cifrele 1-20:     
+FCN32     Mod local              
+FCN33     ReDirectare            
+FCN34     Transfer               
+FCN35     Profil Nr. Personal    
+FCN37     Transfer               
+FCN41     Număr Personal         
+ICS0       Prânz                 TIME          
+ICS1       Ocupat                DATE          
+ICS2       Plecat                TIME          
+ICS3       Şedinţă               TIME          
+ICS4       Deplasare             DATE          
+ICS5       Cursuri               TIME          
+ICS6       Liber                 DATE          
+ICS7       Zi liberă             DATE          
+ICS8       Invoit                TIME          
+ICS9       Bolnav                
+ICS10     Formează *             
+IDL2      DeviatLa               
+IDL3      UrmeazăMă              
+IDL4      Nu deranjaţi!          
+IDL5      Deviat Extern          
+IDL6      Linii Ocupate!         
+IDL7      DevDirectă             
+IDL8      Deviat pe Difuzor      
+IDL9      Nu deranja             
+IDL10     Mesaj în aşteptare!    
+IDL11     MesajAşteptareManual   
+IDL13     ReDirectat la ISDN     
+IDL14     Linii Ocupate          
+IDL15     Profil                 
+MIS1      Ora/Data nesetate!     
+MIS2      ÎnAştept..             
+MIS4               Tip Soner.:   
+MIS6      Mod DTMF               
+MIS7      Sistem ocupat!         
+MIS8      Deviat Extern          
+MIS9      UrmApel nereuşit!      
+MIS10     UrmApel reuşit!        
+MIS11     Anonim                 
+MIS12     Introduceţi contul!    
+MIS13     Codul de Autorizare!   
+MIS14     Costă !                
+MIS15     Codul PIN pt ACD!      
+MIS16     Cerere acceptată       
+MIS17     Codul CQ!              
+MIS18     Codul CQ incomplet!    
+MIS19     Netaxat                
+MIS20     Info Cost absent!      
+MIS21     Nu sunt apeluri        
+MIS22     Apeluri pierdute:      
+MIS23     Sfârşit listă          
+MIS24     Rog Nr. Freeseat!      
+MIS25     Pierdute               
+MIS26     De intrare             
+MIS27     De ieşire              
+MIS28     Faceţi un nou apel     
+MIS29     Numărul UrmeazăMă e:   
+MIS30     Revenire la (oomm):    
+MIS31     Revenire la (zzll):    
+MIS32     Revenire la (llzz):    
+MIS33     Formaţi Nr Extern :    
+MIS34     Fără nume              
+MIS35     Apel de urgenţă        
+MON1      Ian                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Apr                    
+MON5      Mai                    
+MON6      Iun                    
+MON7      Iul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Oct                    
+MON11     Nov                    
+MON12     Dec                    
+NOP1      A expirat timpul!      
+NOP2      Congestie!             
+NOP3      A expirat timpul!      
+NOP4      A expirat timpul!      
+NOP5      A expirat timpul!      
+NOP6      Congestie!             
+NOP7      Interzis!              
+NOP8      Linie blocată!         
+NOP9      Număr Vacant!          
+NOP10     OperAbsent/Noapte      
+NOP11     Deconectat             
+NOP12     Accepted               
+NOP13     Nereuşit!              
+NOP14     Neprogramat            
+NOP15     Membrii absenţi!       
+NOP16     Nu e în Grup!          
+NOP17     Congestie!             
+NOP18     Fără ApelAşteptare!    
+NOP19     Absent!                
+NOP20     ApelDifuzor respins    
+NOP21     Număr blocat!          
+NOP22     Centru Alarmă ocupat   
+NOP23     Faultman's ringback    
+NOP24     Operator deconectat    
+NOP25     Format greşit!         
+NOP26     OperAbsent/Noapte      
+NOP28     Neacceptat!            
+NOP29     În stare critică!      
+NOP31     Nu e compatibil!       
+NOP33     A expirat timpul!      
+NOP34     Congestie!             
+NOP35     Ocupat...              
+NOP38     Blocat!                
+NOP40     Deconectat             
+NOP41     Format greşit          
+NOP42     Format greşit          
+NOP43     Nu e compatibil!       
+NOP44     Nu e permis!           
+NOP46     IntroducCodAccess!     
+NOP47     CodAutorizare greşit   
+NOP50     Congestie!             
+NOP52     Extensie blocată!      
+NOP53     Extensie deblocată!    
+NOP54     Blocare nereuşită!     
+NOP55     Deblocare nereuşită    
+NOP56     Nu deranja!            
+NOP57     Neacceptat!            
+NOP58     Congestie!             
+NOP59     Neacceptat!            
+NOP60     Ocupat...              
+NOP65     Urmărire apel          
+NOP66     UrmărireApelNeaccept   
+NOP69     Ocupat...              
+NOP72     Neacceptat!            
+NOP74     Neacceptat!            
+NOP75     Neacceptat!            
+NOP76     MomentanIndisponibil   
+NOP77     Extensie deblocată     
+NOP78     Absent                 
+NOP79     Deja blocat!           
+NOP89     CONGESTIE-CAC!         
+NOP93     Nu este disponibil     
+PRK0      InqÎnAşteptare         
+PRK1      A2 în aşteptare        
+PRK2      A1 în aştept           
+PRK3      În aşteptare           
+PRK4      Linia 2 în aşteptare   
+PRK5      Linia 1 în aşteptare   
+REG5      Account code OK        
+REG7      Account code invalid   
+REG10     Authoriz. code OK      
+REG14     MesajÎnAşteptareMan.   
+REG15     MesajÎnAşteptare!      
+REG16     MesajÎnAşteptare!      
+REG17     MesajÎnAşteptareMan.   
+REG18     Cod Acces + Număr:     
+REG19     Deviere Externă        
+SKG0      Cont                   
+SKG1      Autoritate             
+SKG2      Revenire               
+SKG3      Apel                   
+SKG4      Reapelare              
+SKG5      ApelDifuzor            
+SKG6      PreluareApel           
+SKG7      ApelAştept..           
+SKG8      Reset                  
+SKG9      În aşteptare           
+SKG10     Conferinţă             
+SKG11     Conectare              
+SKG12     InfoCost               
+SKG13     Şterge                 
+SKG14     MaiMulteInfo           
+SKG15     Jos                    
+SKG16     NuDeranja              
+SKG17     Introduceţi            
+SKG18     IeşireMeniu            
+SKG19     Cauta                  
+SKG20     ElibForţat             
+SKG21     GrupPreluare           
+SKG22     AscundMenu             
+SKG23     Intruziune             
+SKG24     Blocat                 
+SKG25     Conectat               
+SKG26     Deconectat             
+SKG27     Opţiuni...             
+SKG28     Următorul              
+SKG29     Deschide               
+SKG30     AgendaTelef            
+SKG31     Calificare             
+SKG32     ÎnAşteptare            
+SKG33     ReapelUltimN           
+SKG34     Revenire               
+SKG35     AratăData              
+SKG36     AratăMeniu             
+SKG37     AratăCronom            
+SKG38     Spaţiu                 
+SKG39     Start                  
+SKG40     Stop                   
+SKG41     Cronometru             
+SKG42     Tonuri                 
+SKG43     UrmărireApel           
+SKG44     Sus                    
+SKG45     ListăApel              
+SKG46     ApelPierdut            
+SKG47     Selectează             
+SKG48     Programare             
+SKG49     Transfer               
+SKG50     Conf/Transf            
+SKG51     AdaugăMembru           
+SKG52     Activează              
+SKG53     DezActivează           
+SKG54     Absenţă                
+SKG55     FărăDeviere            
+SKG56     AnulezDND              
+SKG57     Detalii                
+SKG58     ConfigTelef            
+SKG59     Salvare                
+SKG60     Da                     
+SKG61     Nu                     
+SKG62     Păstrează              
+SKG63     Deviere                
+SKG64     Prezenţă               
+SKG65     Urmează-Mă             
+SKG66     Urmează-Mă Extern      
+SKG67     Urmează-MăExt          
+SKG68     Divert                 
+SKG69     Nu mă Deranja          
+SKG70     Divertat               
+SKG71     Divertat               
+SKG72     Diversie               
+SKG73     VoiceMail              
+SKG74     Parolă gresită         
+SKG75     Oră revenire(HHMM):    
+SKG76     Oră reven.HHMM)        
+SKG77     Dată rev.   (DDMM):    
+SKG78     Dată rev. (DDMM)       
+SKG79     Dată rev.   (MMDD):    
+SKG80     Dată rev. (MMDD)       
+SKG81     Negăsit                
+SKG82     Intro număr            
+SKG83     Intro număr            
+SKG84     Format gres.           
+SKG85     Serviciu cmdat.        
+SKG86     Serviciu cmdat.        
+SKG87     Eroare serv.           
+SKG88     Eroare serv.           
+SKG89     OrăDată fără format    
+SKG90     Contact. admin. sis.   
+SKG91     Servicii               
+SKG92     Telefon neconfigur.    
+SKG93     Util:                  
+SKG94     Parolă                 
+SKG95     Util.Temp.             
+SKG96     Utilizator temporar    
+SKG97     Feature is not available
+SKI0      Open AcCo AutCo  Ora   
+SKI1      Lock AcCo AutCo Ora    
+SKI2      RApel Page       Ora   
+SKI3      CBackCWait Pick Intr   
+SKI4      Tonuri AcCo Cost Ora   
+SKI5      Tonuri AcCo Conf Ora   
+SKI6      Clear Del      Enter   
+SKI7                 Formează    
+SKI8      RDial AcCo Pick Time   
+SKI10                    Conct   
+SKI11                     Cost   
+SKI12                     AcCo   
+SKI14     Lock Que  AutCo Qual   
+SKI15     Lock Que  AutCo Time   
+SKI16     Tones AcCo Cost Qual   
+SKI17     Tones AcCo Conf Qual   
+SKI20     Open DND  AutCo Time   
+SKI21     Lock DND  AutCo Time   
+SKI23     RApelCWait CUp Time    
+SKI24     Tonuri Mal Cost Time   
+SKI25     Tonuri Mal Conf Time   
+SKI28     RDial DND Pick Time    
+SKI30     Next Del  Call Exit    
+SKI31     Next:+      Delete:-   
+SKI32     Exit:C                 
+SKI33     Back:1                 
+SKI36     Tonuri Mal Cost Qual   
+SKI37     Tonuri Mal Conf Qual   
+SKI40     Del  SpaceFind  Exit   
+SKI41     Up   Down Call  Back   
+SKI42     Open AcCo AutCo Dir    
+SKI43     Lock AcCo AutCo Dir    
+SKI44     RApel AcCo Pick Dir    
+SKI45     Lock Que  AutCo Dir    
+SKI46     Open DND  AutCo Dir    
+SKI47     Lock DND  AutCo Dir    
+SKI48     RApel DND Pick  Dir    
+TIM1      Stop  Clr Date Exit    
+TIM2      Start Clr Date Exit    
+TIM3      Stop  Clr Time Exit    
+TIM4      Start Clr Time Exit    
+TOP0      Program                
+TOP1      Programare taste       
+TOP10     ConfigurareTelefon     
+TOP11     Contrast Display       
+TOP12     Programare Melodii     
+TOP13     Firmware BOGDAN D      
+TOP14     Setare Cască           
+TOP15     Test Local             
+TOP16     Setare Option Unit     
+TOP17     Nivel Audiţie          
+TOP20     Listă Apel             
+TOP21     Listă Apel             
+TOP22     Apeluri Pierdute       
+TOP23     Apeluri Externe        
+TOP24     Apeluri Primite        
+TOP40     AgendăTelefon          
+TOP41     Cartea de telefon      
+TOP50     Mesaje                 
+TOP51     Mesaj în aşteptare     
+TOP52     Voice mail:            
+VSU1      Pregătit!              
+VSU2      Ascultare...           
+VSU3      Înregistrare...        
+VSU4      Nu s-a format cifra!   
+VSU5      Greşit!                
+VSU6      Respins!               
+VSU7      Expirare mesaj	        
+VSU8      Mesaj neinregistrat    
+VSU9      Memorie plină!         
+

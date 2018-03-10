@@ -1,0 +1,194 @@
+#! /bin/bash
+# Printout in script format of Alarm Log configuration in LDAP
+# on host mxone.salby.se at 2018-02-20 14:28:28.431924 (CET)
+# Run this printout as a script to create an identical configuration
+#
+alarm_cfg -e
+#
+# LDAP query result: Success
+#
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 9 --alarm-severity 4
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 16 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 65 --alarm-severity 3
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 70 --alarm-severity 3
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 119 --alarm-severity 4
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 257 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 258 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 259 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 260 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 261 --alarm-severity 3
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 263 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 264 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 265 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 266 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 267 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 268 --alarm-severity 4
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 269 --alarm-severity 4
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 270 --alarm-severity 3
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 271 --alarm-severity 3
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 272 --alarm-severity 4
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 274 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 275 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 276 --alarm-severity 4
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 277 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 278 --alarm-severity 3
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 280 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 281 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 282 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 283 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 284 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 285 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 286 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 287 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 288 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 289 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 290 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 292 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 293 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 294 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 295 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 296 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 297 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 298 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 299 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 300 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 301 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 302 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 303 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 304 --alarm-severity 4
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 305 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 306 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 307 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 309 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 310 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 311 --alarm-severity 3
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 312 --alarm-severity 3
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 313 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 314 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 317 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 318 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 319 --alarm-severity 3
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 320 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 321 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 324 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 330 --alarm-severity 3
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 332 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 333 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 334 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 336 --alarm-severity 3
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 337 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 339 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 340 --alarm-severity 3
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 341 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 343 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 344 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 345 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 346 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 347 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 348 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 349 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 350 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 351 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 352 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 353 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 358 --alarm-severity 3
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 359 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 360 --alarm-severity 2
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 362 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 365 --alarm-severity 1
+alarm_cfg -i -K --alarm-domain 0 --alarm-code 366 --alarm-severity 2
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 9 --alarm-text "INVALID INPUT STATE AT CODED EXTERNAL INPUT GROUP"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 16 --alarm-text "DEVICE PROCESSOR SIGNALLING ERROR"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 65 --alarm-text "SYNCHRONIZATION FAULT IN LIM"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 70 --alarm-text "TOO MANY SIDE CHANGES IN THE GROUP SWITCH"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 119 --alarm-text "FAILURE TO LOG EVENT DATA"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 257 --alarm-text "TSU-BOARD FAULTY"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 258 --alarm-text "TRU-BOARD FAULTY"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 259 --alarm-text "FTU-BOARD FAULTY"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 260 --alarm-text "FAULT ON LINE TO INTERWORKING PABX OR PUBLIC EXCHANGE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 261 --alarm-text "NO CONNECTION WITH OPERATOR CONSOLE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 263 --alarm-text "MSU/MRU-BOARD FAULTY"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 264 --alarm-text "MSU-BOARD FAULTY"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 265 --alarm-text "MRU-BOARD FAULTY"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 266 --alarm-text "TSU/TRU-BOARD FAULTY"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 267 --alarm-text "MPU-BOARD FAULTY"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 268 --alarm-text "DIGITAL TRUNK OUT OF ORDER"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 269 --alarm-text "DIGITAL TRUNK, LOSS OF FRAME SYNCHRONIZATION"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 270 --alarm-text "DIGITAL TRUNK, BIT ERROR IN FRAME SYNCHRONIZATIION WORD"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 271 --alarm-text "DIGITAL TRUNK, RECEIVED ALARM FROM REMOTE END"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 272 --alarm-text "DIGITAL TRUNK, LOSS OF MULTIFRAME SYNCHRONIZATION"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 274 --alarm-text "DIGITAL TRUNK, CLOCK MALFUNCTION (SLIP)"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 275 --alarm-text "STATISTIC SUPERVISION, TOO SHORT SEIZURE OF TRUNK"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 276 --alarm-text "NO CONNECTION WITH PAGING EQUIPMENT"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 277 --alarm-text "SUPERVISION VALUE EXCEEDED FOR PAGING EQUIPMENT"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 278 --alarm-text "CIL DATA LOST FOR ONE OR MORE OUTPUT UNITS"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 280 --alarm-text "DIGITAL TRUNK, UNAUTHORIZED CHARGING PULSE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 281 --alarm-text "QUALITY ERROR IN INTERFACE TOWARDS ICS COMPUTER"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 282 --alarm-text "STATUS ERROR IN INTERFACE TOWARDS ICS COMPUTER"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 283 --alarm-text "CONGESTION VALUE FOR KR REACHED"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 284 --alarm-text "CONGESTION VALUE FOR TR REACHED"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 285 --alarm-text "CONGESTION VALUE FOR CS REACHED"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 286 --alarm-text "CONGESTION VALUE FOR CR REACHED"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 287 --alarm-text "CONGESTION SUPERVISION VALUE REACHED FOR PCM-LINE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 288 --alarm-text "CONGESTION VALUE FOR CONFERENCE REACHED"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 289 --alarm-text "CONGESTION VALUE FOR COMMON BELL REACHED"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 290 --alarm-text "CONGESTION VALUE FOR ROUTE REACHED"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 292 --alarm-text "TRAFFIC RECORDING DATA DUMP COULD NOT BE EXECUTED"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 293 --alarm-text "TRAFFIC RECORDING INTERNAL MEMORY DATA ERASED - MEMORY FULL"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 294 --alarm-text "TRAFFIC RECORDING INTERNAL MEMORY DATA ERASED - MIDNIGHT DUMP"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 295 --alarm-text "CALENDAR TIME ACTIVATION REQUEST DENIED"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 296 --alarm-text "CONGESTION VALUE FOR KS REACHED"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 297 --alarm-text "LOSS OF POWER (-60V)"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 298 --alarm-text "CHARACTER ERROR IN THE INTERFACE TO INF. COMPUTER SYSTEM"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 299 --alarm-text "DIGITAL TRUNK,WRONG PATTERN RECEIVED IN IDLE STATE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 300 --alarm-text "DIGITAL TRUNK,SEIZE ACKNOWLEDGE NOT RECEIVED"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 301 --alarm-text "DIGITAL TRUNK, WRONG PATTERN RECEIVED AFTER DISCONNECTION"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 302 --alarm-text "DIGITAL TRUNK, WRONG PATTERN RECEIVED IN REGISTER STATE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 303 --alarm-text "DATA LINK ALARM"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 304 --alarm-text "SIGNALLING EQUIPMENT FAULTY"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 305 --alarm-text "BLOCKED TRUNKLINE BY A MANUAL SWITCH ON THE BOARD"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 306 --alarm-text "INCOMMING CALL THE LINEPULSES ARE NOT IN RANGE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 307 --alarm-text "OUTGOING CALL THE LINEPULSES ARE NOT IN RANGE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 309 --alarm-text "DATA LINK ALARM - BIT ERROR IN BIT STREAM (CRC-4)"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 310 --alarm-text "DIGITAL TRUNK, EXCESSIVE BIPOLAR VIOLATION"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 311 --alarm-text "DIGITAL TRUNK, FAILED SIGNAL STATE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 312 --alarm-text "DIGITAL TRUNK, LOSS OF SIGNAL"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 313 --alarm-text "DIGITAL TRUNK, EXCESSIVE OUT OF FRAME"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 314 --alarm-text "DIGITAL TRUNK, BIT ERROR RATE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 317 --alarm-text "DIGITAL TRUNK, ERRORED SECONDS"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 318 --alarm-text "SEMIPERMANENT CONNECTION UNAVAILABLE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 319 --alarm-text "STATIC SEMIPERMANENT CONNECTION DISTURBANCE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 320 --alarm-text "TELEPHONY CALLS THROTTLED"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 321 --alarm-text "IP ADDRESS BLOCKED"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 324 --alarm-text "FAULTY TMU BOARD"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 330 --alarm-text "NO SIGNALLING LINK ACTIVE WITHIN SIGNALLING LINK SET"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 332 --alarm-text "EXCESSIVE DELAY OF ACKNOWLEDGEMENT MESSAGE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 333 --alarm-text "DIGITAL TRUNK GROUP, EXCESSIVE NUMBER OF BLOCKED LINES"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 334 --alarm-text "DIGITAL TRANSMISSION SYSTEM FAULTY"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 336 --alarm-text "LOST DATA FROM/TO INFORMATION COMPUTER SYSTEM"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 337 --alarm-text "DIGITAL TRUNK, CALL SET-UP MESSAGE RECEIVED FOR UNASSIGNED CIRCUIT"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 339 --alarm-text "QUALITY ERROR IN ANCD COMMUNICATION"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 340 --alarm-text "VCU BOARD FAULTY"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 341 --alarm-text "FAULTY VCU BOARD CONFIGURATION"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 343 --alarm-text "WRONG BOARD TYPE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 344 --alarm-text "CIL, FAULTY CONNECTION TO TCP PORT"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 345 --alarm-text "INFORMATION COMPUTER, FAULTY COMMUNICATION CHANNEL"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 346 --alarm-text "INFORMATION COMPUTER OUTPUT BUFFER OVERFLOW"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 347 --alarm-text "SYNCHRONIZATION FAULT FOR DECT FIXED PART"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 348 --alarm-text "SYNCHRONIZATION DISTURBANCE FOR DECT FIXED PART"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 349 --alarm-text "FAULTY RFP FOR DECT FIXED PART"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 350 --alarm-text "CSTA, FAULTY COMMUNICATION CHANNEL"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 351 --alarm-text "ACD MIS, FAULTY COMMUNICATION CHANNEL"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 352 --alarm-text "CIL, FILE ACCESS ERROR"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 353 --alarm-text "CONTINUITY CHECK FAILURE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 358 --alarm-text "SMS, FAULTY COMMUNICATION CHANNEL."
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 359 --alarm-text "FAULTY IP CONNECTION TO SATELLITE"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 360 --alarm-text "ROUTING SERVER, PNR TABLE HAS BEEN SPLIT"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 362 --alarm-text "DEVICE BOARD IS AT ALARM LEVEL 2."
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 365 --alarm-text "DEVICE FAULT"
+alarm_cfg -i -K  --alarm-domain 0 --alarm-code 366 --alarm-text "Inconsistency between defined ITYPE and active terminal"
+#
+alarm_cfg --reread
+#
+# end of printout in script format
+#

@@ -1,0 +1,18 @@
+
+  GS side 0 is ordered to use internal synchronization. 
+
+  Master clock controlling LIM              = Not defined
+  Reserve clock controlling LIM             = Not defined
+  Additional clock controlling LIM          = Not defined
+
+  Master gsm                                = Not defined
+  Spare master gsm                          = Not defined
+
+  Master clock controlling link             =  -
+  Spare master clock controlling link       =  -
+  Reserve clock controlling link            =  -
+  Spare reserve clock controlling link      =  -
+  Additional clock controlling link         =  -
+  Spare additional clock controlling link   =  -
+
+

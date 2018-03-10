@@ -1,0 +1,6 @@
+  TRAFFIC MEASUREMENT DATA
+STATE       PATH
+
+ACTIVE      /var/opt/eri_sn/traffic_recording/
+
+END

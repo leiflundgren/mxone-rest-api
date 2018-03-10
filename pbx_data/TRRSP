@@ -1,0 +1,8 @@
+  CONGESTION SUPERVISION DATA
+  ROUTE   SVAL(0/00)
+      1   1000
+     10   1000
+     66   1000
+     70   1000
+
+END

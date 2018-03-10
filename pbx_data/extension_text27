@@ -1,0 +1,412 @@
+
+Extension Text String
+
+Language: Dansk               
+Display   Display                Time          
+Option    String                 Format        
+ABS0      Vælg profil            
+ABS1      Direk viderest. til    
+ABS2      Medflytning            
+ABS3      Fraværsårsag           
+ABS4      Ekstern medflytning    
+ABS5      Forstyr ikke, DND      
+ABS6      Vid.v.int.sv.til       
+ABS7      Vid.v.optaget til      
+ABS8      Aktiv                  
+ABS9      Ikke aktiv             
+ABS10     Ingen profil           
+ABS11     Valg                   
+BSY1      Optaget                
+BSY2      Linie optaget          
+BSY3      Notering mislykket     
+BSY4      Banke-på mislykket     
+BSY5      Indbryd. mislykket     
+BSY6      Billigste rute opt.    
+BSY9      Notering mislykket     
+BSY11     Indbryd. mislykket     
+BSY14     Linie optaget          
+BSY20     Ej tilgængelig         
+CAL1      Ringer                 
+CAL2      Notering mislykket     
+CAL3      Banke-på udført        
+CAL4      Banke-på udført        
+CAL5      Søgning i gang         
+CAL6      Opkald i kø            
+CAL7      Opkald i kø            
+CAL8      Søgning i kø           
+CAL9      Ringer                 
+CAL10     Ringer                 
+CAL20     Kald i kø              
+CAL21     Kald i kø              
+CAL23     Kald i kø              
+CAL28     Banke på udført        
+CAL34     Ringer                 
+CNF1      Konf.leder             
+CNF2      Konf.medl.             
+CNF3      Konferenceleder        
+CNF4      Konferencemedlem       
+CNF5      Medlemmer              
+DIR1      Ikke fundet            
+DIR2      Start på navneliste    
+DIR3      Slut på navneliste     
+DIR4      Tom navneliste         
+DIV1       >Direkte              
+DIV2       >Optaget              
+DIV3       >Ledig                
+DIV4       >Flyttet              
+DIV5       Svaret                
+DIV6       GrupKald              
+DIV7       >Flyttet              
+DIV10      Omdiriger             
+DIV11      Købesked              
+DIV12      Omdiriger             
+DIV13      DNIS-kald             
+EXT1      Bylinie                
+EXT2      Ekst.linie             
+FCN0      Egen linie             
+FCN1      Ekstra linie           
+FCN2      Multi-linie            
+FCN3      Menu                   
+FCN4      Funktionstast F1       
+FCN5      Funktionstast F2       
+FCN6      Fri til eget brug      
+FCN8      Gem eksternt nummer    
+FCN9      Funktionstast F3       
+FCN10     Funktionstast F4       
+FCN11     Automatisk svar        
+FCN12     Ledig linie-2          
+FCN13     Notering               
+FCN14     Viderest. alle opk.    
+FCN16     Gruppesvar/parkering   
+FCN17     Banke på               
+FCN18     Konference             
+FCN19     Indbrydning            
+FCN20     Personsøger            
+FCN21     Nummerliste            
+FCN22     Meddelelse venter      
+FCN23     Programmering          
+FCN24     Sporing                
+FCN26     Vil ikke forstyrres    
+FCN27     Man. medd. venter      
+FCN28     Klarmeld.tidstast      
+FCN29     MNS linie              
+FCN30     Datalinie              
+FCN31     Fri til data-nr.       
+FCN32     Programmering          
+FCN33     Omdirigering           
+FCN34     Transport              
+FCN35     Personlig nr.profil    
+FCN37     Transport              
+FCN41     Personligt nummer      
+ICS0       Frokost               TIME          
+ICS1       GåetHjem              DATE          
+ICS2       Tj.Anlig.             TIME          
+ICS3       Møde                  TIME          
+ICS4       Rejse                 DATE          
+ICS5       Syg                   TIME          
+ICS6       Fri                   DATE          
+ICS7       Kursus                DATE          
+ICS8       Optaget               TIME          
+ICS9       Special               
+ICS10      * kald                
+IDL2      Viderestil             
+IDL3      Flyt. til              
+IDL4      Forstyr ikke           
+IDL5      Flyttet ekst.          
+IDL6      Optaget                
+IDL7      BskMedfly              
+IDL8      Viderestil personsøg   
+IDL9      Forstyr ikke           
+IDL10     Meddelelse venter      
+IDL11     Man. medd. venter      
+IDL13     Omdirigeret            
+IDL14     Alle linier optaget    
+IDL15     Profil                 
+MIS1      Dato/tid ikke sat      
+MIS2      Parkere                
+MIS4      RingType               
+MIS6      Tonesignallering       
+MIS7      System optaget         
+MIS8      Viderest. til ekst.    
+MIS9      Sporing mislykket      
+MIS10     Sporing udført         
+MIS11     Hem. A-nr.             
+MIS12     Indtast kontonummer    
+MIS13     Indtast aut.kode       
+MIS14     Pris                   
+MIS15     Indtast pinkode        
+MIS16     Ordre udført           
+MIS17     Indtast cq-kode        
+MIS18     Tast flere cifre       
+MIS19     Gratis opkald          
+MIS20     Ingen debit-info       
+MIS21     Ingen loggede numre    
+MIS22     Nye mistede opkald     
+MIS23     Slut på nummerliste    
+MIS24     Tast Freeseat. num     
+MIS25     Ubesvaret              
+MIS26     Indkommende            
+MIS27     Udgående               
+MIS28     Nyt opkald             
+MIS29     Tast Medflyt.nummer:   
+MIS30     Tilbagetid (ttmm):     
+MIS31     Tilbagedato (ddmm):    
+MIS32     Tilbagedato (mmdd):    
+MIS33     Tast eksternt nr.:     
+MIS35     Nød opkald             
+MON1      Jan                    
+MON2      Feb                    
+MON3      Mar                    
+MON4      Apr                    
+MON5      Maj                    
+MON6      Jun                    
+MON7      Jul                    
+MON8      Aug                    
+MON9      Sep                    
+MON10     Okt                    
+MON11     Nov                    
+MON12     Dec                    
+NOP1      Time-out               
+NOP2      Midlertidig fejl       
+NOP3      Time-out               
+NOP4      Time-out               
+NOP5      Time-out               
+NOP6      Ekst.linier optaget    
+NOP7      Kaldt nr.-ej tilladt   
+NOP8      Nr. blokeret           
+NOP9      Nr. eksisterer ikke    
+NOP10     OB lukket              
+NOP11     Lagt på                
+NOP12     Udført                 
+NOP13     Afvist                 
+NOP14     Kortnr. findes ikke    
+NOP15     Datagruppe optaget     
+NOP16     Ikke medl. af gruppe   
+NOP17     Ingen ledig kø-post    
+NOP18     Ingen ventende kald    
+NOP19     Personsøger slukket    
+NOP20     Søgning ej udført      
+NOP21     Kaldt nr. ej tilladt   
+NOP22     Alarmnr. optaget       
+NOP23     Faultmans tilb.kald    
+NOP24     OB nedkoblet           
+NOP25     Procedurefejl          
+NOP26     OB lukket              
+NOP28     Afvist                 
+NOP29     Central nødkoblet      
+NOP31     Ikke kompatibelt       
+NOP33     Time-out               
+NOP34     Ekst. linier optaget   
+NOP35     Optaget                
+NOP38     Lokalnr. lukket        
+NOP40     Ekst. linie lagt på    
+NOP41     Forkert format         
+NOP42     Forkert format         
+NOP43     Datakald               
+NOP44     Ordre ikke tilladt     
+NOP46     Kode godkendt          
+NOP47     Kode ej godkendt       
+NOP50     Afvist - kø er fuld    
+NOP52     Lokalnr. låst          
+NOP53     Lokalnr. åbent         
+NOP54     Lokalnr. ej låst       
+NOP55     Lokalnr. ej åbent      
+NOP56     Vil ikke forstyrres    
+NOP57     Ordre afvist           
+NOP58     Flyt.ekst. lin. opt.   
+NOP59     Spærret pga kategori   
+NOP60     Flyt. ekst.nr. opt.    
+NOP65     Sporing udført         
+NOP66     Sporing mislykket      
+NOP69     Telefon optaget        
+NOP72     Spærret pga kategori   
+NOP74     Tjeneste ikke udført   
+NOP75     Tjeneste ej tilladt    
+NOP76     Tjeneste optaget       
+NOP77     App. er låst           
+NOP78     Medlem fraværende      
+NOP79     Allerede låst          
+PRK0      L3 parkeret            
+PRK1      L2 parkeret            
+PRK2      L1 parkeret            
+PRK3      L1 parkeret            
+PRK4      Linje 2 parkeret       
+PRK5      Linje 1 parkeret       
+REG5      Kode godkendt          
+REG7      Kode ej godkendt       
+REG10     Kode godkendt          
+REG14     Manuel besked venter   
+REG15     Meddelelse venter      
+REG16     Meddelelse venter      
+REG17     Manuel besked venter   
+REG18     Tast ekst.medfl.nr.    
+REG19     Ekst. viderst. aktiv   
+SKG0      Konto                  
+SKG1      Autorisation           
+SKG2      Tilbage                
+SKG3      Opkald                 
+SKG4      Tilbagekald            
+SKG5      Personsøgn.            
+SKG6      TrækInd                
+SKG7      BankePå                
+SKG8      Ryd                    
+SKG9      FællesPark             
+SKG10     Konference             
+SKG11     Forbind                
+SKG12     PrisInfo               
+SKG13     Slet                   
+SKG14     MereInfo               
+SKG15     Ned                    
+SKG16     ForstyrIkke            
+SKG17     Tast                   
+SKG18     Afslut                 
+SKG19     Søg                    
+SKG20     TvingFrigiv            
+SKG21     GrpTrkInd              
+SKG22     SkjulMenu              
+SKG23     BrydInd                
+SKG24     Lås                    
+SKG25     LogPå                  
+SKG26     LogAf                  
+SKG27     mere                   
+SKG28     Næste                  
+SKG29     Åbn                    
+SKG30     Telefonbog             
+SKG31     Kvalificer             
+SKG32     Kø                     
+SKG33     Genopkald              
+SKG34     Tilbage                
+SKG35     VisDato                
+SKG36     VisMenu                
+SKG37     VisTimer               
+SKG38     Mellemrum              
+SKG39     Start                  
+SKG40     Stop                   
+SKG41     Timer                  
+SKG42     Toner                  
+SKG43     SporChikane            
+SKG44     Op                     
+SKG45     Opk.liste              
+SKG46     Mistede                
+SKG47     Vælg                   
+SKG48     Programmer             
+SKG49     Transport              
+SKG50     Konf/Trans             
+SKG51     TilføjMedlem           
+SKG52     Aktiver                
+SKG53     Deaktiver              
+SKG54     Fravær                 
+SKG55     IngViderest.           
+SKG56     AnnulDND               
+SKG57     Detaljer               
+SKG58     Telefonsæt             
+SKG59     Spare                  
+SKG60     Ja                     
+SKG61     Nej                    
+SKG62     Beholde                
+SKG63     Videresti.             
+SKG64     Tilstedeværelse        
+SKG65     Medflytting            
+SKG66     Ekstern medflytting    
+SKG67     Eks. medflytning       
+SKG68     Viderestil             
+SKG69     Forstyr ikke           
+SKG70     Viderestillet          
+SKG71     Viderestillet          
+SKG72     Viderestilling         
+SKG73     Telefonsvarer          
+SKG74     Forkert kode           
+SKG75     Tilbagetid (ttmm):     
+SKG76     Tilb.tid (ttmm):       
+SKG77     Tilbagedato (ddmm):    
+SKG78     Tilb.dat (ddmm):       
+SKG79     Tilbagedato (mmdd):    
+SKG80     Tilb.dat (mmdd):       
+SKG81     Ikke fundet            
+SKG82     Indtast nummer         
+SKG83     Indtast nummer         
+SKG84     Procedurefejl          
+SKG85     Service bestilt        
+SKG86     Service bestilt        
+SKG87     Service fejlede        
+SKG88     Service fejlede        
+SKG89     Ingen tid/dato form.   
+SKG90     Kontakt systemadmin.   
+SKG91     Tjenester              
+SKG92     Reset telefon          
+SKG93     Bruger:                
+SKG94     Adgangskode            
+SKG95     MidlBruger             
+SKG96     Midlertidig bruger     
+SKG97     Funktion ikke tilg.!   
+SKI0      Åbn  KkodeAutKo Tid    
+SKI1      Lås  KkodeAutKo Tid    
+SKI2      Not   Søg       Tid    
+SKI3      Not   Bkp Svar Indbr   
+SKI4      TonerKKode Pris Tid    
+SKI5      TonerKKode Konf Tid    
+SKI6      Ryd  Slet      Godk    
+SKI7                     Sekr    
+SKI8      GOpk KKode Svar Tid    
+SKI10                     Not    
+SKI11                    Pris    
+SKI12                    KKode   
+SKI14     Lås   Kø  AutKo Kval   
+SKI15     Lås   Kø  AutKo Tid    
+SKI16     TonerKKode Pris Kval   
+SKI17     TonerKKode Konf Kval   
+SKI20     Åbn   DND AutKo Tid    
+SKI21     Lås   DND AutKo Tid    
+SKI23     Not   Bkp SøGr  Tid    
+SKI24     Toner Spor Pris Tid    
+SKI25     Toner Spor Konf Tid    
+SKI28     GOpk  DND Svar  Tid    
+SKI30     Næste Slet Ring Menu   
+SKI31     Næste:+   Slet:-       
+SKI32     Afslut:C               
+SKI33     Tilbage:1              
+SKI36     Toner Spor Pris Kval   
+SKI37     Toner Spor Konf Kval   
+SKI40     Slet   ML  Søg  Menu   
+SKI41      Op   Ned Ring Retur   
+SKI42     Åbn  KKodeAutKo Navn   
+SKI43     Lås  KKodeAutKo Navn   
+SKI44     GOpk KKode Svar Navn   
+SKI45     Lås   Kø  AutKo Navn   
+SKI46     Åbn   DND AutKo Navn   
+SKI47     Lås   DND AutKo Navn   
+SKI48     GOpk  DND Svar Navn    
+TIM1      Stop  Ryd Dato Menu    
+TIM2      Start Ryd Dato Menu    
+TIM3      Stop  Ryd  Tid Menu    
+TIM4      Start Ryd  Tid Menu    
+TOP0      Program.               
+TOP1      Programmer taster      
+TOP10     TeleSæt                
+TOP11     Vis kontrast           
+TOP12     Program. af melodi     
+TOP13     Firmware-angivelse     
+TOP14     Headset Preset         
+TOP15     Lokal testtilstand     
+TOP16     Indstil. tilb.sæt      
+TOP17     Indst. styrke i sæt    
+TOP20     OpkList                
+TOP21     Opkaldsliste           
+TOP22     Ubesvarede opkald      
+TOP23     Udgående opkald        
+TOP24     Indkommende opkald     
+TOP40     TeleBog                
+TOP41     Centralt katalog       
+TOP50     Medd.                  
+TOP51     Meddelelse venter      
+TOP52     Telefonsvarer          
+VSU1      VSU klar               
+VSU2      Afspiller              
+VSU3      Optagelse startet      
+VSU4      Ciffer time-out        
+VSU5      Forkert format         
+VSU6      Procedure afvist       
+VSU7      Besked time-out        
+VSU8      Besked ikke optaget    
+VSU9      VSU memory fuld        
+
