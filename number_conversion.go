@@ -50,7 +50,7 @@ const (
 
 // ReadFromFile Allows reading from a PC-Regen file or other data dump
 func (numberConversion *NumberConversionEntry) ReadFromFile() []NumberConversionEntry {
-	byteArray, err := ioutil.ReadFile("number_conversion_print")
+	byteArray, err := ioutil.ReadFile("pbx_data/number_conversion_print")
 	if err != nil {
 		log.Fatal(err)
 	}
