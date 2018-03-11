@@ -1,13 +1,8 @@
 package main
 
-import (
-	"encoding/json"
-	"fmt"
-)
-
 func main() {
-	// asd := NumberConversionEntry{}
-	// lol := asd.ReadFromFile()
+	asd := NumberConversionEntry{}
+	asd.ReadFromFile()
 
 	// brap, err := json.MarshalIndent(lol, "", "    ")
 	// if err != nil {
@@ -16,12 +11,12 @@ func main() {
 
 	// fmt.Println(string(brap))
 
-	asd := AcdGroupCallData{}
+	// asd := AcdGroupCallData{}
 
-	brap, err := json.MarshalIndent(asd.ReadFromFile(), "", "    ")
-	if err != nil {
-		fmt.Println(err)
-	}
+	// brap, err := json.MarshalIndent(asd.ReadFromFile(), "", "    ")
+	// if err != nil {
+	// 	fmt.Println(err)
+	// }
 
-	fmt.Println(string(brap))
+	// fmt.Println(string(brap))
 }

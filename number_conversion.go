@@ -72,7 +72,6 @@ func (numberConversion *NumberConversionEntry) parse(byteArray []byte) []NumberC
 			continue
 		}
 
-		fmt.Println(scanner.Text())
 		runes := []rune(scanner.Text())
 		runesLength := len(runes)
 
