@@ -1,23 +1,23 @@
 package main
 
 import (
-	"bufio"
-	"bytes"
-	"fmt"
 	"io/ioutil"
 	"log"
-	"os/exec"
-	"strings"
 )
 
 // NumberConversionEntry is used for printing data from the number conversion and bearer Capability and High-Level Compatibility substitution tables.
 type NumberConversionEntry struct {
-	ConversionType    string `json:"conversionType"`
 	Entry             string `json:"entry"`
+	ConversionType    string `json:"conversionType"`
 	NumberType        string `json:"numberType"`
-	Pre               string `json:"pre"`
-	Route             string `json:"route"`
 	TargetDestination string `json:"targetDestination"`
+	Route             string `json:"route"`
+	Pre               string `json:"pre"`
+	Trc               string `json:"trc"`
+	NewTyp            string `json:"newTyp"`
+	Cont              string `json:"const"`
+	Bcap              string `json:"bcap"`
+	Hlc               string `json:"hlc"`
 }
 
 // Conversion Type
@@ -51,7 +51,7 @@ const (
 func (numberConversion *NumberConversionEntry) ReadFromFile() []NumberConversionEntry {
 	byteArray, err := ioutil.ReadFile("pbx_data/number_conversion_print")
 	if err != nil {
-		log.Fatal(err)
+		log.Println(err)
 	}
 
 	return numberConversion.parse(byteArray)
@@ -63,34 +63,21 @@ func (numberConversion *NumberConversionEntry) parse(data []byte) []NumberConver
 	values := getColumnValues(string(data), 2)
 	for _, v := range values {
 		numberConv := NumberConversionEntry{
-			Entry: string(v[0]),
+			Entry:             string(v[0]),
+			ConversionType:    string(v[1]),
+			NumberType:        string(v[2]),
+			TargetDestination: string(v[3]),
+			Route:             string(v[4]),
+			Pre:               string(v[5]),
+			Trc:               string(v[6]),
+			NewTyp:            string(v[7]),
+			Cont:              string(v[8]),
+			Bcap:              string(v[9]),
+			Hlc:               string(v[10]),
 		}
 
 		result = append(result, numberConv)
 	}
 
 	return result
-}
-
-func (numberConversion *NumberConversionEntry) execAndParse() {
-	cmd := exec.Command("number_conversion_print")
-
-	var bytesResult bytes.Buffer
-	cmd.Stdout = &bytesResult
-
-	if cmd.Run() != nil {
-		log.Fatal("Nu gick något åt helvete")
-	}
-
-	fmt.Println(bytesResult.String())
-	scanner := bufio.NewScanner(strings.NewReader(bytesResult.String()))
-	for scanner.Scan() {
-		runes := []rune(scanner.Text())
-		fmt.Println(string(runes[0:21]))
-
-	}
-
-	if err := scanner.Err(); err != nil {
-		log.Fatal("Fan också")
-	}
 }
