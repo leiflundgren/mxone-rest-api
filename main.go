@@ -10,8 +10,8 @@ func main() {
 	brap, _ := json.MarshalIndent(asd.ReadFromFile(), "", "    ")
 	fmt.Println(string(brap))
 
-	qwe := NumberConversionEntry{}
-	brap, _ = json.MarshalIndent(qwe.ReadFromFile(), "", "    ")
+	// qwe := NumberConversionEntry{}
+	// brap, _ = json.MarshalIndent(qwe.ReadFromFile(), "", "    ")
 
-	fmt.Println(string(brap))
+	// fmt.Println(string(brap))
 }
