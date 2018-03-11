@@ -25,7 +25,6 @@ func CreateNewAcdGroupServ(data string) AcdGroupServ {
 
 	runes := []rune(data)
 
-	result.DirectIndialingTraffic = false
 	if string(runes[0:1]) == "1" {
 		result.DirectIndialingTraffic = true
 	}

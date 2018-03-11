@@ -116,6 +116,7 @@ func (acdGroup *AcdGroupCallData) parse(byteArray []byte) []AcdGroupCallData {
 
 		queStruct := CreateNewAcdGroupQue(que)
 		servStruct := CreateNewAcdGroupServ(serv)
+		selStruct := CreateNewAcdGroupSel(sel)
 
 		acdGroupEntry := AcdGroupCallData{
 			Group:   grp,
@@ -124,6 +125,7 @@ func (acdGroup *AcdGroupCallData) parse(byteArray []byte) []AcdGroupCallData {
 			Serv:    servStruct,
 			Traf:    traf,
 			selRaw:  sel,
+			Sel:     selStruct,
 			queRaw:  que,
 			Que:     queStruct,
 			Cust:    cust,
