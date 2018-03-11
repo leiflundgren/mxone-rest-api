@@ -6,12 +6,17 @@ import (
 )
 
 func main() {
-	asd := RouteCategoryData{}
-	brap, _ := json.MarshalIndent(asd.ReadFromFile(), "", "    ")
-	fmt.Println(string(brap))
+	// asd := RouteCategoryData{}
+	// brap, _ := json.MarshalIndent(asd.ReadFromFile(), "", "    ")
+	// fmt.Println(string(brap))
 
 	// qwe := NumberConversionEntry{}
 	// brap, _ = json.MarshalIndent(qwe.ReadFromFile(), "", "    ")
 
 	// fmt.Println(string(brap))
+
+	asd := routeCategoryData{}
+	brap, _ := json.MarshalIndent(asd.ReadFromFile(), "", "    ")
+
+	fmt.Println(string(brap))
 }
