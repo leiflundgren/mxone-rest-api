@@ -1,22 +1,17 @@
 package main
 
+import (
+	"encoding/json"
+	"fmt"
+)
+
 func main() {
-	asd := NumberConversionEntry{}
-	asd.ReadFromFile()
+	asd := RouteCategoryData{}
+	brap, _ := json.MarshalIndent(asd.ReadFromFile(), "", "    ")
+	fmt.Println(string(brap))
 
-	// brap, err := json.MarshalIndent(lol, "", "    ")
-	// if err != nil {
-	// 	fmt.Println(err)
-	// }
+	qwe := NumberConversionEntry{}
+	brap, _ = json.MarshalIndent(qwe.ReadFromFile(), "", "    ")
 
-	// fmt.Println(string(brap))
-
-	// asd := AcdGroupCallData{}
-
-	// brap, err := json.MarshalIndent(asd.ReadFromFile(), "", "    ")
-	// if err != nil {
-	// 	fmt.Println(err)
-	// }
-
-	// fmt.Println(string(brap))
+	fmt.Println(string(brap))
 }

@@ -7,17 +7,16 @@ import (
 	"io/ioutil"
 	"log"
 	"os/exec"
-	"strconv"
 	"strings"
 )
 
 // NumberConversionEntry is used for printing data from the number conversion and bearer Capability and High-Level Compatibility substitution tables.
 type NumberConversionEntry struct {
-	ConversionType    int    `json:"conversionType"`
+	ConversionType    string `json:"conversionType"`
 	Entry             string `json:"entry"`
-	NumberType        int    `json:"numberType"`
+	NumberType        string `json:"numberType"`
 	Pre               string `json:"pre"`
-	Route             int    `json:"route"`
+	Route             string `json:"route"`
 	TargetDestination string `json:"targetDestination"`
 }
 
@@ -58,74 +57,16 @@ func (numberConversion *NumberConversionEntry) ReadFromFile() []NumberConversion
 	return numberConversion.parse(byteArray)
 }
 
-func (numberConversion *NumberConversionEntry) parse(byteArray []byte) []NumberConversionEntry {
-	var tempVar string
-	var linesToSkip = 2
-	var skippedLines = 0
+func (numberConversion *NumberConversionEntry) parse(data []byte) []NumberConversionEntry {
 	var result []NumberConversionEntry
 
-	scanner := bufio.NewScanner(strings.NewReader(string(byteArray)))
-	for scanner.Scan() {
-		// Skipping the table header
-		if skippedLines <= linesToSkip {
-			skippedLines++
-			continue
+	values := getColumnValues(string(data), 2)
+	for _, v := range values {
+		numberConv := NumberConversionEntry{
+			Entry: string(v[0]),
 		}
 
-		runes := []rune(scanner.Text())
-		runesLength := len(runes)
-
-		var entry string
-		if runesLength >= 20 {
-			entry = string(runes[0:20])
-			entry = strings.TrimSpace(entry)
-		}
-
-		var conversionType int
-		if runesLength >= 22 {
-			tempVar = string(runes[21:22])
-			tempVar = strings.TrimSpace(tempVar)
-
-			conversionType, _ = strconv.Atoi(tempVar)
-		}
-
-		var numberType int
-		if runesLength >= 29 {
-			tempVar = string(runes[28:29])
-			tempVar = strings.TrimSpace(tempVar)
-
-			numberType, _ = strconv.Atoi(tempVar)
-		}
-
-		var route int
-		if runesLength >= 36 {
-			tempVar = string(runes[35:39])
-			tempVar = strings.TrimSpace(tempVar)
-
-			route, _ = strconv.Atoi(tempVar)
-		}
-
-		var targetDestination string
-		if runesLength >= 40 {
-			targetDestination = string(runes[39:47])
-			targetDestination = strings.TrimSpace(targetDestination)
-		}
-
-		var pre string
-		if runesLength >= 48 {
-			pre = string(runes[47:68])
-			pre = strings.TrimSpace(pre)
-		}
-
-		numberConversionEntry := NumberConversionEntry{}
-		numberConversionEntry.ConversionType = conversionType
-		numberConversionEntry.Entry = entry
-		numberConversionEntry.Pre = pre
-		numberConversionEntry.TargetDestination = targetDestination
-		numberConversionEntry.Route = route
-		numberConversionEntry.NumberType = numberType
-
-		result = append(result, numberConversionEntry)
+		result = append(result, numberConv)
 	}
 
 	return result
