@@ -19,3 +19,53 @@ type AcdGroupServ struct {
 	ExtensionAutomaticExtendingPermittedForQueuedCalls    bool `json:"extensionAutomaticExtendingPermittedForQueuedCalls"`
 	ExtensionAutomaticExtendingRequiredForQueuedCalls     bool `json:"extensionAutomaticExtendingRequiredForQueuedCalls"`
 }
+
+func CreateNewAcdGroupServ(data string) AcdGroupServ {
+	var result AcdGroupServ
+
+	runes := []rune(data)
+
+	result.DirectIndialingTraffic = false
+	if string(runes[0:1]) == "1" {
+		result.DirectIndialingTraffic = true
+	}
+
+	var didSwissCharacteristics = string(runes[1:2])
+	if didSwissCharacteristics == "0" {
+		result.ASubscriberWillNotBeChargedAndNoANumberRequested = true
+	} else if didSwissCharacteristics == "1" {
+		result.ASubscriberWillBeChargedAtAnswer = true
+	} else if didSwissCharacteristics == "2" {
+		result.ANumberInformationIsRequestedToBeDisplayedAtTheBParty = true
+	}
+
+	var musicOnWait = string(runes[2:3])
+	if musicOnWait == "1" {
+		result.MusicOnWait = true
+	} else if musicOnWait == "2" {
+		result.MusicOnWaitOnlyForRecordedAnnouncement = true
+	} else if musicOnWait == "3" {
+		result.MusicOnWaitOnlyForCallsThatReenterQueue = true
+	}
+
+	var ctiGroup = string(runes[3:4])
+	if ctiGroup == "1" {
+		result.CTIGroupDisplaySelectedMember = true
+	} else if ctiGroup == "2" {
+		result.CTIGroupDisplayGroupName = true
+	}
+
+	var collectCallCategory = string(runes[4:5])
+	if collectCallCategory == "1" {
+		result.AllowCollectCall = true
+	}
+
+	var automaticExtendingForExtensionGroupQueues = string(runes[5:6])
+	if automaticExtendingForExtensionGroupQueues == "1" {
+		result.ExtensionAutomaticExtendingPermittedForQueuedCalls = true
+	} else if automaticExtendingForExtensionGroupQueues == "2" {
+		result.ExtensionAutomaticExtendingRequiredForQueuedCalls = true
+	}
+
+	return result
+}

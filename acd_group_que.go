@@ -1,9 +1,5 @@
 package main
 
-import (
-	"fmt"
-)
-
 // AcdGroupQue - Queue handling
 type AcdGroupQue struct {
 	// Whether dynamic queue shall be used or not. At dynamic queue, the queue length will vary depending
@@ -33,8 +29,6 @@ func CreateNewAcdGroupQue(data string) AcdGroupQue {
 	var result AcdGroupQue
 
 	runes := []rune(data)
-
-	fmt.Println(data)
 
 	result.DynamicQueue = false
 	if string(runes[0:0]) == "1" {
